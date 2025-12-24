@@ -101,7 +101,7 @@ def save_results(df, output_path):
                 combined_df = combined_df.drop_duplicates(subset=['RISK_ID', 'TITLE', 'LINK'], keep='first')
             else:
                 combined_df = df
-            combined_df.sort_values(by='PUBLISHED_DATE', ascending=False, na_last=True).to_csv(
+            combined_df.sort_values(by='PUBLISHED_DATE', ascending=False).to_csv(
                 output_path, index=False, encoding='utf-8', quoting=csv.QUOTE_ALL
             )
         
@@ -179,8 +179,8 @@ def main():
     # gnews.io API setup
     api_key = os.getenv('GNEWS_API_KEY')
     if not api_key:
-        print("ERROR: GNEWS_API_KEY not set in environment!")
-        sys.exit(1)
+        print("WARNING: No GNEWS_API_KEY - skipping fetch")
+        articles_df = pd.DataFrame()
 
     base_url = "https://gnews.io/api/v4/search"
 
@@ -191,6 +191,7 @@ def main():
         risk_id = row[risk_id_col]
         search_term_id = row['SEARCH_TERM_ID']
         search_term = row['SEARCH_TERMS']
+        search_term = search_term.strip()  # remove trailing spaces
 
         print(f"Processing term {idx+1}/{len(valid_df)}: RISK_ID={risk_id}, TERM_ID={search_term_id} - '{search_term}'")
 
