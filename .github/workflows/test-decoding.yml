@@ -1,0 +1,20 @@
+name: Test Decoding
+
+on:
+  workflow_dispatch:  # manual trigger
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run enterprise decoding test
+        run: python news_sentiment_scraper.py --risk-type enterprise
+      - name: Run emerging decoding test
+        run: python news_sentiment_scraper.py --risk-type emerging
