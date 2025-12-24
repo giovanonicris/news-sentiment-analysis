@@ -117,11 +117,11 @@ def main():
     if risk_type == "enterprise":
         risk_id_col = "ENTERPRISE_RISK_ID"
         encoded_csv = "data/EnterpriseRisksListEncoded.csv"
-        output_csv = "output/enterprise_risks_online_sentiment.csv"
+        output_csv = "enterprise_risks_online_sentiment.csv"
     else:
         risk_id_col = "EMERGING_RISK_ID"
         encoded_csv = "data/EmergingRisksListEncoded.csv"
-        output_csv = "output/emerging_risks_online_sentiment.csv"
+        output_csv = "emerging_risks_online_sentiment.csv"
     
     print("#" * 50)
     start_time = dt.datetime.now()
