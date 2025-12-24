@@ -147,6 +147,12 @@ def main():
     # setup
     session = ScraperSession()
     analyzer = SentimentIntensityAnalyzer()
+    kw_model = KeyBERT()
+    
+    config = Config()
+    config.fetch_images = False
+    config.memoize_articles = False
+    config.request_timeout = 30
     
     output_path = setup_output_dir(output_csv)
     existing_links = load_existing_links(output_path)
@@ -180,85 +186,120 @@ def main():
     api_key = os.getenv('GNEWS_API_KEY')
     if not api_key:
         print("WARNING: No GNEWS_API_KEY - skipping fetch")
-        articles_df = pd.DataFrame()
+        articles_df = pd.DataFrame(columns=[
+            'RISK_ID', 'SEARCH_TERM_ID', 'GOOGLE_INDEX', 'TITLE', 'LINK', 'PUBLISHED_DATE',
+            'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE', 'QUALITY_SCORE'
+        ])
+    else:
+        base_url = "https://gnews.io/api/v4/search"
+        all_articles = []
 
-    base_url = "https://gnews.io/api/v4/search"
+        # fetch articles for each search term
+        for idx, row in valid_df.iterrows():
+            risk_id = row[risk_id_col]
+            search_term_id = row['SEARCH_TERM_ID']
+            search_term = row['SEARCH_TERMS'].strip()  # remove trailing spaces
 
-    all_articles = []
+            print(f"processing term {idx+1}/{len(valid_df)}: risk_id={risk_id}, term_id={search_term_id} - '{search_term}'")
 
-    # fetch articles for each search term
-    for idx, row in valid_df.iterrows():
-        risk_id = row[risk_id_col]
-        search_term_id = row['SEARCH_TERM_ID']
-        search_term = row['SEARCH_TERMS']
-        search_term = search_term.strip()  # remove trailing spaces
+            params = {
+                'q': search_term,
+                'lang': 'en',
+                'country': 'us',
+                'max': MAX_ARTICLES_PER_TERM,
+                'apikey': api_key
+            }
 
-        print(f"Processing term {idx+1}/{len(valid_df)}: RISK_ID={risk_id}, TERM_ID={search_term_id} - '{search_term}'")
-
-        params = {
-            'q': search_term,
-            'lang': 'en',
-            'country': 'us',
-            'max': MAX_ARTICLES_PER_TERM,
-            'apikey': api_key
-        }
-
-        try:
-            response = requests.get(base_url, params=params, timeout=30)
-            if response.status_code != 200:
-                print(f"  API error {response.status_code}: {response.text}")
-                continue
-
-            data = response.json()
-            articles = data.get('articles', [])
-            print(f"  Found {len(articles)} articles")
-
-            for google_index, item in enumerate(articles, start=1):
-                url = item['url']
-                title = item['title']
-                published_date = item.get('publishedAt', '')
-                source_name = item['source'].get('name', get_source_name(url))
-
-                # dedup by URL
-                if url.lower().strip() in existing_links:
-                    if DEBUG_MODE:
-                        print(f"  Skipping duplicate URL: {title[:50]}...")
+            try:
+                response = requests.get(base_url, params=params, timeout=30)
+                if response.status_code != 200:
+                    print(f"  api error {response.status_code}: {response.text}")
                     continue
 
-                # basic record
-                article_record = {
-                    'RISK_ID': risk_id,
-                    'SEARCH_TERM_ID': search_term_id,
-                    'GOOGLE_INDEX': google_index,
-                    'TITLE': title,
-                    'LINK': url,
-                    'PUBLISHED_DATE': published_date,
-                    'SUMMARY': '',
-                    'KEYWORDS': '',
-                    'SENTIMENT_COMPOUND': 0.0,
-                    'SENTIMENT': 'Neutral',
-                    'SOURCE': source_name,
-                    'QUALITY_SCORE': 0
-                }
+                data = response.json()
+                articles = data.get('articles', [])
+                print(f"  found {len(articles)} articles")
 
-                all_articles.append(article_record)
-                existing_links.add(url.lower().strip())
+                for google_index, item in enumerate(articles, start=1):
+                    url = item['url']
+                    title = item['title']
+                    published_date = item.get('publishedAt', '')
+                    source_name = item['source'].get('name', get_source_name(url))
 
-                if DEBUG_MODE:
-                    print(f"  Added: {title[:60]}... ({source_name})")
+                    # dedup by url
+                    if url.lower().strip() in existing_links:
+                        if DEBUG_MODE:
+                            print(f"  skipping duplicate url: {title[:50]}...")
+                        continue
 
-        except Exception as e:
-            print(f"  Error fetching for term '{search_term}': {e}")
+                    # parse article
+                    summary = ''
+                    keywords = ''
+                    sentiment_compound = 0.0
+                    sentiment = 'Neutral'
 
-        # polite delay
-        time.sleep(1 if DEBUG_MODE else 2)
+                    try:
+                        article = Article(url, config=config)
+                        article.download()
+                        if article.download_state == 2:  # success
+                            article.parse()
+                            summary = article.summary if article.summary else (article.text[:500] if article.text else '')
+                            
+                            if article.keywords:
+                                keywords = ', '.join(article.keywords)
+                            else:
+                                kw_list = kw_model.extract_keywords(article.text or '', keyphrase_ngram_range=(1, 2), stop_words='english', top_n=5)
+                                keywords = ', '.join([k[0] for k in kw_list]) if kw_list else ''
+                            
+                            # sentiment
+                            sentiment_text = title + " " + summary
+                            sentiment_scores = analyzer.polarity_scores(sentiment_text)
+                            sentiment_compound = sentiment_scores['compound']
+                            if sentiment_compound >= 0.05:
+                                sentiment = 'Positive'
+                            elif sentiment_compound <= -0.05:
+                                sentiment = 'Negative'
+                        else:
+                            if DEBUG_MODE:
+                                print(f"  download failed for '{title[:50]}...' (likely paywalled)")
+                    except Exception as e:
+                        if DEBUG_MODE:
+                            print(f"  parsing error for '{title[:50]}...': {e}")
 
-    # build final dataframe
-    columns = ['RISK_ID', 'SEARCH_TERM_ID', 'GOOGLE_INDEX', 'TITLE', 'LINK', 'PUBLISHED_DATE',
-               'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE', 'QUALITY_SCORE']
-    articles_df = pd.DataFrame(all_articles, columns=columns)
+                    # record - always include even if parsing failed
+                    article_record = {
+                        'RISK_ID': risk_id,
+                        'SEARCH_TERM_ID': search_term_id,
+                        'GOOGLE_INDEX': google_index,
+                        'TITLE': title,
+                        'LINK': url,
+                        'PUBLISHED_DATE': published_date,
+                        'SUMMARY': summary[:500],  # truncate for csv size
+                        'KEYWORDS': keywords,
+                        'SENTIMENT_COMPOUND': round(sentiment_compound, 4),
+                        'SENTIMENT': sentiment,
+                        'SOURCE': source_name,
+                        'QUALITY_SCORE': 0
+                    }
 
-    print(f"Collected {len(articles_df)} new articles")
+                    all_articles.append(article_record)
+                    existing_links.add(url.lower().strip())
+
+                    if DEBUG_MODE:
+                        print(f"  added: {title[:60]}... ({source_name}) | sentiment: {sentiment}")
+
+            except Exception as e:
+                print(f"  error fetching for term '{search_term}': {e}")
+
+            # polite delay
+            time.sleep(1 if DEBUG_MODE else 3)
+
+        # build final dataframe
+        columns = ['RISK_ID', 'SEARCH_TERM_ID', 'GOOGLE_INDEX', 'TITLE', 'LINK', 'PUBLISHED_DATE',
+                   'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE', 'QUALITY_SCORE']
+        articles_df = pd.DataFrame(all_articles, columns=columns)
+
+    print(f"Collected and processed {len(articles_df)} new articles")
 
     record_count = save_results(articles_df, output_path)
     
