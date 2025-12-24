@@ -1,6 +1,6 @@
 # NEWS SENTIMENT SCRAPER - CLEAN VERSION
 # single script for enterprise and emerging risks
-# decodes search terms, fetches via GNews, analyzes sentiment, appends to CSV
+# decodes search terms, fetches via gnews.io API, analyzes sentiment, appends to CSV
 # paywalled articles are included (even if parsing fails - sentiment neutral)
 
 import datetime as dt
@@ -19,8 +19,7 @@ import sys
 from keybert import KeyBERT
 import argparse
 import os
-
-from gnews import GNews
+import json
 
 # GLOBAL CONSTANTS
 SEARCH_DAYS = 7  # look back this many days for news articles
@@ -177,14 +176,13 @@ def main():
         print(f"ERROR loading {encoded_csv}: {e}")
         sys.exit(1)
 
-    # initialize GNews with API key
-    gnews_client = GNews(
-        language='en',
-        country='US',
-        period=f'{SEARCH_DAYS}d',
-        max_results=MAX_ARTICLES_PER_TERM,
-        api_key=os.getenv('GNEWS_API_KEY')  # using free for now 12/24/25
-    )
+    # gnews.io API setup
+    api_key = os.getenv('GNEWS_API_KEY')
+    if not api_key:
+        print("ERROR: GNEWS_API_KEY not set in environment!")
+        sys.exit(1)
+
+    base_url = "https://gnews.io/api/v4/search"
 
     all_articles = []
 
@@ -196,15 +194,29 @@ def main():
 
         print(f"Processing term {idx+1}/{len(valid_df)}: RISK_ID={risk_id}, TERM_ID={search_term_id} - '{search_term}'")
 
-        try:
-            news_items = gnews_client.get_news(search_term)
-            print(f"  Found {len(news_items)} articles")
+        params = {
+            'q': search_term,
+            'lang': 'en',
+            'country': 'us',
+            'max': MAX_ARTICLES_PER_TERM,
+            'apikey': api_key
+        }
 
-            for google_index, item in enumerate(news_items, start=1):
+        try:
+            response = requests.get(base_url, params=params, timeout=30)
+            if response.status_code != 200:
+                print(f"  API error {response.status_code}: {response.text}")
+                continue
+
+            data = response.json()
+            articles = data.get('articles', [])
+            print(f"  Found {len(articles)} articles")
+
+            for google_index, item in enumerate(articles, start=1):
                 url = item['url']
                 title = item['title']
-                published_date = item.get('published date', '')
-                source_name = item['publisher'].get('title', get_source_name(url))
+                published_date = item.get('publishedAt', '')
+                source_name = item['source'].get('name', get_source_name(url))
 
                 # dedup by URL
                 if url.lower().strip() in existing_links:
@@ -212,7 +224,7 @@ def main():
                         print(f"  Skipping duplicate URL: {title[:50]}...")
                     continue
 
-                # basic record - will expand with parsing/sentiment later
+                # basic record
                 article_record = {
                     'RISK_ID': risk_id,
                     'SEARCH_TERM_ID': search_term_id,
@@ -229,7 +241,7 @@ def main():
                 }
 
                 all_articles.append(article_record)
-                existing_links.add(url.lower().strip())  # add to prevent future dups
+                existing_links.add(url.lower().strip())
 
                 if DEBUG_MODE:
                     print(f"  Added: {title[:60]}... ({source_name})")
