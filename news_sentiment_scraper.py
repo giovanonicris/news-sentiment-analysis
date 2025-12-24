@@ -83,30 +83,45 @@ def load_existing_links(csv_path):
         print(f"Warning: Could not load existing links: {e}")
         return set()
 
-# save results with append and dedup - simplified, no archiving
+# save results with append and dedup - fixed for empty csv on ubuntu/actions
 def save_results(df, output_path):
-    if df.empty:
-        print("No new articles to save")
+    print(f"DEBUG save: df shape {df.shape}, empty={df.empty}, path={output_path}")
+    
+    output_dir = output_path.parent
+    output_dir.mkdir(exist_ok=True)
+    print(f"DEBUG dir exists: {output_dir.exists()}, writable: {os.access(str(output_dir), os.W_OK)}")
+    
+    try:
+        if df.empty:
+            # force headers with quoting=ALL (fixes ubuntu empty flake)
+            df.to_csv(output_path, index=False, encoding='utf-8', quoting=csv.QUOTE_ALL)
+        else:
+            if output_path.exists():
+                existing_df = pd.read_csv(output_path)
+                combined_df = pd.concat([existing_df, df], ignore_index=True)
+                combined_df = combined_df.drop_duplicates(subset=['RISK_ID', 'TITLE', 'LINK'], keep='first')
+            else:
+                combined_df = df
+            combined_df.sort_values(by='PUBLISHED_DATE', ascending=False, na_last=True).to_csv(
+                output_path, index=False, encoding='utf-8', quoting=csv.QUOTE_ALL
+            )
+        
+        # verify write
+        if output_path.exists():
+            size = output_path.stat().st_size
+            print(f"SUCCESS: CSV created, size {size}B")
+            print(f"First lines: {output_path.read_text(200)}...")
+            return len(pd.read_csv(output_path)) if not pd.read_csv(output_path).empty else 0
+        else:
+            print("ERROR: File still missing after to_csv!")
+            return 0
+            
+    except Exception as e:
+        print(f"ERROR in save_results: {e}")
+        import traceback
+        traceback.print_exc()
         return 0
     
-    print(f"Saving {len(df)} new articles to {output_path}")
-    
-    if output_path.exists():
-        existing_df = pd.read_csv(output_path, parse_dates=['PUBLISHED_DATE'])
-    else:
-        existing_df = pd.DataFrame()
-    
-    combined_df = pd.concat([existing_df, df], ignore_index=True)
-    combined_df = combined_df.drop_duplicates(subset=['RISK_ID', 'TITLE', 'LINK'], keep='first')
-    
-    combined_df.sort_values(by='PUBLISHED_DATE', ascending=False).to_csv(
-        output_path, index=False, encoding='utf-8', quoting=csv.QUOTE_MINIMAL
-    )
-    
-    new_records = len(combined_df) - len(existing_df)
-    print(f"Saved - total records now: {len(combined_df)} ({new_records} new)")
-    return len(combined_df)
-
 # argparse setup - kept original
 arg_parser = argparse.ArgumentParser()
 arg_parser.add_argument('--risk-type', type=str, choices=['enterprise', 'emerging'], required=True)
@@ -174,6 +189,10 @@ def main():
         articles_df = pd.DataFrame(all_articles)
     
     record_count = save_results(articles_df, output_path)
+    # debug list output after save
+    print("DEBUG final output ls:")
+    os.system("ls -la output/ || echo 'output empty'")
+    
     if record_count == 0:
         print(f"Created new empty output file with headers: {output_path}")
     else:
