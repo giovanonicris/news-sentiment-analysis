@@ -121,7 +121,7 @@ def save_results(df, output_path):
         import traceback
         traceback.print_exc()
         return 0
-    
+
 # argparse setup - kept original
 arg_parser = argparse.ArgumentParser()
 arg_parser.add_argument('--risk-type', type=str, choices=['enterprise', 'emerging'], required=True)
@@ -176,24 +176,84 @@ def main():
     except Exception as e:
         print(f"ERROR loading {encoded_csv}: {e}")
         sys.exit(1)
-    
-    # placeholder for article processing - to be expanded later...
+
+    # initialize GNews with API key
+    gnews_client = GNews(
+        language='en',
+        country='US',
+        period=f'{SEARCH_DAYS}d',
+        max_results=MAX_ARTICLES_PER_TERM,
+        api_key=os.getenv('GNEWS_API_KEY')  # using free for now 12/24/25
+    )
+
     all_articles = []
-    print("Decoding successful - ready for article fetching (to be added)")
 
-    # create empty df with full columns to ensure headers are written on first run
-    columns = ['RISK_ID', 'SEARCH_TERM_ID', 'GOOGLE_INDEX', 'TITLE', 'LINK', 'PUBLISHED_DATE', 'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE', 'QUALITY_SCORE']
-    articles_df = pd.DataFrame(columns=columns)
+    # fetch articles for each search term
+    for idx, row in valid_df.iterrows():
+        risk_id = row[risk_id_col]
+        search_term_id = row['SEARCH_TERM_ID']
+        search_term = row['SEARCH_TERMS']
 
-    if all_articles:
-        articles_df = pd.DataFrame(all_articles)
-    
+        print(f"Processing term {idx+1}/{len(valid_df)}: RISK_ID={risk_id}, TERM_ID={search_term_id} - '{search_term}'")
+
+        try:
+            news_items = gnews_client.get_news(search_term)
+            print(f"  Found {len(news_items)} articles")
+
+            for google_index, item in enumerate(news_items, start=1):
+                url = item['url']
+                title = item['title']
+                published_date = item.get('published date', '')
+                source_name = item['publisher'].get('title', get_source_name(url))
+
+                # dedup by URL
+                if url.lower().strip() in existing_links:
+                    if DEBUG_MODE:
+                        print(f"  Skipping duplicate URL: {title[:50]}...")
+                    continue
+
+                # basic record - will expand with parsing/sentiment later
+                article_record = {
+                    'RISK_ID': risk_id,
+                    'SEARCH_TERM_ID': search_term_id,
+                    'GOOGLE_INDEX': google_index,
+                    'TITLE': title,
+                    'LINK': url,
+                    'PUBLISHED_DATE': published_date,
+                    'SUMMARY': '',
+                    'KEYWORDS': '',
+                    'SENTIMENT_COMPOUND': 0.0,
+                    'SENTIMENT': 'Neutral',
+                    'SOURCE': source_name,
+                    'QUALITY_SCORE': 0
+                }
+
+                all_articles.append(article_record)
+                existing_links.add(url.lower().strip())  # add to prevent future dups
+
+                if DEBUG_MODE:
+                    print(f"  Added: {title[:60]}... ({source_name})")
+
+        except Exception as e:
+            print(f"  Error fetching for term '{search_term}': {e}")
+
+        # polite delay
+        time.sleep(1 if DEBUG_MODE else 2)
+
+    # build final dataframe
+    columns = ['RISK_ID', 'SEARCH_TERM_ID', 'GOOGLE_INDEX', 'TITLE', 'LINK', 'PUBLISHED_DATE',
+               'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE', 'QUALITY_SCORE']
+    articles_df = pd.DataFrame(all_articles, columns=columns)
+
+    print(f"Collected {len(articles_df)} new articles")
+
     record_count = save_results(articles_df, output_path)
+    
     # debug list output after save
     print("DEBUG final output ls:")
     os.system("ls -la output/ || echo 'output empty'")
     
-    if record_count == 0:
+    if record_count == 0 and len(articles_df) == 0:
         print(f"Created new empty output file with headers: {output_path}")
     else:
         print(f"Updated output file - total records: {record_count}")
