@@ -7,3 +7,4 @@ newspaper3k>=0.2.8
 keybert>=0.8.0
 gnews>=0.3.0
 python-dateutil>=2.8.2
+lxml[html_clean]>=5.0.0
