@@ -109,7 +109,7 @@ def save_results(df, output_path):
         if output_path.exists():
             size = output_path.stat().st_size
             print(f"SUCCESS: CSV created, size {size}B")
-            print(f"First lines: {output_path.read_text(200)}...")
+            print(f"First lines: {output_path.read_text(encoding='utf-8')[:200]}...")
             return len(pd.read_csv(output_path)) if not pd.read_csv(output_path).empty else 0
         else:
             print("ERROR: File still missing after to_csv!")
