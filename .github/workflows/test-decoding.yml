@@ -18,10 +18,10 @@ jobs:
         run: python news_sentiment_scraper.py --risk-type enterprise
       - name: Run emerging decoding test
         run: python news_sentiment_scraper.py --risk-type emerging
-      - name: Upload output artifacts
-        if: always()  # upload even if previous steps fail
-        uses: actions/upload-artifact@v4
-        with:
-          name: scraper-outputs
-          path: output/
-          retention-days: 5  # keep for 5 days
+      - name: Commit and push outputs
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add output/*.csv || echo "No CSVs to add"
+          git commit -m "Update sentiment CSVs from test run" || echo "No changes to commit"
+          git push || echo "Push failed or no changes"
