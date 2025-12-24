@@ -123,12 +123,12 @@ def main():
         encoded_csv = "data/EmergingRisksListEncoded.csv"
         output_csv = "output/emerging_risks_online_sentiment.csv"
     
-    print("*" * 50)
+    print("#" * 50)
     start_time = dt.datetime.now()
     print(f"Starting {risk_type.upper()} News Sentiment Scraper")
     print(f"DEBUG_MODE: {DEBUG_MODE}")
     print(f"Script started: {start_time}")
-    print("*" * 50)
+    print("#" * 50)
     
     # setup
     session = ScraperSession()
@@ -162,20 +162,25 @@ def main():
         print(f"ERROR loading {encoded_csv}: {e}")
         sys.exit(1)
     
-    # placeholder for article processing - we'll expand next
+    # placeholder for article processing - to be expanded later...
     all_articles = []
     print("Decoding successful - ready for article fetching (to be added)")
+
+    # create empty df with full columns to ensure headers are written on first run
+    columns = ['RISK_ID', 'SEARCH_TERM_ID', 'GOOGLE_INDEX', 'TITLE', 'LINK', 'PUBLISHED_DATE', 'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE', 'QUALITY_SCORE']
+    articles_df = pd.DataFrame(columns=columns)
+
+    if all_articles:
+        articles_df = pd.DataFrame(all_articles)
     
-    # temporary - save empty if no processing yet
-    if not all_articles:
-        dummy_df = pd.DataFrame(columns=[
-            'RISK_ID', 'SEARCH_TERM_ID', 'TITLE', 'LINK', 'PUBLISHED_DATE',
-            'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE'
-        ])
-        save_results(dummy_df, output_path)
+    record_count = save_results(articles_df, output_path)
+    if record_count == 0:
+        print(f"Created new empty output file with headers: {output_path}")
+    else:
+        print(f"Updated output file - total records: {record_count}")
 
     print(f"Completed at: {dt.datetime.now()}")
-    print("*" * 50)
+    print("#" * 50)
 
 if __name__ == '__main__':
     main()
