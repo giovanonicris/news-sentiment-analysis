@@ -2,11 +2,11 @@ name: Daily News Sentiment Update
 
 on:
   schedule:
-    - cron: "0 9 * * *" # runs daily at 9:00 UTC = 4:00 AM Eastern
-  workflow_dispatch: # allows manual trigger from GitHub UI
+    - cron: "0 9 * * *"  # runs daily at 9:00 UTC = 4:00 AM Eastern
+  workflow_dispatch:     # allows manual trigger from GitHub UI
     inputs:
       risk_type:
-        description: "which risk type to run?"
+        description: "Which risk type to run"
         required: false
         default: "all"
         type: choice
@@ -15,7 +15,7 @@ on:
           - enterprise
           - emerging
       debug_mode:
-        description: "enable debug mode"
+        description: "Enable debug mode"
         required: false
         default: "false"
         type: choice
@@ -32,6 +32,9 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
+      - name: Set default risk_type for schedule
+        run: echo "RISK_TYPE=${{ github.event.inputs.risk_type || 'all' }}" >> $GITHUB_ENV  # default 'all' if no input
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -41,7 +44,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run enterprise risks
-        if: github.event.inputs.risk_type == 'all' || github.event.inputs.risk_type == 'enterprise'
+        if: env.RISK_TYPE == 'all' || env.RISK_TYPE == 'enterprise'
         run: python news_sentiment_scraper.py --risk-type enterprise
         env:
           DEBUG_MODE: ${{ github.event.inputs.debug_mode || 'false' }}
@@ -49,7 +52,7 @@ jobs:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
 
       - name: Run emerging risks
-        if: github.event.inputs.risk_type == 'all' || github.event.inputs.risk_type == 'emerging'
+        if: env.RISK_TYPE == 'all' || env.RISK_TYPE == 'emerging'
         run: python news_sentiment_scraper.py --risk-type emerging
         env:
           DEBUG_MODE: ${{ github.event.inputs.debug_mode || 'false' }}
