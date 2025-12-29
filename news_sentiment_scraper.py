@@ -202,13 +202,22 @@ def main():
 
             print(f"processing term {idx+1}/{len(valid_df)}: risk_id={risk_id}, term_id={search_term_id} - '{search_term}'")
 
+            # calculate from date for lookback
+            today = dt.date.today()
+            from_date = today - dt.timedelta(days=SEARCH_DAYS)
+            from_date_str = from_date.isoformat()
+    
             params = {
                 'q': search_term,
                 'lang': 'en',
                 'country': 'us',
                 'max': MAX_ARTICLES_PER_TERM,
+                'from': from_date_str,  # adds the lookback
                 'apikey': api_key
             }
+    
+            if DEBUG_MODE:
+                print(f"  Using date range: from {from_date_str}")
 
             try:
                 response = requests.get(base_url, params=params, timeout=30)
