@@ -1,9 +1,23 @@
 "RISK_ID","SEARCH_TERM_ID","GOOGLE_INDEX","TITLE","LINK","PUBLISHED_DATE","SUMMARY","KEYWORDS","SENTIMENT_COMPOUND","SENTIMENT","SOURCE","QUALITY_SCORE"
+"3","11","1","UAE foreign policy in spotlight after Yemen escalation","https://www.reuters.com/world/middle-east/uae-foreign-policy-spotlight-after-yemen-escalation-2025-12-31/","2025-12-31T14:29:43Z","","","0.0","Neutral","Reuters","0"
+"3","11","2","Factbox-UAE foreign policy in spotlight after Yemen escalation","https://www.al-monitor.com/originals/2025/12/factbox-uae-foreign-policy-spotlight-after-yemen-escalation","2025-12-31T14:29:14Z","By Yousef Saba
+
+DUBAI, Dec 31 - The United Arab Emirates has pursued an assertive foreign policy and carved its own sphere of influence across the Middle East and Africa, a strategy in the spotlight after a rare military escalation with Saudi Arabia in Yemen this week.
+
+Abu Dhabi has used alliances with states or proxies, military intervention and financial support mainly to counter what it views as the destabilising threat of political Islam, specifically from groups linked to the Muslim Brothe","uae involvement, yemen uae, uae distrusts, uae continues, allow uae","0.2732","Positive","Al-Monitor","0"
+"5","21","1","Oman says foreign minister met Saudi counterpart to discuss Yemen","https://www.al-monitor.com/originals/2025/12/oman-says-foreign-minister-met-saudi-counterpart-discuss-yemen","2025-12-31T13:58:01Z","DUBAI, Dec 31 (Reuters) - Oman's foreign minister met his Saudi counterpart in Riyadh on Wednesday to discuss finding a political solution to the crisis in Yemen, Oman's Foreign Ministry said.
+
+The meeting came a day after a Saudi-led strike on Yemen's southern port of Mukalla, which raised tensions between Riyadh and the United Arab Emirates.
+
+In recent weeks, a Saudi-led coalition has clashed with UAE-backed southern separatists in Yemen. The UAE has said it is ending its remaining military mi","yemen uae, clashed uae, yemen oman, crisis yemen, tensions riyadh","-0.4939","Negative","Al-Monitor","0"
+"3","14","1","Why Trump’s Gaza Peace Plan Is Stalled at a Fragile Truce","https://www.bloomberg.com/news/articles/2025-12-31/why-trump-s-gaza-peace-plan-is-stalled-at-a-fragile-truce","2025-12-31T13:03:21Z","","","0.0","Neutral","Bloomberg","0"
+"4","16","1","Top DOJ Officials Possibly Involved in Abrego Garcia Prosecution","https://www.bloomberg.com/news/articles/2025-12-30/top-doj-officials-possibly-involved-in-abrego-garcia-prosecution","2025-12-30T21:49:26Z","","","0.0","Neutral","Bloomberg","0"
 "3","14","1","Netanyahu says new Gaza government ‘possible’ in 2026, ‘if you disarm Hamas’","https://nypost.com/2025/12/30/us-news/benjamin-netanyahu-says-new-gaza-government-possible-in-2026-if-you-disarm-hamas/","2025-12-30T19:13:13Z","Israeli Prime Minister Benjamin Netanyahu has said that a new government could be established in the Gaza Strip sometime next year — provided the Hamas terror group surrenders its weapons and is made to “vanish.”
 
 “No one’s going to come in there if Hamas stays armed and they’ll put a bullet right through the back of their head of, you know, anyone of any potential new government,” Netanyahu told Fox News’ “Special Report” in a sitdown set to air Tuesday evening.
 
 “Everybody understands that,” t","trump gaza, negotiate hamas, gaza fate, hamas job, fate hamas","-0.743","Negative","New York Post","0"
+"1","4","2","The Dollar And The ""New"" Regime At The Federal Reserve","https://seekingalpha.com/article/4856419-the-dollar-and-the-new-regime-at-the-federal-reserve","2025-12-30T17:32:30Z","","","0.0","Neutral","Seeking Alpha","0"
 "5","21","1","Escalation in Yemen threatens to reignite civil war, widen tensions in Gulf : NPR","https://www.npr.org/2025/12/30/g-s1-103991/yemen-conflict","2025-12-30T16:48:50Z","An escalation in Yemen threatens to reignite civil war and widen tensions in the Gulf
 
 toggle caption Ted Shaffrey/AP
@@ -17,6 +31,11 @@ This is read by an automated voice. Please report any issues or inconsistencies 
 
 Saudi Arabia bombed Yemen’s port city of Mukalla on Tuesday, targeting a shipment of weapons from the United Arab Emirates for separatist forces — a significant move in a country located along a key int","yemen stc, yemen conflict, control yemen, forces yemen, sides yemen","-0.6369","Negative","Los Angeles Times","0"
 "3","14","2","Hamas Confirms Deaths of Five Leaders During Gaza War","https://www.breitbart.com/middle-east/2025/12/30/hamas-confirms-deaths-of-five-leaders-during-gaza-war/","2025-12-30T16:24:24Z","The Palestinian terrorist organization Hamas released a statement on Monday confirming that five of its senior leaders were killed during the Gaza war, including “masked spokesman” Abu Obeida and Mohammed al-Sinwar, the brother of former top leader Yahya al-Sinwar.
+
+The statement on Monday was delivered by the new masked spokesman for the terrorist gang, who said he has “inherited” the name of Abu Obeida from his deceased predecessor.
+
+Abu Obeida is a pseudonym that means “father of the worshipp","killed gaza, hamas founder, killed israeli, palestinian terrorist, member hamas","-0.9716","Negative","Breitbart News Network","0"
+"3","14","5","Hamas Confirms Deaths of Five Leaders During Gaza War","https://www.breitbart.com/national-security/2025/12/30/hamas-confirms-deaths-of-five-leaders-during-gaza-war/","2025-12-30T16:24:24Z","The Palestinian terrorist organization Hamas released a statement on Monday confirming that five of its senior leaders were killed during the Gaza war, including “masked spokesman” Abu Obeida and Mohammed al-Sinwar, the brother of former top leader Yahya al-Sinwar.
 
 The statement on Monday was delivered by the new masked spokesman for the terrorist gang, who said he has “inherited” the name of Abu Obeida from his deceased predecessor.
 
@@ -58,6 +77,13 @@ The secessioni","yemen conflict, bombed yemen, yemen war, war yemen, control yem
 "5","21","5","Saudi-Led Coalition Hits Weapons in Yemen Coming From UAE Port","https://www.bloomberg.com/news/articles/2025-12-30/saudi-led-coalition-hits-weapons-in-yemen-coming-from-uae-port","2025-12-30T05:26:01Z","Saudi Arabia told the United Arab Emirates to withdraw its forces from Yemen and halt support for armed groups there, escalating tensions between the oil-rich allies over the conflict in the divided nation.
 
 In a public rebuke of the UAE’s recent role in Yemen, Saudi Arabia accused Abu Dhabi of “pressuring” a separatist group in the south of the country to launch military operations near the kingdom’s border. Riyadh’s national security is a “red line,” according to a statement by the foreign min","forces yemen, yemen saudi, role yemen, yemen halt, yemen","-0.296","Negative","Bloomberg","0"
+"3","14","8","After two years of war, some Israelis are moving to the Gaza border while others are refusing. Here’s why","https://abc17news.com/news/national-world/cnn-world/2025/12/29/after-two-years-of-war-some-israelis-are-moving-to-the-gaza-border-while-others-are-refusing-heres-why/","2025-12-30T05:00:59Z","By Nadeen Ebrahim, CNN
+
+(CNN) — Before the horrors of October 7, Aya Shahar never considered leaving her busy life in the bustling metropolis of Tel Aviv and moving south to an agricultural life in a kibbutz near the Gaza border.
+
+“It wasn’t the future I planned for myself,” Shahar told CNN.
+
+But after Hamas-led militants stormed through border fence in 2023, killing more than 1,200 in Israel and taking more than 250 people hostage, Shahar felt a need to help rebuild the kibbutzim that were rava","gaza kibbutzim, attacks kibbutz, israel kibbutz, kibbutz, life kibbutz","-0.8481","Negative","ABC17News.com","0"
 "3","14","6","After two years of war, some Israelis are moving to the Gaza border while others are refusing. Here’s why","https://edition.cnn.com/2025/12/30/middleeast/israel-moving-to-the-gaza-border-heres-why-intl","2025-12-30T05:00:59Z","Before the horrors of October 7, Aya Shahar never considered leaving her busy life in the bustling metropolis of Tel Aviv and moving south to an agricultural life in a kibbutz near the Gaza border.
 
 “It wasn’t the future I planned for myself,” Shahar told CNN.
@@ -70,13 +96,6 @@ But after Hamas-led militants stormed through border fence in 2023, killing more
 “It wasn’t the future I planned for myself,” Shahar told CNN.
 
 But after Hamas-led militants stormed through border fence in 2023, killing more than 1,200 in Israel and taking more than 250 people hostage, Shahar felt a need to help rebuild the kibbutzim that were rava","gaza kibbutzim, attacks kibbutz, israel kibbutz, kibbutz, life kibbutz","-0.8481","Negative","KRDO","0"
-"3","14","8","After two years of war, some Israelis are moving to the Gaza border while others are refusing. Here’s why","https://abc17news.com/news/national-world/cnn-world/2025/12/29/after-two-years-of-war-some-israelis-are-moving-to-the-gaza-border-while-others-are-refusing-heres-why/","2025-12-30T05:00:59Z","By Nadeen Ebrahim, CNN
-
-(CNN) — Before the horrors of October 7, Aya Shahar never considered leaving her busy life in the bustling metropolis of Tel Aviv and moving south to an agricultural life in a kibbutz near the Gaza border.
-
-“It wasn’t the future I planned for myself,” Shahar told CNN.
-
-But after Hamas-led militants stormed through border fence in 2023, killing more than 1,200 in Israel and taking more than 250 people hostage, Shahar felt a need to help rebuild the kibbutzim that were rava","gaza kibbutzim, attacks kibbutz, israel kibbutz, kibbutz, life kibbutz","-0.8481","Negative","ABC17News.com","0"
 "3","14","1","Hamas leaders dead: Five confirmed killed including al-Sinwar's brother","https://www.foxnews.com/world/hamas-confirms-five-leaders-killed-including-masked-spokesperson-major-blow-terror-group","2025-12-30T01:15:08Z","","","0.0","Neutral","Fox News","0"
 "3","14","2","Netanyahu War Cabinet Determined to Turn Gaza into Palestinian Auschwitz","https://www.activistpost.com/netanyahu-war-cabinet-determined-to-turn-gaza-into-palestinian-auschwitz/","2025-12-29T23:00:00Z","Gaza ‘Peace Mission’ is a Classic False Flag Political Deception
 
@@ -86,13 +105,6 @@ The Jewish fundamentalist mentality is based upon Talmudic prophecy concerning t
 
 Zionism connects back into an anc","gaza genocide, gaza holocaust, fundamentalists palestinians, destruction gaza, genocide netanyahu","-0.128","Negative","Activist Post","0"
 "1","4","1","Port-a-potty company files for bankruptcy to wipe away $2.4 billion in debt","https://www.reuters.com/legal/litigation/port-a-potty-company-files-bankruptcy-wipe-away-24bn-debt-2025-12-29/","2025-12-29T21:41:45Z","","","0.0","Neutral","Reuters","0"
-"3","14","4","At Gaza’s only animal shelter, workers share what food they have with hungry dogs, cats","https://www.nbcboston.com/news/national-international/gaza-sulala-animal-rescue-shelter/3868847/","2025-12-29T20:40:40Z","A humble shelter operating out of a tent remains the last beacon of hope for the injured and hungry animal population in war-ravaged Gaza, even as its workers and volunteers face their own impossible conditions.
-
-“You cannot look at a creature that trusts you and eat in front of it without sharing,” Saeed Al-Aar, who founded the Sulala Animal Rescue shelter in 2006, told NBC News last month.
-
-Stream NBC10 Boston news for free, 24/7, wherever you are. WATCH HERE WATCH HERE
-
-Despite bombs raining ","sheltering animals, veterinarians gaza, shelter operating, gaza animal, rescue shelter","0.9022","Positive","NBC10 Boston","0"
 "3","14","3","At Gaza’s only animal shelter, workers share what food they have with hungry dogs, cats","https://www.nbcchicago.com/news/national-international/gaza-sulala-animal-rescue-shelter/3869033/","2025-12-29T20:40:40Z","A humble shelter operating out of a tent remains the last beacon of hope for the injured and hungry animal population in war-ravaged Gaza, even as its workers and volunteers face their own impossible conditions.
 
 “You cannot look at a creature that trusts you and eat in front of it without sharing,” Saeed Al-Aar, who founded the Sulala Animal Rescue shelter in 2006, told NBC News last month.
@@ -100,6 +112,13 @@ Despite bombs raining ","sheltering animals, veterinarians gaza, shelter operati
 Stream NBC 5 for free, 24/7, wherever you are. WATCH HERE WATCH HERE
 
 Despite bombs raining down and a l","sheltering animals, veterinarians gaza, gaza animal, shelter operating, rescue shelter","0.9337","Positive","NBC 5 Chicago","0"
+"3","14","4","At Gaza’s only animal shelter, workers share what food they have with hungry dogs, cats","https://www.nbcboston.com/news/national-international/gaza-sulala-animal-rescue-shelter/3868847/","2025-12-29T20:40:40Z","A humble shelter operating out of a tent remains the last beacon of hope for the injured and hungry animal population in war-ravaged Gaza, even as its workers and volunteers face their own impossible conditions.
+
+“You cannot look at a creature that trusts you and eat in front of it without sharing,” Saeed Al-Aar, who founded the Sulala Animal Rescue shelter in 2006, told NBC News last month.
+
+Stream NBC10 Boston news for free, 24/7, wherever you are. WATCH HERE WATCH HERE
+
+Despite bombs raining ","sheltering animals, veterinarians gaza, shelter operating, gaza animal, rescue shelter","0.9022","Positive","NBC10 Boston","0"
 "3","14","5","Trump welcomes Netanyahu for talks on ending Gaza war","https://qctimes.com/news/nation-world/government-politics/article_03dcf8f3-0e95-5d4e-b8aa-61dc48112eb7.html","2025-12-29T20:30:00Z","State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington Washington D.C. West Virginia Wisconsin Wyoming Puerto","territories canada, states, alabama alaska, states micronesia, hawaii idaho","-0.296","Negative","Davenport Quad-City Times","0"
 "3","14","6","Hamas says its longtime spokesman was killed following an Israeli strike in August","https://wtop.com/world/2025/12/hamas-says-its-longtime-spokesman-was-killed-following-an-israeli-strike-in-august/","2025-12-29T19:16:07Z","BEIRUT (AP) — Hamas on Monday confirmed that its longtime spokesman was killed following an Israeli strike in August in…
 
@@ -133,10 +152,10 @@ Markets are probably in the early phase of a crypto winter, echoing bitcoin’s 
 Disclaimer. This content is part of a paid partnership. The text below is a sponsored article that is not part of Cointelegraph.com editorial content. The material is written by our advertorial team and has undergone editorial review to ensure clarity and relevance, it may not reflect the views and opinions of Cointelegraph.com. Readers are encouraged to conduct their own research before taking any actions related to the company. Disclosure.
 
 BeatSwap, a full-stack infrastruct","platform royalties, intellectual property, royalties, receive royalties, value royalties","0.8779","Positive","Cointelegraph","0"
-"3","14","10","Exposed: Internal Hamas Writings Reveal Strategy to Hide True Agenda While Appealing to Western Media","https://www.breitbart.com/middle-east/2025/12/29/exposed-internal-hamas-writings-reveal-strategy-hide-true-agenda-while-appealing-western-media/","2025-12-29T10:48:30Z","Hamas instructed its spokesmen to conceal the group’s true ideology from Western audiences, according to a newly published intelligence analysis based on internal Arabic-only documents recovered during the Gaza war — a strategy that contrasts sharply with senior terrorist leaders’ past public rhetoric openly hostile to both Israel and the Christian West.
+"3","14","9","Exposed: Internal Hamas Writings Reveal Strategy to Hide True Agenda While Appealing to Western Media","https://www.breitbart.com/politics/2025/12/29/exposed-internal-hamas-writings-reveal-strategy-hide-true-agenda-while-appealing-western-media/","2025-12-29T10:48:30Z","Hamas instructed its spokesmen to conceal the group’s true ideology from Western audiences, according to a newly published intelligence analysis based on internal Arabic-only documents recovered during the Gaza war — a strategy that contrasts sharply with senior terrorist leaders’ past public rhetoric openly hostile to both Israel and the Christian West.
 
 The findings were published Sunday by the Meir Amit Intelligence and Terrorism Information Center (ITIC), which reviewed books, speeches, and ","hamas leadership, hamas image, hamas instructed, contrast hamas, hamas guide","-0.7906","Negative","Breitbart News Network","0"
-"3","14","9","Exposed: Internal Hamas Writings Reveal Strategy to Hide True Agenda While Appealing to Western Media","https://www.breitbart.com/politics/2025/12/29/exposed-internal-hamas-writings-reveal-strategy-hide-true-agenda-while-appealing-western-media/","2025-12-29T10:48:30Z","Hamas instructed its spokesmen to conceal the group’s true ideology from Western audiences, according to a newly published intelligence analysis based on internal Arabic-only documents recovered during the Gaza war — a strategy that contrasts sharply with senior terrorist leaders’ past public rhetoric openly hostile to both Israel and the Christian West.
+"3","14","10","Exposed: Internal Hamas Writings Reveal Strategy to Hide True Agenda While Appealing to Western Media","https://www.breitbart.com/middle-east/2025/12/29/exposed-internal-hamas-writings-reveal-strategy-hide-true-agenda-while-appealing-western-media/","2025-12-29T10:48:30Z","Hamas instructed its spokesmen to conceal the group’s true ideology from Western audiences, according to a newly published intelligence analysis based on internal Arabic-only documents recovered during the Gaza war — a strategy that contrasts sharply with senior terrorist leaders’ past public rhetoric openly hostile to both Israel and the Christian West.
 
 The findings were published Sunday by the Meir Amit Intelligence and Terrorism Information Center (ITIC), which reviewed books, speeches, and ","hamas leadership, hamas image, hamas instructed, contrast hamas, hamas guide","-0.7906","Negative","Breitbart News Network","0"
 "4","16","1","Atlanta’s Carter Center plowing ahead despite federal foreign aid cuts","https://www.ajc.com/news/2025/12/atlantas-carter-center-plowing-ahead-despite-federal-foreign-aid-cuts/","2025-12-29T10:00:00Z","Paige Alexander, CEO of the Atlanta-based Carter Center, stands in front of a series of Andy Warhol portraits of former President Jimmy Carter on Friday, Dec. 12, 2025. (Natrice Miller/AJC)
@@ -193,12 +212,12 @@ Glen Falls, N.Y.: The New York Independent System Operator (NYISO), the nonprofi
 U.S. presidents campaign on peace but govern through war (e.g., Trump's airstrikes, Obama's drone warfare, Biden's Ukraine escalation). Neoconservative hawks (Bolton, Pompeo, Abrams) push regime-change agendas, while defense contractors (Lockheed Martin, Raytheon) profit from perpetual conflict.
 
 AIPAC, Christian Zionists and pro-Israel lobbyists drive Middle East policy, often prioritizing Israeli interests over Americ","israeli neocon, america conflict, israeli interests, israel lobbyists, agendas syria","-0.7615","Negative","Natural News","0"
-"1","5","10","Dick Morris to Newsmax: Trump Tariffs, Investment Powering Strong GDP","https://www.newsmax.com/newsmax-tv/dick-morris-tariffs-donald-trump/2025/12/27/id/1239885/","2025-12-27T23:37:01Z","The Trump administration's emphasis on tariffs and investment, rather than consumer-driven demand, has helped power the latest strong GDP numbers while keeping inflation in check, Dick Morris, an adviser to President Donald Trump, told Newsmax on Saturday.
+"1","5","9","Dick Morris to Newsmax: Trump Tariffs, Investment Powering Strong GDP","https://www.newsmax.com/newsmax-tv/dick-morris-tariffs-investment/2025/12/27/id/1239885/","2025-12-27T23:37:01Z","The Trump administration's emphasis on tariffs and investment, rather than consumer-driven demand, has helped power the latest strong GDP numbers while keeping inflation in check, Dick Morris, an adviser to President Donald Trump, told Newsmax on Saturday.
 
 ""What he's done is instead of using consumer demand to hype this stuff, which can get out of hand and become a boom, instead, he's hyped investment and tariffs and making businesses come back to the United States,"" Morris told ""The Count.""
 
 M","tariffs making, tariffs, said tariffs, tariffs investment, manufacturing tariffs","0.6124","Positive","Newsmax","0"
-"1","5","9","Dick Morris to Newsmax: Trump Tariffs, Investment Powering Strong GDP","https://www.newsmax.com/newsmax-tv/dick-morris-tariffs-investment/2025/12/27/id/1239885/","2025-12-27T23:37:01Z","The Trump administration's emphasis on tariffs and investment, rather than consumer-driven demand, has helped power the latest strong GDP numbers while keeping inflation in check, Dick Morris, an adviser to President Donald Trump, told Newsmax on Saturday.
+"1","5","10","Dick Morris to Newsmax: Trump Tariffs, Investment Powering Strong GDP","https://www.newsmax.com/newsmax-tv/dick-morris-tariffs-donald-trump/2025/12/27/id/1239885/","2025-12-27T23:37:01Z","The Trump administration's emphasis on tariffs and investment, rather than consumer-driven demand, has helped power the latest strong GDP numbers while keeping inflation in check, Dick Morris, an adviser to President Donald Trump, told Newsmax on Saturday.
 
 ""What he's done is instead of using consumer demand to hype this stuff, which can get out of hand and become a boom, instead, he's hyped investment and tariffs and making businesses come back to the United States,"" Morris told ""The Count.""
 
@@ -288,12 +307,12 @@ Crafts and fabric retailer Joann st","crafts retailer, retailer joann, crafts re
 The tariffs have brought in more than $200 billion this year, according to the Customs and Border Protection agency, but face the potential of being struck down by the Supreme Court.
 
 “Tariffs are creating GREAT WEALTH, and unprecedented National Security for the USA. Trade deficit has been cut by 60%, totally unheard of. 4.3% GDP, and goi","tariffs, tariffs creating, pricing tariffs, pricing trump, import tariffs","0.9575","Positive","New York Post","0"
-"1","5","5","Trump Hails Year 1 Economic Progress on Trade, GDP, 'No Inflation'","https://www.newsmax.com/newsfront/donald-trump-economy-agenda/2025/12/27/id/1239835/","2025-12-27T14:33:36Z","President Donald Trump hailed all aspects of his economic agenda as Year 1 of his second administration comes to a close, praising ""great wealth,"" ""unprecedented national security,"" reduction in trade deficits, and ""no inflation.""
+"1","5","4","Trump Hails Year 1 Economic Progress on Trade, GDP, 'No Inflation'","https://www.newsmax.com/newsfront/economy-gdp-trade/2025/12/27/id/1239835/","2025-12-27T14:33:36Z","President Donald Trump hailed all aspects of his economic agenda as Year 1 of his second administration comes to a close, praising ""great wealth,"" ""unprecedented national security,"" reduction in trade deficits, and ""no inflation.""
 
 ""Tariffs are creating GREAT WEALTH, and unprecedented National Security for the USA,"" Trump wrote Saturday morning on Truth Social.
 
 ""Trade deficit has been cut by 60%, totally unheard of, 4.3% GDP, and going way up. No inflation!!! We are respected as a Country again","trump economy, economy trump, recession jordan, economic doomsayers, trump critics","0.9842","Positive","Newsmax","0"
-"1","5","4","Trump Hails Year 1 Economic Progress on Trade, GDP, 'No Inflation'","https://www.newsmax.com/newsfront/economy-gdp-trade/2025/12/27/id/1239835/","2025-12-27T14:33:36Z","President Donald Trump hailed all aspects of his economic agenda as Year 1 of his second administration comes to a close, praising ""great wealth,"" ""unprecedented national security,"" reduction in trade deficits, and ""no inflation.""
+"1","5","5","Trump Hails Year 1 Economic Progress on Trade, GDP, 'No Inflation'","https://www.newsmax.com/newsfront/donald-trump-economy-agenda/2025/12/27/id/1239835/","2025-12-27T14:33:36Z","President Donald Trump hailed all aspects of his economic agenda as Year 1 of his second administration comes to a close, praising ""great wealth,"" ""unprecedented national security,"" reduction in trade deficits, and ""no inflation.""
 
 ""Tariffs are creating GREAT WEALTH, and unprecedented National Security for the USA,"" Trump wrote Saturday morning on Truth Social.
 
@@ -530,8 +549,8 @@ A measure of Americans’ short-te","consumer confidence, concern tariffs, consu
 "2","6","1","Two CMA CGM vessels navigate the Suez Canal in sign of easing tension","https://www.al-monitor.com/originals/2025/12/two-cma-cgm-vessels-navigate-suez-canal-sign-easing-tension","2025-12-23T14:01:49Z","CAIRO, Dec 23 (Reuters) - Two vessels from CMA CGM, the world's third-largest container shipping line, have travelled through the Suez Canal, the authority that runs the waterway said on Tuesday, in a sign the disruptions linked to the Gaza war could be easing.
 
 While the Suez Canal provides the fastest link between Asia and Europe, since November 2023, shipping companies have had to take much longer routes because Yemen's Iran-aligned Houthi militants attacked commercial vessels, saying they we","suez canal, travelled suez, vessels suez, using suez, canal egypt","-0.8074","Negative","Al-Monitor","0"
-"2","8","1","Gartner debuts 4PL Magic Quadrant as tariffs and disruption reshape logistics","https://www.freightwaves.com/news/gartner-debuts-4pl-magic-quadrant-as-tariffs-and-disruption-reshape-logistics","2025-12-23T13:30:00Z","","","0.0","Neutral","FreightWaves","0"
 "1","4","3","Mavik Closes Second Special Opportunities Fund Above Target at $685 Million","https://www.businesswire.com/news/home/20251222351260/en/Mavik-Closes-Second-Special-Opportunities-Fund-Above-Target-at-%24685-Million","2025-12-23T13:30:00Z","NEW YORK--(BUSINESS WIRE)--Mavik, a multi-strategy, credit-oriented investment firm focused on special situations commercial real estate (“CRE”) and hard assets across North America, announced the close of its second closed-end fund, Mavik Real Estate Special Opportunities VS2 (“VS2” or the “Fund”), with $685 million in total commitments. VS2 significantly exceeded its $515 million target, reflecting Mavik’s strong performance and highly compelling opportunity set as the U.S. enters the fourth y","vs2 fund, fund mavik, investments vs2, mavik credit, vs2 securities","0.9737","Positive","Business Wire","0"
+"2","8","1","Gartner debuts 4PL Magic Quadrant as tariffs and disruption reshape logistics","https://www.freightwaves.com/news/gartner-debuts-4pl-magic-quadrant-as-tariffs-and-disruption-reshape-logistics","2025-12-23T13:30:00Z","","","0.0","Neutral","FreightWaves","0"
 "2","6","2","Two CMA CGM vessels navigate the Suez Canal in sign of easing tension","https://www.reuters.com/world/middle-east/two-cma-cgm-vessels-navigate-suez-canal-sign-easing-tension-2025-12-23/","2025-12-23T12:04:30Z","","","0.0","Neutral","Reuters","0"
 "1","6","8","Major central banks deliver biggest easing push in over a decade in 2025","https://www.reuters.com/world/europe/major-central-banks-deliver-biggest-easing-push-over-decade-2025-2025-12-23/","2025-12-23T10:24:15Z","","","0.0","Neutral","Reuters","0"
 "7","27","1","How US defense industry dodged rare","https://www.bostonglobe.com/2025/12/22/business/us-defense-industry-rare-earth/","2025-12-22T23:44:46Z","A carefully orchestrated deal involving two European companies gave US defense contractors access to a new source of samarium, allowing production to continue for now. But that supply — made from material that had been sitting in a factory in France since the 1970s — is limited. Now the Trump administration is racing to develop a new source before the European stockpile runs out.
@@ -551,11 +570,6 @@ Gabbard asserts that Reuters' anonymous-source report – claiming Putin seeks t
 Ukraine has escalated drone strikes on Russian oil terminals and tankers in the Black Sea, systematically targeting refinery equipment—including Western-made cracking units—to cripple Russia's war economy. These attacks have forced Russian crude shipments onto a 70% longer detour, delaying deliveries and raising shipping costs.
 
 The November strike on Tuapse oil port suspended fuel exports for weeks, while a","russian oil, russia oil, tanker targeted, oil exports, oil tankers","-0.9806","Negative","Natural News","0"
-"4","16","5","NSA employee sues the Trump administration over transgender rights and 'immutable' genders","https://www.clickondetroit.com/news/politics/2025/12/22/nsa-employee-sues-trump-administration-over-order-on-transgender-rights-and-two-immutable-genders/","2025-12-22T16:58:47Z","FILE - President Donald Trump signs executive orders in the Oval Office of the White House, Jan. 20, 2025, in Washington. (AP Photo/Evan Vucci, File)
-
-A transgender employee of the National Security Agency is suing the Trump administration and trying to block enforcement of a presidential executive order and other policies the employee says violate federal civil rights law.
-
-Sarah O'Neill, an NSA data scientist who is transgender, disputes the legality of President Donald Trump’s Inauguration Da","transgender employee, transgender disputes, suing trump, executive order, trump order","-0.7845","Negative","WDIV ClickOnDetroit","0"
 "4","16","6","A transgender NSA employee sues Donald Trump's administration for discrimination","https://apnews.com/article/donald-trump-transgender-rights-lawsuit-e0c462aeb4662576e3569dfdf91b0a9c","2025-12-22T16:58:47Z","Add AP News as your preferred source to see more of our stories on Google.
 
 Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share
@@ -563,6 +577,11 @@ Add AP News on Google Add AP News as your preferred source to see more of our st
 A transgender employee of the National Security Agency is suing the Trump administration and trying to block enforcement of a presidential executive order and other policies the employee says violate federal civil rights law.
 
 Sarah O’Neill, an NSA data scientist who is transgender, disputes the legality of President D","transgender disputes, transgender employee, transgender identity, transgender status, female lawsuit","-0.6908","Negative","The Associated Press","0"
+"4","16","5","NSA employee sues the Trump administration over transgender rights and 'immutable' genders","https://www.clickondetroit.com/news/politics/2025/12/22/nsa-employee-sues-trump-administration-over-order-on-transgender-rights-and-two-immutable-genders/","2025-12-22T16:58:47Z","FILE - President Donald Trump signs executive orders in the Oval Office of the White House, Jan. 20, 2025, in Washington. (AP Photo/Evan Vucci, File)
+
+A transgender employee of the National Security Agency is suing the Trump administration and trying to block enforcement of a presidential executive order and other policies the employee says violate federal civil rights law.
+
+Sarah O'Neill, an NSA data scientist who is transgender, disputes the legality of President Donald Trump’s Inauguration Da","transgender employee, transgender disputes, suing trump, executive order, trump order","-0.7845","Negative","WDIV ClickOnDetroit","0"
 "4","16","7","NSA Employee Sues Trump Administration Over Order on Transgender Rights and Two 'Immutable' Genders","https://www.usnews.com/news/politics/articles/2025-12-22/nsa-employee-sues-trump-administration-over-order-on-transgender-rights-and-two-immutable-genders","2025-12-22T16:58:00Z","A transgender employee of the National Security Agency is suing the Trump administration and trying to block enforcement of a presidential executive order and other policies the employee says violate federal civil rights law.
 
 Sarah O'Neill, an NSA data scientist who is transgender, disputes the legality of President Donald Trump’s Inauguration Day executive order that required the federal government, in all operations and printed materials, to recognize only two “immutable” sexes: male and fema","transgender disputes, transgender employee, suing trump, female lawsuit, transgender identity","-0.7845","Negative","U.S. News & World Report","0"
@@ -599,13 +618,6 @@ Nevertheless, the Department of Justice aggressively pursued the alleged perpetr
 When grand jurors thrice declined to indict the 44-year-old on the felony, prosecutors tried her on a misdemeanor.
 
 Body camera footage played at trial r","reid case, acquitted prosecutors, federal prosecutor, federal criminal, charges alleged","-0.9501","Negative","AL.com","0"
-"4","16","10","DOJ vowed to punish those who disrupt Trump’s immigration crackdown. Dozens of cases have crumbled","https://www.silive.com/news/2025/12/doj-vowed-to-punish-those-who-disrupt-trumps-immigration-crackdown-dozens-of-cases-have-crumbled.html","2025-12-20T19:00:00Z","WASHINGTON (AP) — The federal agent described her wounds as “boo-boos.”
-
-Nevertheless, the Department of Justice aggressively pursued the alleged perpetrator. They jailed Sidney Lori Reid on a charge of felony assault, accusing her of injuring the agent during a July protest of President Donald Trump’s immigration crackdown in Washington, D.C.
-
-When grand jurors thrice declined to indict the 44-year-old on the felony, prosecutors tried her on a misdemeanor.
-
-Body camera footage played at trial r","reid case, acquitted prosecutors, federal prosecutor, federal criminal, charges alleged","-0.9501","Negative","Staten Island Advance","0"
 "4","16","9","DOJ vowed to punish those who disrupt Trump’s immigration crackdown. Dozens of cases have crumbled","https://www.oregonlive.com/news/2025/12/doj-vowed-to-punish-those-who-disrupt-trumps-immigration-crackdown-dozens-of-cases-have-crumbled.html","2025-12-20T19:00:00Z","WASHINGTON (AP) — The federal agent described her wounds as “boo-boos.”
 
 Nevertheless, the Department of Justice aggressively pursued the alleged perpetrator. They jailed Sidney Lori Reid on a charge of felony assault, accusing her of injuring the agent during a July protest of President Donald Trump’s immigration crackdown in Washington, D.C.
@@ -613,6 +625,13 @@ Nevertheless, the Department of Justice aggressively pursued the alleged perpetr
 When grand jurors thrice declined to indict the 44-year-old on the felony, prosecutors tried her on a misdemeanor.
 
 Body camera footage played at trial r","reid case, acquitted prosecutors, federal prosecutor, federal criminal, charges alleged","-0.9501","Negative","The Oregonian","0"
+"4","16","10","DOJ vowed to punish those who disrupt Trump’s immigration crackdown. Dozens of cases have crumbled","https://www.silive.com/news/2025/12/doj-vowed-to-punish-those-who-disrupt-trumps-immigration-crackdown-dozens-of-cases-have-crumbled.html","2025-12-20T19:00:00Z","WASHINGTON (AP) — The federal agent described her wounds as “boo-boos.”
+
+Nevertheless, the Department of Justice aggressively pursued the alleged perpetrator. They jailed Sidney Lori Reid on a charge of felony assault, accusing her of injuring the agent during a July protest of President Donald Trump’s immigration crackdown in Washington, D.C.
+
+When grand jurors thrice declined to indict the 44-year-old on the felony, prosecutors tried her on a misdemeanor.
+
+Body camera footage played at trial r","reid case, acquitted prosecutors, federal prosecutor, federal criminal, charges alleged","-0.9501","Negative","Staten Island Advance","0"
 "7","27","3","China Eases Rare Earth Export Rules Following U.S. Trade Truce","https://oilprice.com/Metals/Commodities/China-Eases-Rare-Earth-Export-Rules-Following-US-Trade-Truce.html","2025-12-19T22:00:00Z","BP has become an outlier in the industry by raising its spending on energy transition activities to 30% since 2020, a move that has been met with a huge rebellion from shareholders scrutinizing the firm’s environmental policy.
 
 The appointment of O’Neil comes as BP faces significant pressure, including a £3.8bn stake acquired by activist investor Elliott Investment Management, which has pushed for a faster strategic overhaul.
