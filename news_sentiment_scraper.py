@@ -190,7 +190,7 @@ def main():
             'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE', 'QUALITY_SCORE'
         ])
     else:
-        base_url = "https://newsdata.io/api/1/archive"
+        base_url = "https://newsdata.io/api/1/news"
         all_articles = []
 
         # fetch articles for each search term
@@ -211,10 +211,8 @@ def main():
                 'language': 'en',
                 'country': 'us',
                 'size': MAX_ARTICLES_PER_TERM,
-                'from_date': from_date_str,
-                'to_date': dt.date.today().isoformat(),
                 'apikey': api_key
-
+                
             }
     
             if DEBUG_MODE:
@@ -245,20 +243,6 @@ def main():
                     time.sleep(1)  # Rate limit
                     
                 articles = articles[:MAX_ARTICLES_PER_TERM]
-                print(f"  found {len(articles)} articles")
-
-
-                if response.status_code != 200:
-                    print(f"  api error {response.status_code}: {response.text}")
-                    continue
-
-                data = response.json()
-                if 'nextPage' in data:
-                    next_page = data['nextPage']
-                else:
-                    next_page = None
-
-                articles = data.get('results', [])
                 print(f"  found {len(articles)} articles")
 
                 for google_index, item in enumerate(articles, start=1):
