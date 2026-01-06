@@ -91,28 +91,29 @@ def save_results(df, output_path):
     print(f"DEBUG dir exists: {output_dir.exists()}, writable: {os.access(str(output_dir), os.W_OK)}")
     
     try:
-        if df.empty:
-            # force headers with quoting=ALL (fixes ubuntu empty flake)
-            df.to_csv(output_path, index=False, encoding='utf-8', quoting=csv.QUOTE_ALL)
+        if output_path.exists():
+            existing_df = pd.read_csv(output_path)
+            combined_df = pd.concat([existing_df, df], ignore_index=True)
+            combined_df = combined_df.drop_duplicates(subset=['LINK'], keep='first')  # Use LINK only for dedup
         else:
-            if output_path.exists():
-                existing_df = pd.read_csv(output_path)
-                combined_df = pd.concat([existing_df, df], ignore_index=True)
-                combined_df = combined_df.drop_duplicates(subset=['RISK_ID', 'TITLE', 'LINK'], keep='first')
-            else:
-                combined_df = df
+            combined_df = df
+        
+        # Only write if there's data (handles initial empty case)
+        if not combined_df.empty:
             combined_df.sort_values(by='PUBLISHED_DATE', ascending=False).to_csv(
                 output_path, index=False, encoding='utf-8', quoting=csv.QUOTE_ALL
             )
+        else:
+            print("No data to save - skipping write to avoid empty file.")
         
-        # verify write
+        # Verify
         if output_path.exists():
             size = output_path.stat().st_size
-            print(f"SUCCESS: CSV created, size {size}B")
-            print(f"First lines: {output_path.read_text(encoding='utf-8')[:200]}...")
-            return len(pd.read_csv(output_path)) if not pd.read_csv(output_path).empty else 0
+            print(f"SUCCESS: CSV updated/created, size {size}B")
+            total_records = len(pd.read_csv(output_path))
+            return total_records
         else:
-            print("ERROR: File still missing after to_csv!")
+            print("ERROR: File missing after save!")
             return 0
             
     except Exception as e:
