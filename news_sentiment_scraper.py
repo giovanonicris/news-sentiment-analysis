@@ -184,7 +184,7 @@ def main():
     # gnews.io API setup
     api_key = os.getenv('NEWS_DATA_API_KEY')
     if not api_key:
-        print("WARNING: No GNEWS_API_KEY - skipping fetch")
+        print("WARNING: NEWS_DATA_API_KEY - skipping fetch")
         articles_df = pd.DataFrame(columns=[
             'RISK_ID', 'SEARCH_TERM_ID', 'GOOGLE_INDEX', 'TITLE', 'LINK', 'PUBLISHED_DATE',
             'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE', 'QUALITY_SCORE'
