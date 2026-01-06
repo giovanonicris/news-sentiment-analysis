@@ -1,223 +1,891 @@
-RISK_ID,SEARCH_TERM_ID,GOOGLE_INDEX,TITLE,LINK,PUBLISHED_DATE,SUMMARY,KEYWORDS,SENTIMENT_COMPOUND,SENTIMENT,SOURCE,QUALITY_SCORE
-1,4,1,"US inflation rate is improving, but I'm still skeptical",https://www.usatoday.com/story/opinion/voices/2026/01/05/economy-inflation-trump-tariffs-jobs-wages/87948539007/,2026-01-05 09:30:49+00:00,"Opinion Forum
+﻿RISK_ID,SEARCH_TERM_ID,GOOGLE_INDEX,TITLE,LINK,PUBLISHED_DATE,SUMMARY,KEYWORDS,SENTIMENT_COMPOUND,SENTIMENT,SOURCE,QUALITY_SCORE
+3,12,8,Canada will press NATO allies to focus more on Arctic threats,https://www.adn.com/nation-world/2025/12/02/canada-will-press-nato-allies-to-focus-more-on-arctic-threats/,2025-12-03T02:34:20Z,"For Subscribers
 
-USA TODAY
+Military personnel in a hangar during Joint Viking training exercises with Norwegian and NATO forces near Bardufoss, Norway, on Tuesday, March 7, 2023. (Danielle Bochove/Bloomberg)
 
-Jan. 5, 2026, 4:30 a.m. ET
+Canada will raise concerns about NATOâ€™s approach to Arctic threats at a meeting in Brussels on Wednesday, Foreign Minister Anita Anand said.
 
-This is part two of our Forum feature about what the media is getting wrong when it reports on the economy.
+â€œWe see infrastructure moving further and further north and the geopolitical environment becoming more and more challenging,â€ Anand said in an interview with B","nato arctic, norwegian nato, arctic threats, concerns nato, concerns arctic",-0.7063,Negative,Anchorage Daily News,0
+7,27,10,"EU aims to improve defences against economic threats, such as China export curbs",https://www.reuters.com/world/china/eu-aims-improve-defences-against-economic-threats-such-china-export-curbs-2025-12-03/,2025-12-03T14:10:15Z,,,0,Neutral,Reuters,0
+4,14,3,FACT FOCUS: Trump Says Tariffs Can Eventually Replace Federal Income Taxes. Experts Disagree,https://www.usnews.com/news/us/articles/2025-12-03/fact-focus-trump-says-tariffs-can-eventually-replace-federal-income-taxes-experts-disagree,2025-12-03T21:05:00Z,"President Donald Trump has long praised tariffs as key to increasing wealth in the United States, idealizing Gilded Age policies that preceded the implementation of a modern federal income tax.
 
-Part two, because you, our readers, had a lot to say.
+Among the potential benefits, Trump claims, is the ability to replace revenue from federal income taxes with money the U.S. is taking in from tariffs â€” a concept he has touted since his 2024 presidential campaign, most recently at a Cabinet meeting Tuesday.
 
-Specifically, we asked you about what ""affordability"" means, how the economy is affecting you personally and how we, the media, could do a better job of informing you about it.
+But tariff revenue doesn't even come close to ","trump tariffs, taxes tariffs, revenue tariffs, tariffs economic, tariff revenue",0.7469,Positive,U.S. News & World Report,0
+4,14,2,Trump says tariffs can eventually replace federal income taxes. Experts disagree,https://apnews.com/article/fact-check-trump-income-tax-eliminate-bc0d35ccee990f5a595b39ef5b93d909,2025-12-03T21:05:49Z,"Add AP News as your preferred source to see more of our stories on Google.
 
-Judging from your responses, household budgets are definitely top of mind, as is inflation and tariffs.
-","trump tariffs, tariffs impacting, tariffs read, feel tariffs, inflation tariffs",0.5267,Positive,USA TODAY,0
-3,14,1,"After ousting Nicolás Maduro in Venezuela, Donald Trump commits himself to another foreign policy project",https://www.chicagotribune.com/2026/01/03/maduro-venezuela-trump-foreign-policy-project/,2026-01-03 20:23:50+00:00,"WASHINGTON — President Donald Trump declared Saturday’s military operation that led to the ouster of Nicolás Maduro a major success as he offered a vague plan for his administration “to run” Venezuela until a transition of power can take place.
+Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share
 
-While there are no visible signs of a U.S. presence on the ground in Caracas, Trump was demonstrating chutzpah that’s become the trademark of his foreign policy approach. It’s one marked by a grand confidence that his will on the international stage is a","trump venezuela, caracas trump, action venezuelan, run venezuela, war venezuela",0.8313,Positive,Chicago Tribune,0
-1,4,1,Iran supreme leader says will not yield as protests simmer and US threatens,https://www.reuters.com/world/middle-east/iran-supreme-leader-says-will-not-yield-protests-simmer-us-threatens-2026-01-03/,2026-01-03 11:34:11+00:00,,,0.0,Neutral,Reuters,0
-1,4,2,Iran supreme leader says will not yield as protests simmer and US threatens,https://www.al-monitor.com/originals/2026/01/iran-supreme-leader-says-will-not-yield-protests-simmer-and-us-threatens,2026-01-03 11:33:44+00:00,"DUBAI, Jan 3 (Reuters) - Iran's Supreme Leader Ayatollah Ali Khamenei vowed not to yield after U.S. President Donald Trump threatened to come to the aid of protesters, as rights groups reported a sharp rise in arrests following days of unrest sparked by soaring inflation.
+President Donald Trump has long praised tariffs as key to increasing wealth in the United States, idealizing Gilded Age policies that preceded the implementation of a modern federal income tax.
 
-Speaking in a recorded appearance on television on Saturday, Khamenei said the Islamic Republic ""will not yield to the enemy"" and said rioters should be ""put in their place"".
+Among the potential benefits, Trump claims, is the ability to replace revenue from federal income taxes with money the U.S. i","taxes tariffs, trump tariffs, revenue tariffs, tariff revenue, tariffs economic",0.9337,Positive,The Associated Press,0
+7,25,1,Americans Would Send US Forces in Taiwan Strait Crisis: Poll,https://www.newsweek.com/americans-would-send-us-forces-taiwan-strait-crisis-poll-11153167,2025-12-04T08:33:37Z,"Taiwan enjoys strong bipartisan support among Americans, with 60 percent now favoring direct military intervention in the event of a Chinese invasion, according to a new poll.
 
-Rights groups say more than 10 people have been ki","protests violence, approach unrest, violence protests, unrest saying, unrest",-0.6167,Negative,Al-Monitor,0
-1,4,4,Gold Sets the Tone for 2026 as Inflation Trades Linger Beneath Volatility,https://www.investing.com/analysis/gold-sets-the-tone-for-2026-as-inflation-trades-linger-beneath-volatility-200672614,2026-01-02 13:24:40+00:00,"2025 Was a Bad One in Many Ways Except Investment (IMO and Speaking Personally)
+It was among the most striking findings in the latest annual National Defense Survey by the Washington, D.C.-based Reagan Foundation, which reported rising support for maintaining a military edge to deter adversaries.
 
-A (and ) lining was, of course, the precious metals sector for we who had anticipated the bull. Gold led, the rest of the precious metals complex, and eventually broader markets, followed.
+Why It Matters
 
-2026? It Can’t Get Any Worse Socio-Politically, and Pending a Potential Q1/H1 Liquidity Issue, Could Be Just as Good Investment-Wise
+Taiwan, a global tech hub and important U.S. trade partner, is a major potential flashpo","taiwan support, defending taiwan, defend taiwan, assistance taiwan, taiwan enjoys",0.8779,Positive,Newsweek,0
+7,27,9,China says working on streamlining rare earth export licenses,https://www.reuters.com/world/china/china-says-working-streamlining-rare-earth-export-licenses-2025-12-04/,2025-12-04T08:50:00Z,,,0,Neutral,Reuters,0
+2,9,10,"War insurance costs spike for ship owners as Black Sea threats grow, sources say",https://www.al-monitor.com/originals/2025/12/war-insurance-costs-spike-ship-owners-black-sea-threats-grow-sources-say,2025-12-04T14:58:41Z,"By Jonathan Saul
 
-With the Fed already on a regimen and positioned for some form of QE (as it plans to buy short-","fed inflation, recession 2026, renewed inflation, commodity inflation, inflation stagflation",0.5719,Positive,Investing.com,0
-5,20,1,Factbox-Who is fighting in Yemen?,https://www.al-monitor.com/originals/2026/01/factbox-who-fighting-yemen,2026-01-02 12:06:44+00:00,"By Yousef Saba
+LONDON, Dec 4 (Reuters) - War insurance costs for ships sailing to the Black Sea have spiked again, with insurers reviewing policies daily as the conflict in Ukraine spills into sea lanes, five shipping and insurance sources said on Thursday.
 
-DUBAI, Jan 2 (Reuters) - Yemen's more than decade-long civil war has flared up after a United Arab Emirates-backed separatist movement swept through territory in the south, splintering the Saudi-led coalition that was created to fight the Iran-aligned Houthi group.
+The Black Sea is crucial for the shipment of grain, oil and oil products. Its waters are shared by Bulgaria, Georgia, Romania and Turkey, as well as Russia and Ukraine.
 
-Below are details of the key factions in the conflict in Yemen, which has caused one of the world's worst humanitarian crises:
+Turkey's Foreign Minister Hakan Fidan said on Wednesday that attacks","ukraine sea, war insurance, ukraine spills, ukrainian ports, russian ports",-0.9062,Negative,Al-Monitor,0
+2,9,9,"War insurance costs spike for ship owners as Black Sea threats grow, sources say",https://www.reuters.com/legal/litigation/war-insurance-costs-spike-ship-owners-black-sea-threats-grow-sources-say-2025-12-04/,2025-12-04T14:59:08Z,,,0,Neutral,Reuters,0
+3,12,7,emptive strikeâ€ threat sparks Russian condemnation amid rising tensions â€“ NaturalNews.com,https://www.naturalnews.com/2025-12-05-nato-officials-threat-sparks-russian-condemnation.html,2025-12-05T04:43:05Z,"NATO officialâ€™s â€œpre-emptive strikeâ€ threat sparks Russian condemnation amid rising tensions
 
-THE HOUTHIS
+Russia condemns NATO Admiral Dragone's suggestion of ""pre-emptive strikes"" as reckless escalation, undermining diplomatic efforts amid Ukraine's deep-strike drone attacks on Russian air bases.
 
-The Yemeni conflict was triggered when the Houthi movement, formally named A","yemeni conflict, conflict yemen, houthis yemen, yemen war, unified yemen",-0.9169,Negative,Al-Monitor,0
-4,16,1,The economic policies shaping Trump’s return to the White House,https://www.foxnews.com/politics/year-review-economic-policies-shaping-trumps-return-white-house,2026-01-02 12:00:07+00:00,,,0.0,Neutral,Fox News,0
-4,16,2,Atlanta gets $75M in federal funds for revitalization projects,https://www.ajc.com/news/2026/01/atlanta-gets-75m-in-federal-funds-for-revitalization-projects/,2026-01-02 10:00:00+00:00,"Atlanta Mayor Andre Dickens is pushing to extend the life of the eight tax allocation districts in a proposal that has generated debate among the City Council. (Miguel Martinez/AJC)
+Ukraine's audacious strikesâ€”destroying 40+ Russian warplanes, including strategic bombersâ€”have raised fears of Putin's ""extreme"" retaliation, possibly involving nuclear escalation.
 
-The award is a record sum for the city under the New Markets Tax Credit program, but it comes with terms.
+NATO accuses Russia of cyberat","nato threat, strike russia, strikes russia, russia cyberattacks, russian cyberattacks",-0.9869,Negative,Natural News,0
+3,12,6,German parliament backs controversial military service law amid Russian threat,https://www.reuters.com/business/aerospace-defense/german-parliament-backs-controversial-military-service-law-amid-russian-threat-2025-12-05/,2025-12-05T10:28:41Z,,,0,Neutral,Reuters,0
+5,21,8,Iran Warns US To Stay Away From Naval War Drills,https://www.newsweek.com/iran-warns-us-stay-away-naval-war-drills-11160946,2025-12-05T11:59:48Z,"The naval arm of Iran's Islamic Revolutionary Guard Corps (IRGC) has issued a direct warning to U.S. warships in its southern waters, telling them to keep away from its ongoing military exercises.
 
-The award is a record sum for the city under the New Markets Tax Credit program, but it comes with terms.
+The alert comes as Tehran launches a large-scale drill across the Persian Gulf, Strait of Hormuz and Sea of Oman that's designed to showcase its defensive readiness and deterrent capabilities. Officials say the warning is meant to prevent any ""provocations or threats"" to Iran's territorial waters.
 
-The U.S. Department of the Treasury recently awarded $75 million to the city of Atlanta for development","atlanta mayor, funding treasury, program funding, atlanta development, tax credit",0.9477,Positive,The Atlanta Journal-Constitution,0
-3,14,1,FACT FOCUS: Trump says he’s ended eight wars. His numbers are off,https://www.arkansasonline.com/news/2026/jan/02/fact-focus-trump-says-hes-ended-eight-wars-his/,2026-01-02 08:38:00+00:00,"Let us read it for you. Listen now. Your browser does not support the audio element.
+Ne","warning gulf, alert iran, persian gulf, threats iran, gulf strait",-0.8402,Negative,Newsweek,0
+1,3,1,"Has the DAT Bubble Already Burst? CoinShares Says In Many Ways, Yes.",https://www.coindesk.com/markets/2025/12/05/has-the-dat-bubble-already-burst-coinshares-says-in-many-ways-yes,2025-12-05T15:30:17Z,"Crypto asset management firm CoinShares (CS) said the digital asset treasury (DAT) bubble has largely burst, with some firms that traded at 3x to 10x their market net-asset value (mNAV) in summer 2025 now back to about 1x or below, in a sharp reset for a trade that once priced token treasuries like a growth engine.
 
-U.S. President Donald Trump continues to claim he has ended eight wars this year, but that is exaggerated. His meeting this week with Israeli Prime Minister Benjamin Netanyahu highlights that far more work remains before any declaration of an end to the war in Gaza.
+The next move hinges on behavior: either falling prices spark a disorderly sell-off, or companies hold their balances and wait for a rebound, CoinShares head of research, James Butte","firm coinshares, crypto asset, speculative treasury, asset treasury, cash market",0.9451,Positive,CoinDesk,0
+6,23,2,UBS Shares Rise on Report Swiss May Ease Part of Capital Package,https://www.bloomberg.com/news/articles/2025-12-05/ubs-shares-rise-on-report-swiss-may-ease-part-of-capital-package,2025-12-05T16:53:47Z,"UBS Group AG shares rose after Reuters reported that the Swiss government was considering easing part of a bank regulation package that would add billions to the lenderâ€™s capital requirements.
 
-Meanwhile, fresh fighting broke out in recent weeks between Thailand and Cambodia, and between Congolese forces and Rwanda-backed rebels. And one ","gaza continues, war gaza, gaza future, aid gaza, gaza hamas",-0.9544,Negative,Arkansas Online,0
-5,21,1,Evidence mounts of U.S. strike inside Venezuela amid rising tensions,https://www.spokesman.com/stories/2026/jan/02/evidence-mounts-of-us-strike-inside-venezuela-amid/,2026-01-02 08:23:00+00:00,,,0.0,Neutral,Spokane Spokesman-Review,0
-1,4,2,Why investors will learn to love government bonds,https://www.reuters.com/commentary/breakingviews/why-investors-will-learn-love-government-bonds-2026-01-02/,2026-01-02 07:00:21+00:00,,,0.0,Neutral,Reuters,0
-4,16,1,"Consumer Tech News (Dec 22-26): Trump Ends ""Woke"" Policies at U.S. Universities, FCC Blocks Chinese Drone Competition & More",https://www.benzinga.com/markets/tech/26/01/49660465/consumer-tech-news-dec-22-26-trump-ends-woke-policies-at-u-s-universities-fcc-blocks-chinese-drone-competition-more,2026-01-01 18:51:54+00:00,"This Holiday season, popular ""Buy Now, Pay Later"" services have accounted for a significant slice of consumer checkouts, even as rising regulatory scrutiny and debt concerns loom over the sector.
+The potential softening relates to planned changes for valuing deferred tax assets and software, the newswire said, citing three people familiar with the matter that it didnâ€™t identify. The government estimated in June that such changes would add some $3 billion in capital requirements to the lender.","easing bank, lender capital, ag shares, ubs group, changes valuing",0.8779,Positive,Bloomberg,0
+12,40,5,US Bank Regulators Ease Post-Crisis Curbs on Leveraged Loans,https://www.bloomberg.com/news/articles/2025-12-05/us-bank-regulators-ease-post-crisis-curbs-on-leveraged-loans,2025-12-05T18:58:00Z,"US banking agencies are easing Obama-era rules that spurred complaints from bankers they were being sidelined by too much regulation amid rapid growth in the private credit industry.
 
-Transportation Secretary Sean Duffy has touted the President Donald Trump administration’s end to “woke” university policies in the U.S.
+The 2013 guidance was â€œoverly restrictiveâ€ and â€œoverly broad,â€ the Office of the Comptroller of the Currency and the Federal Deposit Insurance Corp. said in a statement on Friday. The old guidance resulted in a significant drop in market share for regulated banks in leveraged lending and pushed much of that busines","regulated banks, banking agencies, regulation, agencies easing, complaints bankers",0.7845,Positive,Bloomberg,0
+12,40,4,US regulators relax leveraged-lending guidance for banks,https://www.reuters.com/legal/transactional/us-regulators-relax-leveraged-lending-guidance-banks-2025-12-05/,2025-12-05T20:02:25Z,,,0,Neutral,Reuters,0
+12,40,3,Elizabeth Warren Demands Private Credit Stress Test After Big Bankruptcies,https://www.europesays.com/2615959/,2025-12-06T08:23:24Z,"US Senator Elizabeth Warren is urging regulators to scrutinize the burgeoning private credit market, warning that implosions of Tricolor Holdings and First Brands Group are â€œlikely the tip of the icebergâ€ in terms of bad debt held by Wall Streetâ€™s biggest banks.
 
-Venture capitalist Chamath Palihapitiya issued a stark warning to Silicon Valley this week: the growing ""Stop AI"" movement, championed by figures like Senator Bernie","antitrust, drone industry, apple alleged, antitrust authority, ai companies",0.4539,Positive,Benzinga,0
-5,21,1,Yemen’s Aden airport shuts as Saudi-UAE rift deepens,https://www.reuters.com/world/middle-east/yemens-aden-airport-shuts-saudi-uae-rift-deepens-2026-01-01/,2026-01-01 15:14:59+00:00,,,0.0,Neutral,Reuters,0
-3,14,2,"Republican split on Israel grows wider amid conservative infighting, Gaza war",https://foxbaltimore.com/station/share/republican-split-on-israel-grows-wider-amid-conservative-infighting-gaza-war-donald-trump-jd-vance-tucker-carlson-ben-shapiro-megyn-kelly-steve-bannon,2026-01-01 12:00:01+00:00,"The Republican Party has historically been more pro-Israel than the Democrats, but over the past year the tide appears to be shifting, whether that be with lawmakers, commentators or younger voters that align with the GOP.
+In a Thursday letter, Warren and Senator Jack Reed demanded that top cops at the Federal Reserve and Federal Deposit Insurance Corporation push Treasury Secretary Scott Bessent to conduct a stress test that evaluates the â€œthe size, scal","federal reserve, reserve federal, warren senator, credit market, warren urging",-0.7964,Negative,EUROPE SAYS,0
+3,12,5,NATO officialâ€™s suggestion of â€œpreemptive strikeâ€ on Russia sparks outcry amid rising tensions,https://www.naturalnews.com/2025-12-06-nato-suggestion-preemptive-strike-sparks-outcry.html,2025-12-06T16:15:20Z,"NATO officialâ€™s suggestion of â€œpreemptive strikeâ€ on Russia sparks outcry amid rising tensions
 
-Recently during a Hanukkah celebration at the White House, President Donald Trump warned that the Israel lobby was no longer the post powerful in Washington, D.C.
+Admiral Giuseppe Cavo Dragone, NATO's top military officer, proposed considering a ""preemptive strike"" against Russia in response to alleged hybrid warfare tactics (cyberattacks, GPS jamming, sabotage). Russia condemned the remarks as ""extremely irresponsible"" and escalatory, warning of severe consequences.
 
-""If you go back, 10, 12, 15 years ago, the most, the strongest lobby in Washington was the Jewish lobby, it was ","israel democrats, israel lobby, lobby israel, involvement israel, supporting israel",0.5808,Positive,Baltimore News,0
-3,14,1,"Republican split on Israel grows wider amid conservative infighting, Gaza war",https://wjla.com/news/nation-world/republican-split-on-israel-grows-wider-amid-conservative-infighting-gaza-war-donald-trump-jd-vance-tucker-carlson-ben-shapiro-megyn-kelly-steve-bannon,2026-01-01 12:00:01+00:00,"The Republican Party has historically been more pro-Israel than the Democrats, but over the past year the tide appears to be shifting, whether that be with lawmakers, commentators or younger voters that align with the GOP.
+Eastern European NATO members argue that Russia's asymmetric warfare (low-cost sabotage, cyber","nato aggressive, nato strike, defense nato, russia nato, nato remarks",-0.985,Negative,Natural News,0
+2,9,8,"Turkish FM Fidan: Black Sea drone attacks threaten global trade, risk expanding Ukraine war",https://www.naturalnews.com/2025-12-06-fidan-black-sea-drone-attacks-threaten-trade.html,2025-12-06T16:39:24Z,"Turkish FM Fidan: Black Sea drone attacks threaten global trade, risk expanding Ukraine war
 
-Recently during a Hanukkah celebration at the White House, President Donald Trump warned that the Israel lobby was no longer the post powerful in Washington, D.C.
+Ukraine has conducted explosive naval drone strikes on Russian-linked commercial vessels, including oil tankers, within Turkey's exclusive economic zone â€“ threatening global trade routes and expanding the Ukraine conflict geographically.
 
-""If you go back, 10, 12, 15 years ago, the most, the strongest lobby in Washington was the Jewish lobby, it was ","israel democrats, israel lobby, lobby israel, involvement israel, supporting israel",0.5808,Positive,WJLA,0
-3,14,3,Thousands stage pro-Gaza rally in Istanbul,https://www.al-monitor.com/originals/2026/01/thousands-stage-pro-gaza-rally-istanbul,2026-01-01 10:37:47+00:00,"Thousands joined a New Year's Day rally for Gaza in Istanbul Thursday, waving Palestinian and Turkish flags and calling for an end to the violence in the tiny war-torn territory.
+Turkish Foreign Minister Hakan Fidan warned of rising dangers to commerce, prompting NATO emergency talks. Shipping insurance costs have surged, and Russia has retaliat","ukraine maritime, turkey nato, impacts turkish, conflict turkish, ankara warnings",-0.9878,Negative,Natural News,0
+12,40,2,Why a Lack of Fear Around Private Credit Wonâ€™t Protect Investors From Risk,https://www.morningstar.com/markets/why-lack-fear-around-private-credit-wont-protect-investors-risk,2025-12-07T00:00:00Z,,,0,Neutral,Morningstar,0
+12,40,1,"US private credit defaults to ease in 2026, but fragility to persist, says BofA",https://www.reuters.com/business/finance/us-private-credit-defaults-ease-2026-fragility-persist-says-bofa-2025-12-09/,2025-12-09T11:49:06Z,,,0,Neutral,Reuters,0
+7,27,8,GE Vernova working with US government to boost stocks of rare earth yttrium,https://www.reuters.com/business/energy/ge-vernova-working-with-us-government-boost-stocks-rare-earth-yttrium-2025-12-10/,2025-12-10T02:11:50Z,,,0,Neutral,Reuters,0
+7,27,7,Another China Rare Earth Firm Gets Export License,https://www.newsmax.com/newsfront/china-rare-earth-export-license/2025/12/10/id/1237761/,2025-12-10T13:01:54Z,"Chinese rare earth producer Ningbo Jintian Copper said on Wednesday it had secured streamlined licenses for magnet product exports.
 
-Demonstrators gathered in freezing temperatures under cloudless blue skies to march to the city's Galata Bridge for a rally under the slogan: ""We won't remain silent, we won’t forget Palestine,"" an AFP reporter at the scene said.
+The new ""general licenses"" are designed to allow more exports under year-long permits for individual customers following an agreement after a meeting between China's President Xi Jinping and his U.S. counterpart Donald Trump in late October.
 
-More than 400 civil society organisations were present at the rally, one of whose organis","rally gaza, palestinian turkish, waving palestinian, march turkey, gaza istanbul",-0.7506,Negative,Al-Monitor,0
-3,14,4,Israel confirms ban on 37 NGOs in Gaza,https://www.al-monitor.com/originals/2026/01/israel-confirms-ban-37-ngos-gaza,2026-01-01 10:16:45+00:00,"Israel on Thursday said 37 humanitarian agencies supplying aid in Gaza had not met a deadline to meet ""security and transparency standards"", and would be banned from the territory, despite an international outcry.
+Ningbo Jintian Copper's rare earth magnet products are used in electric vehicles, wind turbines, robots, consumer electronic","magnets export, licenses magnet, magnet makers, earth magnets, earth magnet",0.7783,Positive,Newsmax,0
+5,21,7,US fighter jets fly over the Gulf of Venezuela amid rising tensions,https://wjla.com/news/nation-world/us-military-fighter-jets-fly-over-the-gulf-of-venezuela-amid-rising-tensions-boat-strikes-nicolas-maduro-caribbean-sea-pacific-narco-terrorists-drug-related-crime-trump-administration-airspace,2025-12-10T14:28:56Z,"The U.S. deployed two fighter jets over the Gulf of Venezuela on Tuesday, marking what appeared to be the closest American warplanes have come to the South American country's airspace since the start of the Trump administration's pressure campaign, according to reports.
 
-The international NGOs, which had been ordered to disclose detailed information on their Palestinian staff, will now be required to cease operations by March 1.
+A pair of U.S. Navy F/A-18 fighter jets was observed on Flightradar24 flying over the Gulf for more than 30 minutes, the Associated Press reported.
 
-The United Nations has warned that this will exacerbate the humanitarian crisis in the war-ravaged Palestinian territory.
+A U.S. defense official, speaking on the condition of anonymity, confirmed the ","venezuela airspace, gulf venezuela, strikes venezuela, jets gulf, venezuela tuesday",-0.1531,Negative,WJLA,0
+5,21,6,US fighter jets fly over the Gulf of Venezuela amid rising tensions,https://foxbaltimore.com/news/nation-world/us-military-fighter-jets-fly-over-the-gulf-of-venezuela-amid-rising-tensions-boat-strikes-nicolas-maduro-caribbean-sea-pacific-narco-terrorists-drug-related-crime-trump-administration-airspace,2025-12-10T14:28:56Z,"The U.S. deployed two fighter jets over the Gulf of Venezuela on Tuesday, marking what appeared to be the closest American warplanes have come to the South American country's airspace since the start of the Trump administration's pressure campaign, according to reports.
 
-","humanitarian agencies, palestinian ngo, humanitarian organisations, refugee agency, palestinian staff",-0.7094,Negative,Al-Monitor,0
-3,14,5,Israel says it 'will enforce' ban on 37 NGOs in Gaza,https://www.al-monitor.com/originals/2026/01/israel-says-it-will-enforce-ban-37-ngos-gaza,2026-01-01 10:16:45+00:00,"Israel on Thursday said 37 humanitarian agencies supplying aid in Gaza had not met a deadline to meet ""security and transparency standards"", and would be banned from the territory, despite an international outcry.
+A pair of U.S. Navy F/A-18 fighter jets was observed on Flightradar24 flying over the Gulf for more than 30 minutes, the Associated Press reported.
 
-The international NGOs, which had been ordered to disclose detailed information on their Palestinian staff, will now be required to cease operations by March 1.
+A U.S. defense official, speaking on the condition of anonymity, confirmed the ","venezuela airspace, gulf venezuela, strikes venezuela, jets gulf, venezuela tuesday",-0.1531,Negative,Baltimore News,0
+4,14,1,Former UK Prime Minister to Newsmax: Europe 'Insanely Jealous' of US Economy,https://www.newsmax.com/newsmax-tv/liz-truss-europe-economy/2025/12/10/id/1237793/,2025-12-10T16:39:24Z,"Liz Truss, former Prime Minister of the United Kingdom, on Wednesday told Newsmax that the United States is outpacing Europe economically and urged Britain and European leaders to follow President Donald Trump's energy and tax policies.
 
-The United Nations has warned that this will exacerbate the humanitarian crisis in the war-ravaged Palestinian territory.
+Truss, appearing on ""National Report,"" said European leaders should emulate Trump's approach on energy production and tax cuts to reverse what she described as stagnation and falling living standards while discussing Trump's second-term agenda and broader U.S. l","trump energy, economy truss, britain poorer, american economy, liz truss",0.7184,Positive,Newsmax,0
+7,27,6,Ford suppliers receive China's new streamlined rare-earth licences,https://www.reuters.com/business/autos-transportation/ford-suppliers-receive-chinas-new-streamlined-rare-earth-licences-2025-12-10/,2025-12-10T18:26:21Z,,,0,Neutral,Reuters,0
+3,12,4,"Japan Defense Minister Conveys 'Grave Concerns' Over China, Russia to NATO Chief",https://www.bloomberg.com/news/articles/2025-12-11/japan-s-defense-chief-conveys-concerns-over-china-to-nato-chief,2025-12-11T02:06:05Z,"China and Japan are racing to rally other governments for support as a diplomatic standoff persists over Japanese Prime Minister Sanae Takaichi â€™s remarks on Taiwan, squeezing nations between Asiaâ€™s two largest economies.
 
-","humanitarian agencies, palestinian ngo, humanitarian organisations, refugee agency, palestinian staff",-0.7094,Negative,Al-Monitor,0
-3,11,1,UAE foreign policy in spotlight after Yemen escalation,https://www.reuters.com/world/middle-east/uae-foreign-policy-spotlight-after-yemen-escalation-2025-12-31/,2025-12-31 14:29:43+00:00,,,0.0,Neutral,Reuters,0
-3,11,2,Factbox-UAE foreign policy in spotlight after Yemen escalation,https://www.al-monitor.com/originals/2025/12/factbox-uae-foreign-policy-spotlight-after-yemen-escalation,2025-12-31 14:29:14+00:00,"By Yousef Saba
+Japanese Defense Minister Shinjiro Koizumi conveyed â€œgrave concernsâ€ over rising security tensions involving China and Russia on Wednesday during separate video meetings with NATO Secretary General Mark Rutte and Italian Defense Minister Guido Crosetto .","rally governments, japan racing, support diplomatic, japanese defense, china japan",0.3182,Positive,Bloomberg,0
+6,23,1,ECB moves to lighten regulatory burden but rules against easing capital requirements,https://www.europesays.com/2627069/,2025-12-11T12:14:35Z,"The European Central Bank has unveiled plans to simplify capital rules for larger lenders and ease regulatory burdens on smaller banks, even as it rejected calls for lower capital levels.
+
+Key proposals from the ECB, announced on Thursday morning, include simplifying capital requirements, with a set of four mandated buffers to be reduced down to two. Of these, one will contain capital that cannot be released, with a second adjustable by national authorities when necessary.
+
+The proposals will â€œs","eu banking, eu banks, banking regulation, european banks, tighter banking",-0.7717,Negative,EUROPE SAYS,0
+2,9,7,Tariffs And Shipping Bills Blow A Hole In Lovesac's Quarter,https://www.benzinga.com/markets/earnings/25/12/49333932/tariffs-and-shipping-bills-blow-a-hole-in-lovesacs-quarter,2025-12-11T14:31:26Z,"The Lovesac Company (NASDAQ:LOVE) stock fell Thursday after the company posted a wider quarterly loss and softer sales than expected.
+
+The retailer also tightened its full-year outlook as higher costs and weaker comparable sales pressured results.
+
+Lovesac reported a third-quarter EPS loss of 72 cents, missing Wall Streetâ€™s forecast for a 59-cent loss.
+
+Also Read: Stock Market Today: Dow Jones, S&P 500 Futures Slip Day After Fedâ€™s Rate Cutâ€”Oracle, Broadcom, Costco In Focus
+
+Metrics
+
+Quarterly sa","lovesac shares, lovesac company, lovesac reported, lovesac, results lovesac",-0.8979,Negative,Benzinga,0
+3,12,3,The Geopolitics of Sovereign Wealth Funds,https://foreignpolicy.com/2025/12/11/qatar-saudi-arabia-sovereign-wealth-funds-united-arab-emirates/,2025-12-11T17:24:06Z,"Cohen joined me for a taping of FP Live on the sidelines of the Doha Forum in Qatar last weekend. The episode is part of a partnership this year between FP and the Goldman Sachs Global Institute.
+
+Earlier this year, U.S. President Donald Trump made his first foreign visit not to Europe or Asia, but to three countries in the Middle East: Qatar, Saudi Arabia, and the United Arab Emirates. Each of these Gulf monarchies has built up sovereign wealth funds that are, in addition to serving as investme","uae invest, uae qatar, qatar uae, trump foreign, gulf countries",0.8779,Positive,Foreign Policy,0
+12,41,6,Coinbase Expands Into Prediction Markets And Tokenized Stocks,https://cointelegraph.com/news/coinbase-prediction-markets-tokenized-stocks-december-17-report,2025-12-12T09:20:29Z,"Coinbase, the largest US crypto exchange by trading volume, is days away from unveiling its push into prediction markets and tokenized stocks, according to Bloomberg.
+
+Coinbase plans to announce next week that it will launch prediction markets and tokenized equities, Bloomberg reported on Thursday, citing anonymous sources familiar with the matter.
+
+When asked for comment by Cointelegraph, a Coinbase spokesperson said the company will hold a livestream on Wednesday to showcase new products, thou","coinbase, coinbase plans, coinbase spokesperson, bloomberg coinbase, truth coinbase",0.128,Positive,Cointelegraph,0
+12,41,5,"Coinbase To Join Prediction Markets, Launch Tokenized Stocks",https://www.investors.com/news/coinbase-stock-prediction-markets-tokenized-stocks-tokenized-equities/,2025-12-12T14:34:00Z,,,0,Neutral,Investor's Business Daily,0
+12,41,4,"Prediction Markets Are Quietly Turning Into a New Asset Class, Citizens Says",https://www.coindesk.com/markets/2025/12/15/prediction-markets-are-quietly-turning-into-a-new-asset-class-citizens-says,2025-12-15T15:06:00Z,"Prediction markets are quickly shifting from a niche sideline to an emerging asset class, with monthly volumes around $10 billion, said U.S. bank Citizens. Though tiny next to the more than $10 trillion in U.S. equities, they are growing fast as platforms like Robinhood (HOOD), Kalshi and Polymarket scale.
+
+The bank said these markets address a core flaw in traditional finance by letting investors trade directly on events like inflation figures, election results, Federal Reserve decisions and re","prediction markets, said markets, markets coming, markets, markets quickly",0.8658,Positive,CoinDesk,0
+12,41,3,"Compass Point Cuts Coinbase Price Target Ahead of Expected Stocks, Prediction Market Reveal",https://decrypt.co/352427/compass-point-cuts-coinbase-price-target-stocks-prediction-markets,2025-12-15T19:48:43Z,"In brief Compass Point analyst reiterated a â€œSellâ€ rating for Coinbase shares while cutting COIN's price target.
+
+They foresee tokenized equities as a $230 million opportunity for the exchange.
+
+Thatâ€™s more than the $210 million analysts penciled in for prediction markets.
+
+Decryptâ€™s Art, Fashion, and Entertainment Hub. Discover SCENE
+
+Tokenized stocks likely represent a bigger revenue opportunity for Coinbase than prediction markets, analysts at Compass Point wrote in a Monday report while lowe","coinbase prediction, tokenized stocks, coin stock, coin investment, prediction market",0.8126,Positive,Decrypt,0
+2,9,6,The Suez Canal Reopening Is a 2026 Gift for Commodities,https://www.bloomberg.com/opinion/articles/2025-12-16/the-suez-canal-reopening-is-a-2026-gift-for-commodities,2025-12-16T04:30:05Z,,,0,Neutral,Bloomberg,0
+3,12,2,Americaâ€™s New Security Doctrine and the Reordering of Global Energy Geopolitics,https://wattsupwiththat.com/2025/12/16/americas-new-security-doctrine-and-the-reordering-of-global-energy-geopolitics/,2025-12-16T14:00:00Z,"Watts Up With That? â€“ Climate Change News, Research & Analysis
+
+Welcome to Watts Up With That, one of the most well-known climate blogs! We gather the latest scientific research, news, and expert opinion to help you understand how our planet is changing and what implications it may have for humanity. Our approach is based on facts, objective analysis, and open discussions about one of the most critical issues of our time. Watts up with that climate and what changes await us â€“ letâ€™s figure it out","climate change, climate changes, watts climate, climate blogs, climate",0.8073,Positive,Watts Up With That,0
+1,4,10,How Will A Mamdani Administration Impact NYC Commercial Real Estate?,https://www.forbes.com/sites/shimonshkury/2025/12/16/how-will-a-mamdani-administration-impact-nyc-commercial-real-estate/,2025-12-16T15:00:00Z,,,0,Neutral,Forbes,0
+1,4,9,SUV crashes into real estate office connected to credit union in Ashburn,https://wjla.com/news/local/ashburn-loudoun-county-northern-virginia-car-crash-suv-real-estate-office-building-northwest-federal-credit-union-one-branch-emergency-impacted-businesses-commercial-first-responders,2025-12-17T03:14:20Z,"An SUV crashed into a commercial building in northern Virginia Tuesday night, damaging a real estate office that shares a wall with a bank, according to the Loudoun County Sheriff's Office.
+
+Loudoun County Fire and Rescue (LCFR) said units responded just before 9 p.m. to the 20000 block of Exchange Street in Ashburn for reports of a vehicle that had struck a building.
+
+Deputies and emergency crews arrived to find a vehicle lodged inside a real estate office connected to the Northwest Federal Cre","suv crashed, vehicle struck, investigating crash, vehicle lodged, reports vehicle",-0.6249,Negative,WJLA,0
+3,12,1,Turning the Monroe Doctrine Into Donroe Is Awful Geopolitics,https://www.bloomberg.com/opinion/articles/2025-12-17/turning-the-monroe-doctrine-into-donroe-is-awful-geopolitics,2025-12-17T11:00:05Z,,,0,Neutral,Bloomberg,0
+1,4,8,Boston Hit With Lawsuit Over Retaliatory Property Tax Inflation,https://news.bloombergtax.com/daily-tax-report/boston-hit-with-lawsuit-over-retaliatory-property-tax-inflation,2025-12-17T20:25:09Z,"Boston has engaged in a â€œdeliberate, highly calculated, and comprehensive scheme to artificially increase the assessed valueâ€ of commercial real estate of owners that seek property tax abatements, a proposed class action filed Wednesday alleges.
+
+The city has failed to recognize the actual loss of fair market value of at least 60 multi-story office buildings that have become less valuable as the prevalence of remote and hybrid work accelerates, property owner HS 148SST LLC says in a complaint fi","property tax, real estate, filed massachusetts, property record, property owner",0.6213,Positive,Bloomberg Tax News,0
+1,4,7,Commercial Real Estate Outlook 2026: Analysts See Signs of Recovery,https://www.thestreet.com/real-estate/commercial-real-estate-outlook-2026-analysts-see-signs-of-recovery,2025-12-17T20:29:40Z,,,0,Neutral,The Street,0
+12,41,2,"Coinbase adds prediction markets, stock trading more business tools",https://www.cnbc.com/2025/12/17/coinbase-prediction-markets-stock-trading-stablecoins.html,2025-12-17T22:30:32Z,"Coinbase is making its biggest push yet to reposition itself as a mainstream trading and financial platform, moving beyond crypto and into the broader retail investing stack as competitors show there's real money in always-on engagement products.
+
+The digital asset exchange announced Wednesday that it's rolling out a major slate of new products designed to turn Coinbase into a one-stop financial app, expanding into stocks, more advanced trading, and prediction markets, while doubling down on its","coinbase making, coinbase, turn coinbase, coinbase says, coinbase stop",0.7778,Positive,CNBC,0
+12,41,1,"Crypto exchange Coinbase (COIN) dramatically expanding offerings, including tie",https://www.coindesk.com/business/2025/12/17/coinbase-rolls-out-stock-trading-prediction-markets-and-more-in-bid-to-become-the-everything-exchange,2025-12-17T22:33:50Z,"U.S.-listed cryptocurrency exchange Coinbase (COIN) is introducing stock trading and incorporating prediction markets, along with a slew of other new products and assets that aims to cement the platformâ€™s position as the â€œEverything Exchange,â€ the company announced during its System Update stream on Wednesday.
+
+Coinbase said it is dramatically expanding the assets available to trade on its platform, including novel cryptocurrencies, perpetual futures, stocks and prediction markets, starting with","trading crypto, coinbase, crypto trading, coinbase coin, available coinbase",0.5719,Positive,CoinDesk,0
+7,27,5,Earth Products as Export Controls Ease,https://www.bloomberg.com/news/articles/2025-12-18/china-ships-more-rare-earth-products-as-export-controls-loosen,2025-12-18T06:37:08Z,"China shipped 13% more rare-earth products in November than in the preceding month, a sign that a more relaxed export regime is restoring flows of the critical minerals used in electric vehicles, weapons and high-tech manufacturing.
+
+The 6,958 tons of rare-earth products â€” including magnets â€” exported in November was the third-highest monthly total on record, according to Bloomberg calculations using official customs data. The numbers suggest that China has stepped up shipments since agreeing a ","magnets exported, china shipped, rare earth, earth products, exported november",0.659,Positive,Bloomberg,0
+7,27,4,"China says it is granting new, streamlined rare earth export licences",https://www.reuters.com/world/asia-pacific/china-confirms-granting-some-rare-earth-export-licences-2025-12-18/,2025-12-18T07:40:24Z,,,0,Neutral,Reuters,0
+1,4,6,Alo Yoga Buys Beverly Hills Office for $90M,https://www.latimes.com/b2b/commercial-real-estate/story/2025-12-18/alo-yoga-breevast-beverly-hills-sale,2025-12-18T16:00:00Z,"This is read by an automated voice. Please report any issues or inconsistencies here .
+
+Alo Yoga acquired the La Peer Building at 8942 Wilshire Blvd. in Beverly Hills for $90 million, or $1,086 per square foot, to serve as its headquarters. The roughly 83,000-square-foot, three-story office building located in the heart of Beverly Hills is adjacent to social and coworking space Arc Beverly and close to the massive One Beverly Hills development located next to the Beverly Hilton.
+
+Originally cons","blvd beverly, located beverly, beverly hills, arc beverly, wilshire boulevard",0.7579,Positive,Los Angeles Times,0
+1,4,5,Backpack Networks Appoints Senior Leaders to Drive Digital Transformation in Commercial Real Estate,https://www.businesswire.com/news/home/20251218348147/en/Backpack-Networks-Appoints-Senior-Leaders-to-Drive-Digital-Transformation-in-Commercial-Real-Estate,2025-12-18T16:05:00Z,"CORAL GABLES, Fla.--(BUSINESS WIRE)--Backpack Networks, the company redefining how building data is stored and used to add transparency and value to the commercial real estate industry, today announced the appointment of Gary Michel as Chief Executive Officer and Jason Rutherford as President and Chief Revenue Officer.
+
+â€œWeâ€™re at an inflection point where taking data out of disparate systems and unifying it is no longer a concept â€” itâ€™s an urgent necessity to unlock a new standard of affordabili","backpack ceo, backpacknetworks, industry backpack, backpacknetworks com, responsibilities backpack",0.25,Positive,Business Wire,0
+6,22,1,PayPal applies to form its own bank to expand small-business lending,https://www.adn.com/business-economy/2025/12/18/paypal-applies-to-form-its-own-bank-to-expand-small-business-lending/,2025-12-19T00:37:43Z,"For Subscribers
+
+The PayPal logo hangs displayed outside their company headquarters on March 10, 2015, in San Jose, Calif. (AP Photo/Jeff Chiu, File)
+
+PayPal is seeking a banking charter that would allow it to boost its lending business, offer savings accounts that can earn interest and make customersâ€™ deposits eligible for federal insurance coverage, the payments company said Monday.
+
+PayPal has submitted applications to authorities in Utah and to the Federal Deposit Insurance Corp. to set up P","paypal banking, paypal bank, company paypal, paypal account, companies banking",0.836,Positive,Anchorage Daily News,0
+2,6,5,Factbox-What Are Shipping Companies' Plans for Return to Suez Canal?,https://www.usnews.com/news/world/articles/2025-12-19/factbox-what-are-shipping-companies-plans-for-return-to-suez-canal,2025-12-19T13:20:00Z,"Get the Admissions Edge With Getting In!
+
+Have the parent playbook for applying to college delivered to your inbox each Thursday.
+
+Sign Up
+
+Sign up to receive the latest updates from U.S. News & World Report and our trusted partners and sponsors. By clicking submit, you are agreeing to our Terms and Conditions & Privacy Policy.","playbook applying, admissions edge, admissions, applying college, parent playbook",0.6996,Positive,U.S. News & World Report,0
+2,6,4,What are shipping companies' plans for return to Suez Canal?,https://www.reuters.com/world/middle-east/what-are-shipping-companies-plans-return-suez-canal-2025-12-19/,2025-12-19T13:20:17Z,,,0,Neutral,Reuters,0
+2,6,3,Factbox-What are shipping companies' plans for return to Suez Canal?,https://www.al-monitor.com/originals/2025/12/factbox-what-are-shipping-companies-plans-return-suez-canal,2025-12-19T13:22:20Z,"Dec 19 (Reuters) - Major shipping companies are devising strategies for â€‹a potential return to the Suez â€‹Canal after two years of disruptions due to security risks â in the Red Sea.
+
+They have been rerouting vessels via longer, costlier routes around Africa since November 2023, following attacks on commercial â€‹ships by Yemen's Houthi forces, reportedly in â€solidarity with Palestinians during warfare â€‹in Gaza.
+
+A ceasefire agreement reached in October has led some companies to explore resumption p","suez transits, sea rerouting, return suez, limited suez, suez corridor",-0.3818,Negative,Al-Monitor,0
+2,9,5,Iraqi Crude Canâ€™t Replace Venezuelan Oil in the U.S. Market,https://oilprice.com/Latest-Energy-News/World-News/Iraqi-Crude-Cant-Replace-Venezuelan-Oil-in-the-US-Market.html,2025-12-19T16:30:00Z,"The economics of shipping additional volumes of heavy crude from Iraq to compensate for a potential loss of Venezuelaâ€™s supply are just not there at present, Shafaq News reported on Friday, quoting Iraqi economist Nabil Al-Marsoumi.
+
+Concerns in the heavy crude market are that the U.S. blockade of tankers carrying Venezuelan oil and heightened tensions in the Caribbean would reduce supply of the extra heavy crude.
+
+In theory, the sour and heavy grades from the top producers in the Middle East co","venezuelan oil, venezuela oil, venezuela crude, venezuela supply, iraq oil",-0.9584,Negative,OilPrice,0
+3,12,3,"Putin deploys Oreshnik hypersonic missiles to Belarus, escalating NATO tensions",https://www.naturalnews.com/2025-12-19-putin-deploys-oreshnik-hypersonic-missiles-to-belarus.html,2025-12-19T16:50:55Z,"Putin deploys Oreshnik hypersonic missiles to Belarus, escalating NATO tensions
+
+Russia is deploying advanced Oreshnik missiles to Belarus, a move that significantly increases tensions with NATO due to Belarus' proximity to NATO members. The missile has a 4,000 km range, can carry multiple nuclear warheads, and can strike European capitals like Warsaw and Brussels with little warning.
+
+Russian President Vladimir Putin claims the Oreshnik travels at Mach 10, making it extremely difficult to inter","missiles belarus, missile belarus, nato missile, oreshnik missiles, oreshnik missile",-0.8442,Negative,Natural News,0
+2,9,4,The Best Record-Low Holiday Deals You Can Wrap in Time for Christmas,https://www.cnet.com/deals/record-low-holiday-deals-available/,2025-12-19T20:01:00Z,"Christmas morning is just days away, so it's time to kick it into high gear if you've still got some names to cross off your list. Last minute gifts usually mean either gift cards or spending a fortune. However, you can still take advantage of many excellent deals for a last-minute gift. Plus, if you order today, some places may even be able to deliver your items with time to spare. Below, we've collected some of the best offers available right now -- all priced at a record-low and ready to be d","christmas gifts, minute gifts, shipping delays, christmas morning, gift cards",0.9753,Positive,CNET,0
+7,27,3,China Eases Rare Earth Export Rules Following U.S. Trade Truce,https://oilprice.com/Metals/Commodities/China-Eases-Rare-Earth-Export-Rules-Following-US-Trade-Truce.html,2025-12-19T22:00:00Z,"BP has become an outlier in the industry by raising its spending on energy transition activities to 30% since 2020, a move that has been met with a huge rebellion from shareholders scrutinizing the firmâ€™s environmental policy.
+
+The appointment of Oâ€™Neil comes as BP faces significant pressure, including a Â£3.8bn stake acquired by activist investor Elliott Investment Management, which has pushed for a faster strategic overhaul.
+
+FTSE 100 oil major BP has replaced its chief executive, Murray Auchin","bp replaced, major bp, bp, trade china, earth trade",0.5859,Positive,OilPrice,0
+4,16,9,DOJ vowed to punish those who disrupt Trumpâ€™s immigration crackdown. Dozens of cases have crumbled,https://www.oregonlive.com/news/2025/12/doj-vowed-to-punish-those-who-disrupt-trumps-immigration-crackdown-dozens-of-cases-have-crumbled.html,2025-12-20T19:00:00Z,"WASHINGTON (AP) â€” The federal agent described her wounds as â€œboo-boos.â€
+
+Nevertheless, the Department of Justice aggressively pursued the alleged perpetrator. They jailed Sidney Lori Reid on a charge of felony assault, accusing her of injuring the agent during a July protest of President Donald Trumpâ€™s immigration crackdown in Washington, D.C.
+
+When grand jurors thrice declined to indict the 44-year-old on the felony, prosecutors tried her on a misdemeanor.
+
+Body camera footage played at trial r","reid case, acquitted prosecutors, federal prosecutor, federal criminal, charges alleged",-0.9501,Negative,The Oregonian,0
+4,16,10,DOJ vowed to punish those who disrupt Trumpâ€™s immigration crackdown. Dozens of cases have crumbled,https://www.silive.com/news/2025/12/doj-vowed-to-punish-those-who-disrupt-trumps-immigration-crackdown-dozens-of-cases-have-crumbled.html,2025-12-20T19:00:00Z,"WASHINGTON (AP) â€” The federal agent described her wounds as â€œboo-boos.â€
+
+Nevertheless, the Department of Justice aggressively pursued the alleged perpetrator. They jailed Sidney Lori Reid on a charge of felony assault, accusing her of injuring the agent during a July protest of President Donald Trumpâ€™s immigration crackdown in Washington, D.C.
+
+When grand jurors thrice declined to indict the 44-year-old on the felony, prosecutors tried her on a misdemeanor.
+
+Body camera footage played at trial r","reid case, acquitted prosecutors, federal prosecutor, federal criminal, charges alleged",-0.9501,Negative,Staten Island Advance,0
+4,16,8,DOJ vowed to punish those who disrupt Trumpâ€™s immigration crackdown. Dozens of cases have crumbled,https://www.al.com/news/2025/12/doj-vowed-to-punish-those-who-disrupt-trumps-immigration-crackdown-dozens-of-cases-have-crumbled.html,2025-12-20T19:00:00Z,"WASHINGTON (AP) â€” The federal agent described her wounds as â€œboo-boos.â€
+
+Nevertheless, the Department of Justice aggressively pursued the alleged perpetrator. They jailed Sidney Lori Reid on a charge of felony assault, accusing her of injuring the agent during a July protest of President Donald Trumpâ€™s immigration crackdown in Washington, D.C.
+
+When grand jurors thrice declined to indict the 44-year-old on the felony, prosecutors tried her on a misdemeanor.
+
+Body camera footage played at trial r","reid case, acquitted prosecutors, federal prosecutor, federal criminal, charges alleged",-0.9501,Negative,AL.com,0
+7,27,2,How Japan built a rare-earth supply chain without China,https://www.spokesman.com/stories/2025/dec/21/how-japan-built-a-rare-earth-supply-chain-without-/,2025-12-21T06:00:00Z,,,0,Neutral,Spokane Spokesman-Review,0
+2,9,3,U.S. tariffs hit Germany's traditional nutcracker industry,https://www.inquirer.com/business/nutcrackers-german-us-tariffs-20251221.html,2025-12-21T19:11:27Z,"MARIENBERG, Germany â€” In a workshop tucked into the rolling hills of eastern Germanyâ€™s Ore Mountains, rows of wooden soldiers stood at attention. Their red coats gleamed and their square-jawed mouths â€” designed to crack nuts but mostly decorative â€” formed the trademark stiff grin of Steinbach Nutcrackers.
+
+For decades, these handmade figures have sailed across the Atlantic and into American homes, filling mantels and collectorsâ€™ shelves and appearing in countless Christmas card photos. Alongside","german exports, germany exporters, tariffs customs, tariffs, threatened tariffs",0.5423,Positive,The Philadelphia Inquirer,0
+1,4,4,Colorado Hazard Control Offers Guidance on Common,https://www.globenewswire.com/news-release/2025/12/21/3208922/0/en/Colorado-Hazard-Control-Offers-Guidance-on-Common-Environmental-Issues-in-Commercial-Properties-Integrating-a-Cleanup-Strategy-Into-the-Real-Estate-Transaction-Workflow-Case-Studie.html,2025-12-21T23:29:39Z,"Denver, CO, Dec. 21, 2025 (GLOBE NEWSWIRE) --
+
+In commercial real estate, environmental problems can turn a promising investment into a costly lesson. A single overlooked issue can delay financing, devalue property, or even stop a deal from closing.
+
+Environmental risks do not only threaten land. They can also threaten deals, reputations, and investments. For buyers, sellers, lenders, and investors, understanding how to identify and manage these risks can mean the difference between a profitable","estate environmental, colorado property, closing environmental, environmental concerns, residential environmental",-0.6923,Negative,GlobeNewswire,0
+1,6,10,"The Big Short's Steve Eisman Warns Of AI's 2 Big Risks In 2026: Power Constraints, Diminishing Returns On Larger LLMs",https://www.benzinga.com/markets/tech/25/12/49529078/the-big-shorts-steve-eisman-warns-of-ais-2-big-risks-in-2026-power-constraints-diminishing-returns-on-larger-llms,2025-12-22T04:47:14Z,"Investor Steve Eisman, famed for his role in predicting the 2008 financial crisis, which was portrayed in the 2015 movie â€œThe Big Short,â€ has a bold prediction on the AI boom as we head into the new year.
+
+AIâ€™s Two Big Risks In 2026
+
+On the Real Eisman Playbook podcast on Saturday, Eisman stated that two major risks could derail the AI momentum in 2026: growing power shortages and diminishing returns from scaling large language models (LLMs).
+
+â€œThe current binding constraint on AI growth is powe","ai growth, ai executives, shortfalls ai, ai trade, build ai",-0.8051,Negative,Benzinga,0
+2,9,2,Bridges of hope: Dallas entrepreneur champions Colombiaâ€™s underprivileged communities,https://www.dallasnews.com/business/entrepreneurs/2025/12/22/building-bridges-of-hope-dallas-entrepreneur-champions-colombias-unprivileged-communities/,2025-12-22T13:43:31Z,"This story is part of a series on Hispanic entrepreneurs.
+
+In Farmers Branch, tucked inside a modest strip mall, a burst of yellow, blue, and red greets every visitor. The colors of Colombiaâ€™s flag spill across shelves of hats, jerseys, bracelets and candies at Colombianitos, the small shop Eddie Johana Duarte built from scratch.
+
+Why This Story Matters Hispanic entrepreneurs are one of the fastest-growing business groups in North Texas: One in seven businesses in Dallas County are Hispanic-owne","colombian goods, hispanic entrepreneurs, hispanic entrepreneur, sells colombian, arrived colombia",0.7906,Positive,The Dallas Morning News,0
+3,12,2,Russia Issues Nuclear Warning About NATO-'Catastrophic Consequences',https://www.newsweek.com/russia-putin-nuclear-warning-nato-catastrophic-11254685,2025-12-22T15:02:04Z,"Russian Deputy Foreign Minister Sergey Ryabkov warned that NATO and his nation had moved dangerously close to direct conflict in 2025, warning of the ""catastrophic consequences"" of nuclear-powered nations going to war.
+
+The ally of Russian President Vladimir Putin pointed to actions viewed as aggressive from the United States and its allies.
+
+""This was actively supported by some of the most hawkish European NATO members, notably Britain and France, whose actions were particularly aggressive,"" Ry","warned russia, ryabkov warned, conflict russia, warned nato, russia expect",-0.9245,Negative,Newsweek,0
+4,16,7,NSA Employee Sues Trump Administration Over Order on Transgender Rights and Two 'Immutable' Genders,https://www.usnews.com/news/politics/articles/2025-12-22/nsa-employee-sues-trump-administration-over-order-on-transgender-rights-and-two-immutable-genders,2025-12-22T16:58:00Z,"A transgender employee of the National Security Agency is suing the Trump administration and trying to block enforcement of a presidential executive order and other policies the employee says violate federal civil rights law.
+
+Sarah O'Neill, an NSA data scientist who is transgender, disputes the legality of President Donald Trumpâ€™s Inauguration Day executive order that required the federal government, in all operations and printed materials, to recognize only two â€œimmutableâ€ sexes: male and fema","transgender disputes, transgender employee, suing trump, female lawsuit, transgender identity",-0.7845,Negative,U.S. News & World Report,0
+4,16,6,A transgender NSA employee sues Donald Trump's administration for discrimination,https://apnews.com/article/donald-trump-transgender-rights-lawsuit-e0c462aeb4662576e3569dfdf91b0a9c,2025-12-22T16:58:47Z,"Add AP News as your preferred source to see more of our stories on Google.
+
+Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share
+
+A transgender employee of the National Security Agency is suing the Trump administration and trying to block enforcement of a presidential executive order and other policies the employee says violate federal civil rights law.
+
+Sarah Oâ€™Neill, an NSA data scientist who is transgender, disputes the legality of President D","transgender disputes, transgender employee, transgender identity, transgender status, female lawsuit",-0.6908,Negative,The Associated Press,0
+4,16,5,NSA employee sues the Trump administration over transgender rights and 'immutable' genders,https://www.clickondetroit.com/news/politics/2025/12/22/nsa-employee-sues-trump-administration-over-order-on-transgender-rights-and-two-immutable-genders/,2025-12-22T16:58:47Z,"FILE - President Donald Trump signs executive orders in the Oval Office of the White House, Jan. 20, 2025, in Washington. (AP Photo/Evan Vucci, File)
+
+A transgender employee of the National Security Agency is suing the Trump administration and trying to block enforcement of a presidential executive order and other policies the employee says violate federal civil rights law.
+
+Sarah O'Neill, an NSA data scientist who is transgender, disputes the legality of President Donald Trumpâ€™s Inauguration Da","transgender employee, transgender disputes, suing trump, executive order, trump order",-0.7845,Negative,WDIV ClickOnDetroit,0
+2,9,1,"Ukraineâ€™s drone strikes force Russian oil tankers onto longer, riskier Black Sea routes",https://www.naturalnews.com/2025-12-22-ukraine-strikes-force-russian-oil-tankers-riskier-routes.html,2025-12-22T17:02:42Z,"Ukraineâ€™s drone strikes force Russian oil tankers onto longer, riskier Black Sea routes
+
+Ukraine has escalated drone strikes on Russian oil terminals and tankers in the Black Sea, systematically targeting refinery equipmentâ€”including Western-made cracking unitsâ€”to cripple Russia's war economy. These attacks have forced Russian crude shipments onto a 70% longer detour, delaying deliveries and raising shipping costs.
+
+The November strike on Tuapse oil port suspended fuel exports for weeks, while a","russian oil, russia oil, tanker targeted, oil exports, oil tankers",-0.9806,Negative,Natural News,0
+1,6,9,ICC pledges to fund US national team players ahead of T20 World Cup,https://www.reuters.com/sports/cricket/icc-pledges-fund-us-national-team-players-ahead-t20-world-cup-2025-12-22/,2025-12-22T18:13:53Z,,,0,Neutral,Reuters,0
+3,12,1,DNI Tulsi Gabbard blasts Reuters claim that Russia wants to seize all of Ukraine,https://www.naturalnews.com/2025-12-22-gabbard-blasts-reuters-claim-russia-seize-ukraine.html,2025-12-22T21:02:49Z,"DNI Tulsi Gabbard blasts Reuters claim that Russia wants to seize all of Ukraine
+
+The U.S. Director of National Intelligence (DNI) alleges that European NATO states and corporate media like Reuters are deliberately escalating tensions with Russia, pushing false claims of Putinâ€™s expansionist ambitions to justify military escalation and sabotage peace efforts.
+
+Gabbard asserts that Reuters' anonymous-source report â€“ claiming Putin seeks to reclaim Soviet territories â€“ is propaganda, while actual ","warn putin, russia escalate, putin expansionist, pushing putin, claims putin",0.25,Positive,Natural News,0
+4,16,4,NSA Employee to Sue Admin Over Order on Trans Rights and 'Immutable' Genders,https://www.newsmax.com/politics/donald-trump-transgender-rights/2025/12/22/id/1239327/,2025-12-22T21:06:14Z,"A transgender employee of the National Security Agency plans to sue the Trump administration and try to block enforcement of a presidential executive order and other policies the employee says violate federal civil rights law.
+
+Sarah O'Neill, an NSA data scientist who is transgender, disputes the legality of President Donald Trump's Inauguration Day executive order that required the federal government, in all operations and printed materials, to recognize only two ""immutable"" sexes: male and fem","transgender employee, transgender disputes, transgender identity, transgender status, female lawsuit",-0.7003,Negative,Newsmax,0
+7,27,1,How US defense industry dodged rare,https://www.bostonglobe.com/2025/12/22/business/us-defense-industry-rare-earth/,2025-12-22T23:44:46Z,"A carefully orchestrated deal involving two European companies gave US defense contractors access to a new source of samarium, allowing production to continue for now. But that supply â€” made from material that had been sitting in a factory in France since the 1970s â€” is limited. Now the Trump administration is racing to develop a new source before the European stockpile runs out.
+
+When China put restrictions on some rare-earth exports this year, it cut off the supply of samarium to US defense co","missiles samarium, magnets tomahawk, tomahawk missiles, magnets samarium, manufacturer samarium",-0.3612,Negative,The Boston Globe,0
+1,6,8,Major central banks deliver biggest easing push in over a decade in 2025,https://www.reuters.com/world/europe/major-central-banks-deliver-biggest-easing-push-over-decade-2025-2025-12-23/,2025-12-23T10:24:15Z,,,0,Neutral,Reuters,0
+2,6,2,Two CMA CGM vessels navigate the Suez Canal in sign of easing tension,https://www.reuters.com/world/middle-east/two-cma-cgm-vessels-navigate-suez-canal-sign-easing-tension-2025-12-23/,2025-12-23T12:04:30Z,,,0,Neutral,Reuters,0
+2,8,1,Gartner debuts 4PL Magic Quadrant as tariffs and disruption reshape logistics,https://www.freightwaves.com/news/gartner-debuts-4pl-magic-quadrant-as-tariffs-and-disruption-reshape-logistics,2025-12-23T13:30:00Z,,,0,Neutral,FreightWaves,0
+1,4,3,Mavik Closes Second Special Opportunities Fund Above Target at $685 Million,https://www.businesswire.com/news/home/20251222351260/en/Mavik-Closes-Second-Special-Opportunities-Fund-Above-Target-at-%24685-Million,2025-12-23T13:30:00Z,"NEW YORK--(BUSINESS WIRE)--Mavik, a multi-strategy, credit-oriented investment firm focused on special situations commercial real estate (â€œCREâ€) and hard assets across North America, announced the close of its second closed-end fund, Mavik Real Estate Special Opportunities VS2 (â€œVS2â€ or the â€œFundâ€), with $685 million in total commitments. VS2 significantly exceeded its $515 million target, reflecting Mavikâ€™s strong performance and highly compelling opportunity set as the U.S. enters the fourth y","vs2 fund, fund mavik, investments vs2, mavik credit, vs2 securities",0.9737,Positive,Business Wire,0
+2,6,1,Two CMA CGM vessels navigate the Suez Canal in sign of easing tension,https://www.al-monitor.com/originals/2025/12/two-cma-cgm-vessels-navigate-suez-canal-sign-easing-tension,2025-12-23T14:01:49Z,"CAIRO, Dec 23 (Reuters) - Two vessels from CMA CGM, the world's third-largest container shipping line, have travelled through the Suez Canal, the authority that runs the waterway said on Tuesday, in a sign the disruptions linked to the Gaza war could be easing.
+
+While the Suez Canal provides the fastest link between Asia and Europe, since November 2023, shipping companies have had to take much longer routes because Yemen's Iran-aligned Houthi militants attacked commercial vessels, saying they we","suez canal, travelled suez, vessels suez, using suez, canal egypt",-0.8074,Negative,Al-Monitor,0
+1,4,10,"Beauty for dogs, pull-up pubic hair and appearance inflation: 3 prolific beauty writers sum up 2025",https://abc17news.com/entertainment/cnn-style/2025/12/23/beauty-for-dogs-pull-up-pubic-hair-and-appearance-inflation-3-prolific-beauty-writers-sum-up-2025/,2025-12-23T15:49:11Z,"By Leah Dolan, CNN
+
+(CNN) â€” 2025 was a year of extremes in beauty culture. The $450 million industry felt more polarized than ever, with a push towards â€œlow maintenanceâ€ routines that encouraged us to ditch our mascaras or go makeup-free entirely, Pamela Anderson style. The shift came from the fact that this low-effort look often required â€œhigh maintenanceâ€ treatments like lash lifts, teeth whitening, laser hair removal, or even cosmetic procedures, to be achieved. While some brands were telling","beauty products, redefine beauty, beauty industry, cosmetics, rini skincare",0.9468,Positive,ABC17News.com,0
+1,4,9,Consumer confidence slides in December to lowest level since US tariffs rolled out,https://www.mercurynews.com/2025/12/23/consumer-confidence-slides-tariffs/,2025-12-23T15:54:43Z,"By MATT OTT | Associated Press
+
+WASHINGTON (AP) â€” Consumers confidence in the economy was shaken in December as Americans grow anxious about high prices and the impact of President Donald Trumpâ€™s sweeping tariffs.
+
+The Conference Board said Tuesday that its consumer confidence index fell 3.8 points to 89.1 in December from Novemberâ€™s upwardly revised reading of 92.9. In April, when Trump rolled out his import taxes on U.S. trading partners, the reading was 85.7.
+
+A measure of Americansâ€™ short-te","consumer confidence, concern tariffs, consumers confidence, trump tariffs, trump inflation",0.7184,Positive,The Mercury News,0
+1,4,8,Consumer confidence slides in December to lowest level since US tariffs rolled out in April,https://www.cleveland.com/news/2025/12/consumer-confidence-slides-in-december-to-lowest-level-since-us-tariffs-rolled-out-in-april.html,2025-12-23T15:58:20Z,"FILE - Shoppers wait in line to enter Macy's flagship store on Nov. 28, 2025 in New York. (AP Photo/Angelina Katsanis, File) AP
+
+WASHINGTON (AP) â€” Consumers confidence in the economy was shaken in December as Americans grow anxious about high prices and the impact of President Donald Trumpâ€™s sweeping tariffs.
+
+The Conference Board said Tuesday that its consumer confidence index fell 3.8 points to 89.1 in December from Novemberâ€™s upwardly revised reading of 92.9. That is close to the 85.7 reading","consumers confidence, concern tariffs, consumer confidence, trump inflation, trump tariffs",0.7506,Positive,cleveland.com,0
+1,4,7,"Resilient US consumers drive strongest economic expansion in 2 years, but inflationary worries persist",https://www.adn.com/nation-world/2025/12/23/us-economy-expands-at-a-strong-43-annual-rate-in-third-quarter-possibly-driving-inflationary-pressures/,2025-12-23T16:56:18Z,"A personal shopper gathers items to fill an online grocery order in Dallas. (AP Photo/LM Otero)
+
+WASHINGTON â€” The U.S. economy grew at a surprisingly strong 4.3% annual rate in the third quarter, the most rapid expansion in two years, driven by consumers who continue to spend in the face of ongoing inflation.
+
+U.S. gross domestic product from July through September â€” the economyâ€™s total output of goods and services â€” rose from its 3.8% growth rate in the April-June quarter, the Commerce Departme","economy spending, slowing economy, september economy, economy continued, consumer spending",0.5789,Positive,Anchorage Daily News,0
+1,4,6,"US stocks approach records after mixed reports on economic growth, consumer confidence",https://www.barchart.com/story/news/36755395/us-stocks-approach-records-after-mixed-reports-on-economic-growth-consumer-confidence,2025-12-23T17:12:10Z,"NEW YORK (AP) â€” Stocks closed at another record on Wall Street Tuesday following a surprisingly strong report on economic growth over the summer.
+
+The U.S. government's first assessment of economic growth during the third quarter also showed that inflation remains high. A separate report showed that consumer confidence continued fading in December. All of it added to a complicated picture of the economy.
+
+The latest record for the S&P 500 came even as most stocks within the benchmark index lost ","dow jones, stocks main, technology stocks, stocks benchmark, stocks",0.9485,Positive,Barchart,0
+1,6,7,Two months of canceled City Council meetings in Harvey,https://www.chicagotribune.com/2025/12/23/harvey-2-months-no-city-council-meetings/,2025-12-23T18:22:29Z,"The last Harvey City Council meeting was at the end of October, when residents accused the administration of lacking transparency in the midst of a major financial crisis.
+
+Since then, every one of the City Councilâ€™s regular biweekly meetings has been canceled.
+
+Harvey ordinarily has City Council meetings on the second and fourth Monday of each month, for a total of 24 scheduled meetings a year. The most recent scheduled meeting, which was canceled, would have been Monday, and would have been th","meetings canceled, meeting canceled, canceled harvey, canceling meetings, city harvey",-0.7635,Negative,Chicago Tribune,0
+5,20,3,Yemenâ€™s warring parties agree on biggest prisoner exchange deal so far,https://edition.cnn.com/2025/12/23/middleeast/yemen-parties-agree-prisoner-exchange-deal-intl-latam,2025-12-23T19:09:21Z,"Yemenâ€™s Houthi rebels and the Saudi-backed Yemeni government have reached a new agreement to carry out a large-scale prisoner exchange, marking a significant humanitarian step amid ongoing efforts to de-escalate the conflict.
+
+Abdulqader Hasan Yahya al-Murtadha, head of the Houthi National Committee for Prisonersâ€™ Affairs, said on Tuesday that the deal includes the release of around 1,700 Houthi detainees in exchange for 1,200 prisoners held by the other side, among them seven Saudi nationals an","yemen prisoner, houthi detainees, envoy yemen, ambassador yemen, yemen houthi",-0.7717,Negative,Cable News Network,0
+5,20,2,Yemenâ€™s warring parties agree on biggest prisoner exchange deal so far,https://abc17news.com/news/national-world/cnn-world/2025/12/23/yemens-warring-parties-agree-on-biggest-prisoner-exchange-deal-so-far/,2025-12-23T19:09:21Z,"By Mohammed Tawfeeq, CNN
+
+(CNN) â€” Yemenâ€™s Houthi rebels and the Saudi-backed Yemeni government have reached a new agreement to carry out a large-scale prisoner exchange, marking a significant humanitarian step amid ongoing efforts to de-escalate the conflict.
+
+Abdulqader Hasan Yahya al-Murtadha, head of the Houthi National Committee for Prisonersâ€™ Affairs, said on Tuesday that the deal includes the release of around 1,700 Houthi detainees in exchange for 1,200 prisoners held by the other side, a","yemen prisoner, houthi detainees, ambassador yemen, envoy yemen, detainees exchange",-0.7717,Negative,ABC17News.com,0
+4,16,3,Atlanta federal prosecutor sidesteps Trump Justice Department chaos - so far,https://www.ajc.com/news/2025/12/atlanta-federal-prosecutor-sidesteps-trump-justice-department-chaos-so-far/,2025-12-23T19:32:17Z,"Theodore Hertzberg, the new US attorney for the northern district of Georgia, poses for a portrait at his office in the Richard B. Russell federal building in Atlanta on Friday, Nov. 21, 2025. (Arvin Temkar / AJC)
+
+Theodore Hertzberg emphasizes crime-fighting basics as he navigates the politics that have engulfed other U.S. attorney offices.
+
+Theodore Hertzberg emphasizes crime-fighting basics as he navigates the politics that have engulfed other U.S. attorney offices.
+
+Theodore Hertzberg stood ","theodore hertzberg, offices theodore, hertzberg, hertzberg stood, hertzberg new",-0.0772,Negative,The Atlanta Journal-Constitution,0
+3,11,10,"Oil marginally lower as investors weigh US data, geopolitical tensions",https://www.reuters.com/business/energy/oil-edges-up-strong-us-economic-growth-supply-risks-2025-12-24/,2025-12-24T02:20:07Z,,,0,Neutral,Reuters,0
+1,4,5,US Treasury Secretary Bessent proposes reforming the Fed's 2% target system after inflation targets are met.,https://www.europesays.com/2653747/,2025-12-24T03:11:29Z,"Bessent has publicly supported revisiting the Federal Reserveâ€™s long-standing 2% inflation target in the future. He stated that once U.S. inflation sustainably returns to 2%, there should be a discussion on whether to change it to a target range.
+
+U.S. Treasury Secretary Scott Bessent supports the idea that once the U.S. sustainably brings price increases back to the 2% level, the Federal Reserveâ€™s 2% inflation target should be reconsidered.
+
+â€œOnce we return to 2% â€“ and I think it is within sigh","inflation target, target inflation, reserve inflation, inflation bessent, stated inflation",0.7579,Positive,EUROPE SAYS,0
+1,6,6,Donations to Savannah's Empty Stocking Fund,https://www.savannahnow.com/story/news/local/2025/12/24/donations-to-savannahs-empty-stocking-fund/87890973007/,2025-12-24T10:06:40Z,"Savannah Morning News
+
+Dec. 24, 2025, 5:06 a.m. ET
+
+Since 1971, Savannahians have reached into their pockets and donated millions of dollars to the Savannah Morning News and Salvation Army Empty Stocking Fund, lighting up the lives of disadvantaged families and children throughout the holiday season.
+
+This year, this special Savannah holiday tradition continues through the generosity of the donors below. There's still time left to donate:
+
+Brion Berg â€” $150.00
+
+Farol Nelson â€” $52.58
+
+Beth Bosman","dollars savannah, savannah holiday, fund savannahemptystockingfund, generosity donors, savannah morning",0.7861,Positive,Savannah Morning News,0
+1,4,2,Commercial real estateâ€™s 12 days of Christmas,https://www.ocregister.com/2025/12/24/commercial-real-estates-12-days-of-christmas/,2025-12-24T13:00:55Z,"Christmas 2025 is in the books! 2026 is around the corner, and the credit card bills are coming.
+
+But todayâ€™s column is a bit of diversion and fun. Please enjoy my take, as a commercial real estate professional, on the real 12 days of Christmas.
+
+On the first day of Christmas, my market gave to me â€“ a deal thatâ€™s contingency free.
+
+On the second day of Christmas my market gave to me â€“ two phone in leads and a deal thatâ€™s contingency free.
+
+On the third day of Christmas my market gave to me â€“ thr","lenders lending, lending ndas, lending, dates escrows, gave lenders",0.9741,Positive,Santa Ana Orange County Register,0
+2,7,10,Apple iPhone 18 Camera Sensors To Be Manufactured In The US As Supply Chain Re-Shoring Efforts Gain Steam,https://wccftech.com/apple-iphone-18-camera-sensors-to-be-manufactured-in-the-us-as-supply-chain-re-shoring-efforts-gain-steam/,2025-12-24T15:48:00Z,"In what comes as a huge symbolic vindication for the Trump administration's efforts to re-shore the supply chains of major US companies, Samsung now intends to manufacture the camera sensors for Apple's iPhone 18 lineup at its existing facility in Austin, Texas.
+
+Samsung to manufacture the Apple iPhone 18's camera sensors at its Austin facility in Texas, giving a major impetus to the Trump administration's supply chain re-shoring efforts
+
+The Elec is now reporting that Samsung is preparing to in","samsung intends, samsung manufacture, texas samsung, production iphones, sensors apple",0.7964,Positive,Wccftech,0
+1,6,5,GLCU Foundation makes $10K donation,https://www.shawlocal.com/lake-county-journal/2025/12/24/glcu-foundation-makes-10k-donation/,2025-12-24T20:07:08Z,"The GLCU Foundation for Financial Empowerment announced it has made a $10,000 donation to the Lake County Community Foundationâ€™s Community Crisis Relief Fund. The Community Crisis Fund distributes money to multiple organizations that address urgent issues within Lake County.
+
+The GLCU Foundation is proud to contribute to the Lake County Community Foundationâ€™s efforts to support organizations and nonprofits that provide essential resources to communities facing challenging times.
+
+â€œWe care deeply","fund community, fund glcu, glcu foundation, community foundation, services funding",0.6486,Positive,Shaw Local Enewspapers,0
+3,11,9,Oil Holds Steady in Thin Christmas Eve Trade,https://www.europesays.com/2654992/,2025-12-24T20:24:26Z,"Thin volume on Christmas Eve left oil markets little changed as traders continued to weigh this yearâ€™s twin forces of escalating geopolitical tensions and the expected global supply overhang.
+
+West Texas Intermediate futures edged down 3 cents to settle near $58 a barrel, narrowly snapping a five-day winning streak. Investors continue to watch for signs of supply interruptions out of Venezuela as the Trump administration ramps up pressure on the nation.
+
+The US was still in pursuit of a third oi","oil markets, oil prices, christmas oil, major oil, oil traders",-0.4939,Negative,EUROPE SAYS,0
+12,39,10,Solana and Ethereum can coexist in tokenization race: Dragonfly,https://cointelegraph.com/news/solana-ethereum-blockchain-tokenization-race-dragonfly-crypto-vc,2025-12-25T02:16:35Z,"Solana and Ethereum will both thrive in the tokenization race and neither blockchain will push the other out of the space, says Dragonfly general partner Rob Hadick.
+
+â€œThey are both Facebook,â€ Hadick told CNBCâ€™s â€œSquawk Boxâ€ on Wednesday, when asked which blockchain will gain market dominance like social media platform Facebook or fall behind like the once-popular MySpace.
+
+Hadick said that with growing interest in tokenization and increasing economic activity onchain, thereâ€™s room for multiple ","solana ethereum, solana scalability, onchain economic, market dominance, blockchains emerging",0.8519,Positive,Cointelegraph,0
+1,6,4,Satyajit Das: The Shadow of Financial Instability,https://www.nakedcapitalism.com/2025/12/satyajit-das-the-shadow-of-financial-instability.html,2025-12-25T11:43:07Z,"Yves here. Das gives a high-level overview of what has happened with shadow banking since the financial crisis. As he explains below, despite regulatory pretenses otherwise, it is bigger and likely badder than before. And unlike the runup to the crisis, the Chinese are all in too (see â€œOn a Relative Scale, Thereâ€™s a Strong Case that Financialization Is Worse in the PRC than the USâ€ and Chinaâ€™s Local Government Financing Vehicles (LGFVs): Ponzi Finance on Steroids for more detail).
+
+By Satyajit D","unregulated financial, bank finance, shadow banking, finance, banking",-0.8402,Negative,Naked Capitalism,0
+2,7,9,The logistics behind the Christmas ham,https://www.freightwaves.com/news/the-logistics-behind-the-christmas-ham,2025-12-25T12:00:00Z,"By the time Christmas dinner hits the table, the hardest logistics decisions behind the holiday ham have already been made, often months earlier. For the supply chain, Christmas ham is not a December problem. Itâ€™s a forecasting, cold-storage, and execution challenge that begins well before winter weather enters the picture.
+
+Hamâ€™s role as a Christmas staple is rooted in tradition, but its continued dominance is also driven by reliability. Holiday demand for ham is relatively stable year over yea","christmas ham, holiday ham, ham december, holidays pork, pork demand",0.8744,Positive,FreightWaves,0
+2,7,8,"Inside the leather trade war hitting handbags, boots and couches",https://www.cnbc.com/2025/12/25/leather-prices-tariffs-trump-boots-handbags-furniture-twisted-x.html,2025-12-25T13:00:01Z,"Different types of leather are seen at the Rio of Mercedes cowboy boot factory, on July 31, 2025, in Mercedes, Texas. Ronaldo Schemidt | AFP | Getty Images
+
+Bootmaker Twisted X â€” known for its Western footwear â€” was thrown into chaos overnight when President Donald Trump imposed sweeping tariffs on imports in April. The company turned a conference room at its Decatur, Texas, headquarters into a ""tariff war room"" as import costs on its finished work boots surged, shipments were paused mid-transit","leather exports, leather factory, leather retailers, leather goods, leather trade",-0.9153,Negative,CNBC,0
+1,4,1,Locally owned drug store in Sunnyside sold to Denver locals,https://www.denverpost.com/2025/12/25/denver-corner-store-sold-sunnyside/,2025-12-25T13:00:10Z,"Bob Katz is passing his Sunnyside corner store along to the next generation.
+
+The 80-year-old Denver native worked at Sunnyside Drug all his life before closing it when the pandemic hit. Earlier this month, he and his brother, Andy Katz, sold its building at 4600 Lipan St. for $650,000 to a trio of fellow locals: Monica and Beau Speicher and their friend Caine Knapp.
+
+The deal works out to $158 a square foot for the 4,100-square-foot shop.
+
+â€œWe used to have lines all day long at the store â€” line","sunnyside drug, bob katz, katz brothers, katz sold, sunnyside corner",0.4939,Positive,The Denver Post,0
+3,10,1,Emerge's 2025 Story of the Year: How the AI Race Fractured the Global Tech Order,https://decrypt.co/351124/emerge-story-of-the-year-2025-ai-race-global-tech-order,2025-12-25T17:01:03Z,"In brief DeepSeekâ€™s ultra-low-cost AI model shattered the assumption that U.S. chip dominance would indefinitely suppress Chinaâ€™s AI ambitions, triggering a global tech realignment.
+
+By late 2025, the U.S. and China had severely decoupled their AI ecosystemsâ€”splitting hardware, software, standards, and supply chainsâ€”while embedding civilian AI advances into military doctrine.
+
+The rivalry extended beyond bilateral conflict, forcing allies and emerging economies to choose between American-led pro","china ai, deep china, billion ai, trillion ai, china deepseek",-0.765,Negative,Decrypt,0
+1,4,4,Gold is set for its best year since Jimmy Carter was president,https://www.pressdemocrat.com/2025/12/25/gold-is-set-for-its-best-year-since-jimmy-carter-was-president/,2025-12-25T19:05:47Z,"New York â€” Gold is having its best year since 1979.
+
+Gold futures traded in New York have soared almost 71% this year, on pace for their best annual gain in 46 years. The last time gold had such a strong year, Jimmy Carter was president, a crisis was unfolding in the Middle East, inflation was soaring and the United States was in the midst of an energy crisis.
+
+Today, tariffs are distorting international trade, conflict is raging with Russiaâ€™s war on Ukraine, there have been flare-ups between Is","gold futures, gold demand, investors gold, prices gold, gold increasingly",0.6486,Positive,Santa Rosa Press Democrat,0
+12,39,9,Strategy CEO Says Bitcoinâ€™s Fundamentals Solid,https://cointelegraph.com/news/what-happened-in-crypto-today,2025-12-25T19:19:19Z,"Today in crypto: Changpeng Zhao says Pakistan is on track to be a crypto leader by 2030, South Korean lawmakers delayed submitting legislation that would allow the issuance of domestic stablecoins, while Grayscale said macroeconomic pressures and clearer US regulation are laying the groundwork for cryptoâ€™s next bull market.
+
+Pakistan could be a crypto leader by 2030 at current pace: CZ
+
+Pakistan's ability to â€œmove fastâ€ with crypto regulation and adoption could make it a world leader in crypto b","crypto pakistan, pakistan crypto, crypto leaders, crypto leader, leader crypto",0.1531,Positive,Cointelegraph,0
+2,7,7,ASUS May Enter DRAM Market by 2026 to Beat Memory Shortages,https://www.androidheadlines.com/2025/12/asus-dram-production-2026.html,2025-12-25T22:25:09Z,"The global PC market is currently grappling with a memory crisis. The situation is pretty tight, and it shows no signs of slowing down anytime soon. Data centers and AI accelerators are consuming the majority of available chips, making consumer-grade RAM scarce and expensive. To navigate this shortage, rumors suggest that ASUSâ€”one of the worldâ€™s largest hardware manufacturersâ€”is preparing an entry on the market by building its own DRAM production lines.
+
+ASUS reportedly plans in-house memory pro","dram production, company asus, asus supply, asus reportedly, sells memory",-0.714,Negative,Android Headlines,0
+3,11,8,"Silver crosses $77 mark while gold, platinum stretch record highs",https://www.reuters.com/world/india/silver-tops-75-gold-platinum-surge-records-2025-12-26/,2025-12-26T05:00:45Z,,,0,Neutral,Reuters,0
+3,11,7,"Japan Eyes Record Defense Spending as GDP, Yen Stretch 2% Goal",https://www.bloomberg.com/news/articles/2025-12-26/japan-eyes-record-defense-spending-as-gdp-yen-stretch-2-goal,2025-12-26T05:56:55Z,"Japan is set to increase defense spending to a fresh record next year as Prime Minister Sanae Takaichi â€™s government looks to respond to the challenges of heightened geopolitical tensions, US calls to shoulder more costs and a weak yen.
+
+Defense outlays for the year starting in April 2026 will total about Â¥9.04 trillion ($57.9 billion) in an overall annual budget of Â¥122.3 trillion, according to a proposal approved by the cabinet on Friday. That marks a 3.8% increase from the current fiscal year","defense spending, yen defense, increase defense, annual budget, current fiscal",0.7096,Positive,Bloomberg,0
+3,11,6,Gold and silver smash records again as rally gathers momentum,https://www.bostonglobe.com/2025/12/26/business/gold-and-silver-surge-to-records/,2025-12-26T08:32:54Z,"Frictions in Venezuela, where the US has blockaded oil tankers and ramped up pressure on the government of NicolÃ¡s Maduro, have added to the precious metalâ€™s haven appeal. Washington also launched a military strike against Islamic State in Nigeria in collaboration with the African nationâ€™s government.
+
+Spot gold rose as much as 1.2 percent to a peak above $4,530 an ounce on Friday. Spot silver for immediate delivery advanced for a fifth session, climbing as much as 5 percent to cross $75 an ounc","tensions dollar, precious metals, ounce gold, spot gold, dollar spot",0.5423,Positive,The Boston Globe,0
+3,11,5,track enlargement amid geopolitical tensions â€“ European Council on Foreign Relations,https://www.europesays.com/2657756/,2025-12-26T10:43:39Z,"When European Commission president Ursula von der Leyen talked of a â€œgeopolitical commissionâ€ in 2019, her intent was closer to direction of policy travel rather than an urgent and detailed plan aimed at creating a security union with complete defence capabilities. But geopolitical imperatives are now driving the EUâ€™s development, including in defence and securing economic leverage.
+
+The EUâ€™s Security Union strategy, adopted in 2020, began with a conceptual framework complementary to NATO. Now, ","eu security, diplomacy eu, eu policies, geopolitical commission, capabilities geopolitical",0.8074,Positive,EUROPE SAYS,0
+1,6,3,Forsyth County NC school crisis generated lots of thoughts,https://journalnow.com/news/local/education/article_2b785483-bd40-42cd-aeff-62497c21f722.html,2025-12-26T11:00:00Z,State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington Washington D.C. West Virginia Wisconsin Wyoming Puerto,"territories canada, states, alabama alaska, states micronesia, hawaii idaho",-0.6249,Negative,Winston-Salem Journal,0
+3,11,4,Gold Doesnâ€™t Need Santa to Keep Rallying to Record Highs,https://markets.businessinsider.com/news/stocks/gold-doesn-t-need-santa-to-keep-rallying-to-record-highs-1035672151,2025-12-26T11:04:41Z,"The gold price didnâ€™t need to rely on any Santa rally today as it soared to another record high buoyed by rising geopolitical tensions.
+
+Claim 70% Off TipRanks This Holiday Season
+
+The spot gold price rose 0.2% to $4,516.64 per ounce in early trading, after touching a record $4,530.60 earlier. U.S. gold futures for February delivery climbed 0.9% to $4,545.10.
+
+Metals March Higher
+
+It wasnâ€™t only gold glittering during the festive season. Spot silver jumped 0.66% to a high of $74.68 per ounce.
+
+S","gold prices, gold price, forecasted gold, gold futures, gold trade",0.5307,Positive,Markets Insider,0
+12,39,8,SBI Ripple Asia partners with Doppler Finance for XRP yield and RWA tokenization,https://cointelegraph.com/press-releases/sbi-ripple-asia-partners-with-doppler-finance-for-xrp-yield-and-rwa-tokenization,2025-12-26T11:07:20Z,"This publication is provided by the client. The text below is a paid press release that is not part of Cointelegraph.com independent editorial content. The text has undergone editorial review to ensure quality and relevance, it may not reflect the views and opinions of Cointelegraph.com. Readers are encouraged to conduct their own research before taking any actions related to the company. Disclosure.
+
+December 17, 2025 â€“ SBI Ripple Asia and Doppler Finance (â€œDopplerâ€), the leading XRPfi infrastr","finance xrp, xrp ledger, infrastructure xrp, xrpl sbi, ripple sbi",0.6249,Positive,Cointelegraph,0
+2,7,6,"Here's Why Your Boots, Bags, and Furniture Are About to Get 22% More Expensive Next Year",https://www.ibtimes.com/heres-why-your-boots-bags-furniture-are-about-get-22-more-expensive-next-year-3793715,2025-12-26T11:12:08Z,,,0,Neutral,International Business Times,0
+2,7,5,"Instead of a circular economy, CoreWeave's CEO sees a 'violent change' rattling the supply chain",https://fortune.com/2025/12/26/coreweave-ceo-michael-intrator-circular-economy-ai-bubble-violent-change-supply/,2025-12-26T13:02:00Z,"The former Palantir staffer pointed to the 1990s, when people were skeptical about being able to do online banking in a safe and trustworthy way.
+
+When a multibillion-dollar AI data center proposal pitted developers against a handful of rural Arizona residents, the locals were outgunned and outvoted.
+
+Cyber firm DeepStrike estimates an increase from roughly 500,000 online deepfakes in 2023 to about 8 million in 2025, with annual growth nearing 900%.
+
+A new Vanguard study reveals that the 100 pro","dollar ai, ai thriving, ai bots, tech robots, ai",0.6369,Positive,Fortune,0
+2,7,4,4 ways China-US relations could fracture in 2026,https://www.politico.com/news/2025/12/26/china-u-s-relations-could-fracture-2026-00703020,2025-12-26T15:00:00Z,,,0,Neutral,POLITICO,0
+12,39,7,Crypto exchange Coinbase (COIN) joins Nasdaq (NDAQ) and S&P Global (SPGI) as 2026 fintech picks,https://www.coindesk.com/markets/2025/12/26/coinbase-named-a-top-three-2026-fintech-pick-at-clear-street,2025-12-26T15:23:13Z,"Coinbase (COIN) is one of the top fintech ideas for 2026, according to a new outlook report by Clear Street analyst Owen Lau, who sees the crypto exchange as a central player in the shift toward blockchain-based financial infrastructure.
+
+STORY CONTINUES BELOW Don't miss another story. Subscribe to the Crypto Daybook Americas Newsletter today . See all newsletters Sign me up By signing up, you will receive emails about CoinDesk products and you agree to our terms of use and privacy policy .
+
+Lau","coinbase coin, coinbase best, said coinbase, coinbase, coin fintech",0.7464,Positive,CoinDesk,0
+12,39,6,Forget Bitcoin: Amplify Rolls Out ETFs Backing Cryptoâ€™s Infrastructure Play,https://www.benzinga.com/etfs/new-etfs/25/12/49597360/amplify-etfs-backing-cryptos-infrastructure-play,2025-12-26T18:20:11Z,,,0,Neutral,Benzinga,0
+3,11,3,Gold and silver smash records again as rally gathers momentum,https://www.courant.com/2025/12/26/gold-and-silver-smash-records-again-as-rally-gathers-momentum-2/,2025-12-26T18:43:00Z,"By Robin Paxton, Preeti Soni, Yvonne Yue Li, Bloomberg News
+
+Gold, silver and platinum jumped to all-time highs to extend a historic end-of-year rally for precious metals, with support from escalating geopolitical tensions, U.S. dollar weakness and thin market liquidity.
+
+Spot gold rose as much as 1.2% to a peak above $4,530 an ounce on Friday. Spot silver for immediate delivery advanced for a fifth session, climbing as much as 5% to cross $75 an ounce.
+
+Frictions in Venezuela, where the U.S. ha","precious metals, spot gold, precious metal, tensions dollar, africa gold",0.7184,Positive,Hartford Courant,0
+2,7,3,Google Fires Executives After Failing to Secure AI Memory Chips Amid Shortage,https://www.androidheadlines.com/2025/12/google-fires-executives-ai-memory-shortage.html,2025-12-26T20:52:11Z,"We often think of the AI race as a battle of brilliant code and sophisticated algorithms. But lately, the struggle has moved away from Silicon Valleyâ€™s keyboards and into the high-stakes world of hardware procurement. In a recent development, Google fires several high-level executives, not because of a software glitch, but because their fail to secure enough memory chips to keep the companyâ€™s AI dreams running amid shortage.
+
+Why Google fired executives over AI memory supply chain gaps
+
+It sound","shortage google, hardware procurement, memory google, demand google, memory supply",-0.872,Negative,Android Headlines,0
+12,39,5,Ethereumâ€™s Tokenization Role Sharpens as Tom Lee Outlines Bullish Outlook,https://cointelegraph.com/news/ethereum-tokenization-role-takes-focus-as-tom-lee-outlines-bullish-outlook,2025-12-26T21:15:54Z,"Ethereumâ€™s growing role in institutional finance took center stage on CNBCâ€™s Power Lunch this week, when Tom Lee, co-founder and head of research at Fundstrat Global Advisors, said Ether could climb to $7,000â€“$9,000 by early 2026 as Wall Street accelerates efforts to tokenize assets and move financial activity onchain.
+
+Lee said Etherâ€™s (ETH) investment case is increasingly tied to its use as financial infrastructure, as Wall Street experiments with onchain settlement and tokenized securities.
+
+","billion ethereum, ethereum currently, ethereum growing, bullish bitcoin, securities wall",0.5574,Positive,Cointelegraph,0
+1,6,2,How Americans are responding to the 'affordability crisis',https://www.europesays.com/2658825/,2025-12-26T23:09:32Z,"American consumers arenâ€™t feeling great about the economy or their own financial situation, with the phrase â€œaffordability crisisâ€ dominating headlines and political campaigns over the last few months. The majority â€” 70% â€” of Americans surveyed in a Marist poll of over 1,400 adults taken in December, say that the cost of living in their area is not very affordable, or not affordable at all, for the average family. While President Donald Trump called the word â€œaffordabilityâ€ a â€œcon job by the Dem","affordability crisis, affordability, phrase affordability, affordable average, affordability job",-0.1779,Negative,EUROPE SAYS,0
+3,11,2,Silver Jumps to All-Time High Amid Safe-Haven Demand,https://www.thedailybeast.com/silver-jumps-to-all-time-high-amid-safe-haven-demand/,2025-12-26T23:21:38Z,"Gold, silver, and platinum soared to record highs on Friday. The value of these precious metals, considered â€œsafe-haven assets,â€ have surged amid growing geopolitical tensions and anticipation of a Federal Reserve rate cut. Silver jumped 7 percent to cross $77 per ounce for the first time on Friday, while gold rose 1.6 percent to rise above $4,540 per ounce, having earlier hit a record of $4,533 per ounce. Platinum surged 8.7 percent to $2,411 per ounce, after setting a record earlier. Palladium","precious metals, ounce platinum, gold silver, silver platinum, platinum surged",0.4404,Positive,The Daily Beast,0
+1,5,10,what investors need to know in 2026,https://www.europesays.com/2659180/,2025-12-27T03:12:41Z,"Europe enters 2026 with a positive ending to the year. Inflation is under control, interest rates have stopped moving, and the worst fears of recession have faded.
+
+But growth remains thin, uneven, and heavily dependent on where money actually gets spent rather than on any macro lever being pulled.
+
+The easy explanations are gone.
+
+With monetary policy being less restrictive and energy prices coming under control, Europe now has to focus on what could really help it rise in the global rankings.
+","2026 gdp, inflation dipping, sharply 2026, eu economy, 2027 france",0.8999,Positive,EUROPE SAYS,0
+1,6,1,Belarus River Transport Company Faces Financial Collapse Amid Economic Crisis,https://www.europesays.com/2659289/,2025-12-27T04:47:21Z,"According to Ukrinform, this is reported by the Foreign Intelligence Service of Ukraine.
+
+According to intelligence, the company that operated more than 160 ships and barges and five ports in the Dnieper-Bug Basin proved unable to meet even basic financial obligations.
+
+As of December 1, 2025, the companyâ€™s total debt stood at 18.5 million Belarusian rubles, roughly equivalent to 6.36 million US dollars. Of this amount, 9.3 million rubles (about 3.2 million dollars) are already in enforcement pr","belarus economy, million belarusian, belarusian rubles, fleet belarus, thousand belarusian",-0.5984,Negative,EUROPE SAYS,0
+1,5,9,Bank of England cuts rates by one vote,https://www.europesays.com/2659551/,2025-12-27T07:50:32Z,"The Bank of England on Thursday cut its key interest rate for the first time in four months as stubbornly high inflation that has plagued British consumers and businesses starts to ease.
+
+The central bankâ€™s policymakers voted 5 to 4 to reduce the base rate by a quarter of a percentage point to 3.75 per cent on Thursday, the lowest since February 2023.
+
+The move came a day after the Office for National Statistics reported that consumer price inflation slowed to 3.2 per cent in the 12 months throu","inflation rate, unemployment rate, inflation slowed, declining unemployment, unemployment risen",-0.4215,Negative,EUROPE SAYS,0
+1,5,8,"Readers sound off on Trump's Kennedy gig, inflation math and weather maps",https://www.nydailynews.com/2025/12/27/readers-sound-off-on-trumps-kennedy-gig-inflation-math-and-weather-maps/,2025-12-27T08:00:48Z,"Weaseling in on prestige heâ€™ll not be bestowed
+
+Bronxville, N.Y.: Iâ€™ve watched the Kennedy Center Honors every year since inception. It has always been a classy tribute to fellowships of the arts. Sadly, though, not this year, as classless President Frump had to insert himself into the event by hosting â€” the first time a president has done so (itâ€™s the me, me, me factor with him). There was no way I could stomach listening to that man pontificate for however long his hosting gig allowed him airt","memorialize jfk, mean jfk, jfk truly, kennedy prestige, jfk",0.296,Positive,New York Daily News,0
+3,11,1,Values of gold and silver see all-time highs,https://www.arkansasonline.com/news/2025/dec/27/values-of-gold-and-silver-see-all-time-highs/,2025-12-27T09:35:00Z,"Let us read it for you. Listen now. Your browser does not support the audio element.
+
+Gold, silver and platinum jumped to all-time highs to extend a historic end-of-year rally for precious metals, with support from escalating geopolitical tensions, U.S. dollar weakness and thin market liquidity.
+
+Spot gold rose as much as 1.2% to a peak above $4,530 an ounce on Friday. Spot silver for immediate delivery advanced for a fifth session, climbing as much as 5% to cross $75 an ounce.
+
+Frictions in Ven","precious metals, spot gold, dollar spot, gold silver, silver gold",0.6177,Positive,Arkansas Online,0
+1,5,7,VA Benefits: What To Expect in 2026,https://www.newsweek.com/va-benefits-what-to-expect-in-2026-11221545,2025-12-27T10:00:00Z,"Around 6.5 million U.S. veterans receive monthly, tax-free disability compensation from the Department of Veterans Affairs (VA), providing financial support to those whose injuries or illnesses were caused or worsened by military service.
+
+In 2026, the primary update to these benefits will be the annual cost-of-living adjustment, or COLA, which increases payments to keep pace with inflation and protect veteransâ€™ purchasing power.
+
+New Rates
+
+This year, like Social Security benefits, recipients w","veterans benefits, va disability, compensation veterans, veterans receive, disability compensation",0.872,Positive,Newsweek,0
+2,7,2,'You canâ€™t see China now as a reliable supply-chain partner': Graphite mines forsaken for 70 years come back into fashion,https://fortune.com/2025/12/27/graphite-mining-china-rare-earths/,2025-12-27T11:15:00Z,"Graphite mines in the United States largely closed down seven decades ago. Mining the ubiquitous mineral found in everything from nuclear reactors to pencils seemed to make little sense when it could be imported inexpensively from other nations, especially China.
+
+That view is changing now.
+
+Demand for graphite, a key material in the lithium-ion batteries that power everything from phones to electric cars, is surging as trade tensions with China persist. With federal officials concerned about th","graphite mines, graphite manufactured, graphite mined, china graphite, graphite minerals",-0.1027,Negative,Fortune,0
+1,5,6,"Health insurance costs spike for businesses, workers after pandemic",https://www.mercurynews.com/2025/12/27/workplace-health-insurance-spike/,2025-12-27T13:00:25Z,"The cost of employer-sponsored health insurance in California rose at twice the pace of inflation over the past three years, squeezing workersâ€™ paychecks and small businesses alike.
+
+More than 17 million Californians have health insurance through their job, according to a survey released in November by the health information group KFF. The average cost of premium payments for an employeeâ€™s family plan rose 24% to $28,400 a year, the survey found. Meanwhile, the national inflation rate was 12%, a","insurance california, health insurance, californians health, wages health, premiums california",0,Neutral,The Mercury News,0
+1,5,5,"Trump Hails Year 1 Economic Progress on Trade, GDP, 'No Inflation'",https://www.newsmax.com/newsfront/donald-trump-economy-agenda/2025/12/27/id/1239835/,2025-12-27T14:33:36Z,"President Donald Trump hailed all aspects of his economic agenda as Year 1 of his second administration comes to a close, praising ""great wealth,"" ""unprecedented national security,"" reduction in trade deficits, and ""no inflation.""
+
+""Tariffs are creating GREAT WEALTH, and unprecedented National Security for the USA,"" Trump wrote Saturday morning on Truth Social.
+
+""Trade deficit has been cut by 60%, totally unheard of, 4.3% GDP, and going way up. No inflation!!! We are respected as a Country again","trump economy, economy trump, recession jordan, economic doomsayers, trump critics",0.9842,Positive,Newsmax,0
+1,5,4,"Trump Hails Year 1 Economic Progress on Trade, GDP, 'No Inflation'",https://www.newsmax.com/newsfront/economy-gdp-trade/2025/12/27/id/1239835/,2025-12-27T14:33:36Z,"President Donald Trump hailed all aspects of his economic agenda as Year 1 of his second administration comes to a close, praising ""great wealth,"" ""unprecedented national security,"" reduction in trade deficits, and ""no inflation.""
+
+""Tariffs are creating GREAT WEALTH, and unprecedented National Security for the USA,"" Trump wrote Saturday morning on Truth Social.
+
+""Trade deficit has been cut by 60%, totally unheard of, 4.3% GDP, and going way up. No inflation!!! We are respected as a Country again","trump economy, economy trump, recession jordan, economic doomsayers, trump critics",0.9842,Positive,Newsmax,0
+1,5,3,Trump says 'pricing' will decide next year's elections,https://nypost.com/2025/12/27/us-news/trump-says-pricing-will-decide-next-years-elections/,2025-12-27T16:33:16Z,"President Trump championed his import tariffs Saturday as an economic game changer â€” while predicting the upcoming midterm elections will hinge on â€œpricing.â€
+
+The tariffs have brought in more than $200 billion this year, according to the Customs and Border Protection agency, but face the potential of being struck down by the Supreme Court.
+
+â€œTariffs are creating GREAT WEALTH, and unprecedented National Security for the USA. Trade deficit has been cut by 60%, totally unheard of. 4.3% GDP, and goi","tariffs, tariffs creating, pricing tariffs, pricing trump, import tariffs",0.9575,Positive,New York Post,0
+2,7,1,old arts and crafts chain files Chapter 11 bankruptcy,https://www.europesays.com/2660343/,2025-12-27T18:02:22Z,"The arts and crafts supply retail sector has faced store closings over the last five years for a variety of reasons, ranging from ownership retirements to severe financial distress.
+
+Coming out of the Covid-19 pandemic, regional crafts retailer Beverlyâ€™s Fabric & Crafts, which operated about 40 stores in California for 48 years, closed down all its stores in late 2020 when the chainâ€™s owners decided to retire, the San Luis Obispo Tribune reported at the time.
+
+Crafts and fabric retailer Joann st","crafts retailer, retailer joann, crafts retail, fabric retailer, crafts suppliers",-0.7184,Negative,EUROPE SAYS,0
+12,39,4,Developing Economies To Drive RWA Tokenization Train in 2026: Crypto Exec,https://cointelegraph.com/news/emerging-market-drive-rwa-tokenization-2026,2025-12-27T18:20:45Z,"The tokenized real-world asset (RWA) market will continue to grow in 2026, fueled by adoption in emerging economies that face persistent â€œfrictionâ€ in capital formation and attracting foreign investment, according to Jesse Knutson, head of operations at crypto exchange Bitfinex.
+
+Tokenizing real-world assets â€” the process of representing physical or traditional assets on blockchain networks â€” can help address those challenges by enabling onchain capital formation and reducing reliance on traditi","tokenized assets, asset tokenization, assets tokenization, economies tokenizing, assets blockchain",0.875,Positive,Cointelegraph,0
+3,11,2,Is The Middle East Sliding Toward A Wider War In 2026 â€“ Iranâ€™s President Says His Country Is In A Full,https://usaherald.com/is-the-middle-east-sliding-toward-a-wider-war-in-2026-irans-president-says-his-country-is-in-a-full-scale-war-with-israel-europe-and-the-u-s/,2025-12-27T19:42:18Z,"KEY TAKEAWAYS
+
+War language is no longer confined to the battlefieldâ€”it is now being spoken openly at the highest levels of government.
+
+As Israel and the United States signal tighter coordination, Iran is framing recent strikes as part of a broader, existential conflict.
+
+The question confronting diplomats and defense planners is whether this escalation remains containedâ€”or becomes something far larger in the year ahead.
+
+Rhetoric from Tehran escalates as Israeli and U.S. leaders prepare for hi","tensions iran, preemptive iranian, iran president, iran political, iran framing",-0.9022,Negative,USA Herald,0
+1,5,2,2025 elections boost Democrats with strong economy focus strategy,https://www.foxnews.com/politics/affordability-issue-boosted-trump-republicans-2024-deflated-them-2025,2025-12-27T20:00:43Z,,,0,Neutral,Fox News,0
+4,13,10,Trump administration seeks to deport hate speech researcher previously sued by X,https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/,2025-12-27T20:13:32Z,"In Brief
+
+A federal judge has temporarily blocked the Trump administration from arresting or deporting Imran Ahmed, CEO of the Center for Countering Digital Hate (CCDH).
+
+The New York Times reports that Ahmed is one of five researchers and regulators whose work around online abuse and disinformation drew the ire of the U.S. State Department, which declared this week that they are barred from the United States.
+
+Secretary of State Marco Rubio described the targeted individuals as â€œradical activis","oppose ahmed, ahmed ceo, reports ahmed, ahmed, imran ahmed",-0.8979,Negative,TechCrunch,0
+1,5,1,"Bankruptcies soar as companies grapple with inflation, tariffs",https://www.adn.com/nation-world/2025/12/27/bankruptcies-soar-as-companies-grapple-with-inflation-tariffs/,2025-12-27T20:17:03Z,"FILE - A Spirit Airlines 319 Airbus taxis at Manchester Boston Regional Airport, Friday, June 2, 2023, in Manchester, N.H. (AP Photo/Charles Krupa, File)
+
+Corporate bankruptcies surged in 2025, rivaling levels not seen since the immediate aftermath of the Great Recession, as import-dependent businesses absorbed the highest tariffs in decades.
+
+At least 717 companies filed for bankruptcy through November, according to data from S&P Global Market Intelligence. Thatâ€™s roughly 14 percent more than t","industrials bankruptcies, corporate bankruptcies, freight sectors, spirit airlines, bankruptcies sector",0.7269,Positive,Anchorage Daily News,0
+4,13,9,Michigan joins 19 states suing Trump administration over youth transgender care ban,https://www.mlive.com/news/2025/12/michigan-joins-19-states-suing-trump-administration-over-youth-transgender-care-ban.html,2025-12-27T20:19:01Z,"Secretary of Health and Human Services, Robert F. Kennedy, Jr., speaks during an event on prescription drug prices in the Roosevelt Room of the White House, Friday, Dec. 19, 2025, in Washington. (AP Photo/Evan Vucci) AP
+
+LANSING, MI -- Michigan has joined 19 states in suing the Trump Administration over a new declaration labeling care for transgender children unsafe and ineffective.
+
+The U.S. Department of Health and Human Services, HHS Secretary Robert F. Kennedy Jr. and HHS Inspector General T","healthcare transgender, transgender care, secretary health, healthcare policy, announcing lawsuit",-0.2263,Negative,M Live Michigan ,0
+4,13,8,Russia Strikes Ukraine's Capital A Day Before Zelenskyy-Trump Meeting,https://www.huffpost.com/entry/russia-strikes-ukraines-capital-day-before-zelenskyy-trump-meeting_n_6950456ce4b09ad1da4c2da9,2025-12-27T20:53:58Z,"LOADING ERROR LOADING
+
+Explosions boomed across Kyiv as the attack began in early morning and continued for hours.
+
+Ukrainian President Volodymyr Zelenskyy prepared to meet with U.S. President Donald Trump in Florida on Sunday for further talks on ending the nearly four-year war. Zelenskyy told reporters that he and Trump plan to discuss several matters including security guarantees and territorial issues in the Donetsk and Zaporizhzhia regions.
+
+Advertisement
+
+â€œThis attack is Russiaâ€™s answer on","ukraine zelenskyy, attack ukraine, ukraine attacks, targeted ukraine, ukraine emergency",-0.9124,Negative,HuffPost,0
+4,13,7,Antoni to Newsmax: Trump's Big Energy Boosts Economy,https://www.newsmax.com/newsmax-tv/trump-energy-antoni/2025/12/27/id/1239871/,2025-12-27T20:56:49Z,"A surge in U.S. economic momentum is being driven by what one economist calls a return to ""good public policy,"" with energy reform at the center of the rebound.
+
+Speaking on Newsmax's ""Saturday Agenda,"" chief economist for The Heritage Foundation EJ Antoni said the contrast between the current economic outlook and the stagnation seen under former President Joe Biden could not be more clear.
+
+""I think it's the result of good policy,"" Antoni told Newsmax. ""Just like we saw the stagnation and the w","energy reform, economy biden, policy energy, energy prices, strengthening economy",0.886,Positive,Newsmax,0
+4,13,6,â€˜Brilliant Jamesâ€™: How James Blair took Washington by storm,https://www.politico.com/news/2025/12/27/brilliant-james-how-james-blair-took-washington-by-storm-00706272,2025-12-27T21:00:00Z,,,0,Neutral,POLITICO,0
+4,13,5,War Room's Steve Bannon and Historian Larry Schweikart Discuss the Significance of Trump's 2015 Candidacy (VIDEO),https://www.thegatewaypundit.com/2025/12/war-rooms-steve-bannon-historian-larry-schweikart-significance/,2025-12-27T21:00:37Z,"War Roomâ€™s Steve Bannon talked with historian Larry Schweikart on Saturday about various topics, including Trumpâ€™s defining moment in 2015 as politics was changing. He also discussed the inadequacy of current history textbooks in schools, particularly on the American story.
+
+Schweikert explained that he actually lost friends for supporting Trumpâ€™s candidacy in the early days.
+
+â€œI lost some friends, or thereâ€™s a number of people I canâ€™t discuss politics with on the right,â€ Schweikert said.
+
+â€œA nu","bannon talked, bannon warroom, bannons_warroom, trump bannon, students bannon",-0.5574,Negative,The Gateway Pundit,0
+4,13,4,Putin Humiliates Trump With Kyiv Strike on Eve of Peace Talks,https://www.thedailybeast.com/putin-humiliates-trump-with-kyiv-strike-on-eve-of-peace-talks/,2025-12-27T21:05:27Z,"Russia doesnâ€™t seem to agree with U.S. Special Envoy Steve Witkoffâ€™s assessment that the country is â€œfully committedâ€ to achieving peace with Ukraine.
+
+Russian forces bombed Kyiv on Saturday morning, killing one person and injuring dozens more, less than one week after Witkoff boasted of Russiaâ€™s so-called â€œcommitmentâ€ on social media.
+
+Steve Witkoff said Russia was ""fully committed"" to peace in Ukraine one week before the country bombed Kyiv for 10 hours. Gavriil Grigorov/via Reuters
+
+â€œRussia r","attack ukrainian, russia responded, bombed kyiv, strike ukraine, peace ukraine",0.8874,Positive,The Daily Beast,0
+4,13,3,Boeing Hit With China Sanctions As Trump Seals $11 Billion Taiwan Arms Package,https://simpleflying.com/boeing-china-sanctions-trump-11-billion-taiwan-arms-package/,2025-12-27T21:10:55Z,,,0,Neutral,Simple Flying,0
+4,13,2,Joe Roganâ€™s Growing Unease With Trump Deepens In Recent Shows,https://www.forbes.com/sites/tylerroush/2025/12/27/joe-rogans-criticism-of-trump-from-reiner-post-to-venezuela-grows-after-crucial-2024-support/,2025-12-27T21:29:28Z,,,0,Neutral,Forbes,0
+4,13,1,Trump promised radical change. Here's what he's done in his second term.,https://www.bostonglobe.com/2025/12/27/nation/trump-second-term-promises/,2025-12-27T21:35:50Z,"He helped bring about an uneasy ceasefire in the Gaza Strip, threatened to cut off aid to Ukraine and sent the military to kill suspected drug smugglers at sea while deploying troops under federal control into the streets of U.S. cities. He has put immense strain on relations with traditional allies and has pursued policies, including on cryptocurrencies, that have enriched his family and some of his top aides.
+
+He has driven illegal crossings at the border to record lows and has made clear that","trump tariffs, trump immigration, trump handling, trump actions, trump policies",-0.9371,Negative,The Boston Globe,0
+12,39,3,Kazakhstan To Tokenize Central Bank Gold While Building $1B Cryptocurrency Reserve,https://www.europesays.com/2660702/,2025-12-27T22:18:21Z,"The National Bank of Kazakhstan approved three digital asset pilot projects including tokenization of its gold holdings.
+
+The central bank also plans to test cryptocurrency payments through QR codes and issue a tenge-pegged stablecoin.
+
+The initiatives come as Kazakhstan accumulated 32 tonnes of gold in 2025 while building a $1 billion national cryptocurrency reserve.
+
+Gold prices reached record highs above $4,540 per ounce this week.
+
+What Happened
+
+Kazakhstanâ€™s monetary authority approved the ","kazakhstan monetary, bank kazakhstan, bank gold, gold cryptocurrency, cryptocurrencies nbk",0.8316,Positive,EUROPE SAYS,0
+1,5,9,"Dick Morris to Newsmax: Trump Tariffs, Investment Powering Strong GDP",https://www.newsmax.com/newsmax-tv/dick-morris-tariffs-investment/2025/12/27/id/1239885/,2025-12-27T23:37:01Z,"The Trump administration's emphasis on tariffs and investment, rather than consumer-driven demand, has helped power the latest strong GDP numbers while keeping inflation in check, Dick Morris, an adviser to President Donald Trump, told Newsmax on Saturday.
+
+""What he's done is instead of using consumer demand to hype this stuff, which can get out of hand and become a boom, instead, he's hyped investment and tariffs and making businesses come back to the United States,"" Morris told ""The Count.""
+
+M","tariffs making, tariffs, said tariffs, tariffs investment, manufacturing tariffs",0.6124,Positive,Newsmax,0
+1,5,10,"Dick Morris to Newsmax: Trump Tariffs, Investment Powering Strong GDP",https://www.newsmax.com/newsmax-tv/dick-morris-tariffs-donald-trump/2025/12/27/id/1239885/,2025-12-27T23:37:01Z,"The Trump administration's emphasis on tariffs and investment, rather than consumer-driven demand, has helped power the latest strong GDP numbers while keeping inflation in check, Dick Morris, an adviser to President Donald Trump, told Newsmax on Saturday.
+
+""What he's done is instead of using consumer demand to hype this stuff, which can get out of hand and become a boom, instead, he's hyped investment and tariffs and making businesses come back to the United States,"" Morris told ""The Count.""
+
+M","tariffs making, tariffs, said tariffs, tariffs investment, manufacturing tariffs",0.6124,Positive,Newsmax,0
+3,11,1,The Illusion of Peace: Exposing the war hawks pushing America into conflict,https://www.naturalnews.com/2025-12-28-the-illusion-of-peace-exposing-war-hawks.html,2025-12-28T04:50:30Z,"The Illusion of Peace: Exposing the war hawks pushing America into conflict
+
+U.S. presidents campaign on peace but govern through war (e.g., Trump's airstrikes, Obama's drone warfare, Biden's Ukraine escalation). Neoconservative hawks (Bolton, Pompeo, Abrams) push regime-change agendas, while defense contractors (Lockheed Martin, Raytheon) profit from perpetual conflict.
+
+AIPAC, Christian Zionists and pro-Israel lobbyists drive Middle East policy, often prioritizing Israeli interests over Americ","israeli neocon, america conflict, israeli interests, israel lobbyists, agendas syria",-0.7615,Negative,Natural News,0
+1,5,8,"Readers sound off on powering New York, inflation under Trump and a produce vendor",https://www.nydailynews.com/2025/12/28/readers-sound-off-on-powering-new-york-inflation-under-trump-and-a-produce-vendor/,2025-12-28T08:00:24Z,"Govern in reality to keep New Yorkâ€™s lights on
+
+Glen Falls, N.Y.: The New York Independent System Operator (NYISO), the nonprofit organization responsible for operating the stateâ€™s electrical grid, warned that New York City could face blackouts in 2026, threatening the health and safety of millions of residents (â€œNYC grid is at risk, we must act now,â€ op-ed, Dec. 15). NYISO reported that the entire state is headed for â€œan era of profound reliability challengesâ€ without corrective actions, includ","york energy, nyc grid, york implement, york lights, york pipe",-0.3612,Negative,New York Daily News,0
+1,5,7,How to Stop These 5 Risks From Wrecking Your Retirement,https://www.kiplinger.com/retirement/retirement-planning/stop-these-risks-from-wrecking-your-retirement,2025-12-28T10:35:00Z,,,-0.5106,Negative,Kiplinger,0
+1,5,6,"How I'm Betting Big On A High-Growth, High-Inflation World",https://seekingalpha.com/article/4855907-how-im-betting-big-on-a-high-growth-high-inflation-world,2025-12-28T12:30:00Z,"Join iREIT on Alpha today to get the most in-depth research that includes REITs, mREITs, Preferreds, BDCs, MLPs, ETFs, and other income alternatives. 438 testimonials and most are 5 stars. Nothing to lose with our FREE 2-week trial .
+
+As we're almost done with the year and most people are trying to figure out what to do with the time between Christmas and New Year's Eve, it's the perfect time to go over some of the most pressing ""Big Picture"" topics
+
+Leo Nelissen is an analyst focusing on major ","ireit alpha, nelissen analyst, alpha business, investor views, emphasis dividend",0.904,Positive,Seeking Alpha,0
+1,5,5,Kevin O'Leary Says Surprise GDP Surge Shows US Economy Remains World's Strongest,https://www.europesays.com/2661835/,2025-12-28T12:39:21Z,"Kevin Oâ€™Leary, the renowned entrepreneur and television personality, has expressed optimism about the future of the U.S. economy, despite ongoing inflation and tariff challenges.
+
+Oâ€™Leary Notes Surprising GDP Growth
+
+Oâ€™Leary, also known as Mr. Wonderful, took to X to share his thoughts on the state of the U.S. economy. He acknowledged the concerns about the economyâ€™s trajectory and the administrationâ€™s promises for 2026, especially in light of a 43-day government shutdown. However, he pointed to","gdp growth, surprising gdp, concerns economy, economy 2026, noted gdp",0.9638,Positive,EUROPE SAYS,0
+1,5,4,"US Government Spending Soared 10,000% in Past Century",https://www.activistpost.com/us-government-spending-soared-10000-in-past-century/,2025-12-28T14:00:00Z,"Government spending per person in the United States has soared nearly 10,000 percent over the last century, as reported by the Federalist. The number is staggering, but the true question isnâ€™t how much has been spent but what was bought and why the US government needs to spend at such a level.
+
+Woodrow Wilson secured his second term in 1916 with the slogan: â€œHe Kept Us Out of War.â€ America entered World War I give months later. I have repeatedly warned that nothing is more inflationary than war.","federal spending, government spending, president spent, national debt, woodrow wilson",-0.754,Negative,Activist Post,0
+1,5,3,"Trump's K-Shaped Recession, Kevin O'leary's Inflation Warning And More: This Week In Economy",https://www.benzinga.com/markets/macro-economic-events/25/12/49602015/trumps-k-shaped-recession-kevin-olearys-inflation-warning-and-more,2025-12-28T14:45:46Z,"As we approach the end of the year, the economic landscape has been anything but predictable. From contrasting recoveries to inflation warnings and a growing wealth gap, hereâ€™s a roundup of the weekendâ€™s top stories.
+
+Biden Boom Vs. Trump Freeze: Paul Krugman Says We Traded Pro-Worker Recovery For K-Shaped Recession
+
+Renowned economist Paul Krugman has raised an alarm, suggesting that the U.S. has swapped the inclusive, pro-worker recovery of the Biden era for a stratified â€œTrump freeze,â€ result","potential recession, economy wealthy, recoveries inflation, economy arguing, wealth gap",-0.5187,Negative,Benzinga,0
+1,4,1,Thereâ€™s plenty of cause for pessimism for NYC commercial real estate in 2026,https://nypost.com/2025/12/28/business/theres-plenty-of-cause-for-pessimism-for-nyc-commercial-real-estate-in-2026/,2025-12-28T18:04:20Z,"It promises to be a banner 2026 for the Big Appleâ€™s commercial real estate â€” at least on paper.
+
+But since this column has been the clarion of optimism all year, excuse our indulging the dark side today.
+
+First, the good news. As we were often first to report, the barometers of a market thatâ€™s not only healthy but thriving were plentiful. They included shrinking vacancies, sharply reduced sublease availability, slowly rising rents and a return-to-office wave thatâ€™s the envy of every other US cit","rising rents, building sale, manhattan leases, accelerated residential, huge storefronts",0.677,Positive,New York Post,0
+1,5,2,"Bankruptcies soar as companies grapple with inflation, tariffs",https://www.inquirer.com/business/bankruptcy-surge-2025-tariffs-inflation-20251228.html,2025-12-28T19:11:21Z,"Corporate bankruptcies surged in 2025, rivaling levels not seen since the immediate aftermath of the Great Recession, as import-dependent businesses absorbed the highest tariffs in decades.
+
+At least 717 companies filed for bankruptcy through November, according to data from S&P Global Market Intelligence. Thatâ€™s roughly 14% more than the same 11 months of 2024, and the highest tally since 2010.
+
+Advertisement
+
+Companies cited inflation and interest rates among the factors contributing to their ","industrials bankruptcies, corporate bankruptcies, recession, bankruptcies surged, tariffs decades",0.8126,Positive,The Philadelphia Inquirer,0
+1,5,1,"Rep. Donalds: Trump Economy Boosts Wages, Buying Power",https://www.newsmax.com/newsfront/byron-donalds-economy-donald-trump/2025/12/28/id/1239932/,2025-12-28T19:22:59Z,"Republicans should focus on the positive signs that the economy is improving, including energy costs, inflation, and wage gains, while also working to overhaul the nation's healthcare insurance plans, Rep. Byron Donalds said on Sunday.
+
+""Gas prices are down, energy prices are coming down, inflationâ€™s under control,"" the Florida Republican said in a televised interview.
+
+This leaves families feeling that they have more purchasing power than they did during former President Joe Bidenâ€™s administrat","republicans focus, economy improving, florida republican, federal reserve, republican running",0.93,Positive,Newsmax,0
+4,16,2,Trumpâ€™s penny elimination creates cash transaction dilemma for retailers,https://www.pennlive.com/nation-world/2025/12/trumps-penny-elimination-creates-cash-transaction-dilemma-for-retailers.html,2025-12-29T01:47:30Z,"Treasurer of the United States Brandon Beach holds the last penny stamped at the US Mint on Nov. 12, 2025, in Philadelphia, Pennsylvania. Beach pressed the final pennies at an event held at the facility. The pennies pressed bear a special 'Omega' and will not be put in circulation, but will be auctioned off. (Matthew Hatcher/Getty Images/TNS) TNS
+
+By Kevin Hardy, Stateline.org (TNS)
+
+As pennies vanish from the American landscape, many businesses are clamoring for federal guidance on how to handl","stores pennies, pennies shortages, penny shortages, cents penny, shortages pennies",0.775,Positive,Mechanicsburg Patriot News ,0
+4,16,1,Atlantaâ€™s Carter Center plowing ahead despite federal foreign aid cuts,https://www.ajc.com/news/2025/12/atlantas-carter-center-plowing-ahead-despite-federal-foreign-aid-cuts/,2025-12-29T10:00:00Z,"Paige Alexander, CEO of the Atlanta-based Carter Center, stands in front of a series of Andy Warhol portraits of former President Jimmy Carter on Friday, Dec. 12, 2025. (Natrice Miller/AJC)
+
+Carter Center CEO Paige Alexander remembers her Atlanta nonprofit was still grieving the loss of its namesake at the beginning of this year when it was faced with a new challenge to its mission of advancing health, human rights and peace around the world.
+
+Former President Jimmy Carter, the only Georgian eve","carter georgian, ceo atlanta, jimmy carter, carter, alexander ceo",-0.4588,Negative,The Atlanta Journal-Constitution,0
+3,14,10,Exposed: Internal Hamas Writings Reveal Strategy to Hide True Agenda While Appealing to Western Media,https://www.breitbart.com/middle-east/2025/12/29/exposed-internal-hamas-writings-reveal-strategy-hide-true-agenda-while-appealing-western-media/,2025-12-29T10:48:30Z,"Hamas instructed its spokesmen to conceal the groupâ€™s true ideology from Western audiences, according to a newly published intelligence analysis based on internal Arabic-only documents recovered during the Gaza war â€” a strategy that contrasts sharply with senior terrorist leadersâ€™ past public rhetoric openly hostile to both Israel and the Christian West.
+
+The findings were published Sunday by the Meir Amit Intelligence and Terrorism Information Center (ITIC), which reviewed books, speeches, and ","hamas leadership, hamas image, hamas instructed, contrast hamas, hamas guide",-0.7906,Negative,Breitbart News Network,0
+3,14,9,Exposed: Internal Hamas Writings Reveal Strategy to Hide True Agenda While Appealing to Western Media,https://www.breitbart.com/politics/2025/12/29/exposed-internal-hamas-writings-reveal-strategy-hide-true-agenda-while-appealing-western-media/,2025-12-29T10:48:30Z,"Hamas instructed its spokesmen to conceal the groupâ€™s true ideology from Western audiences, according to a newly published intelligence analysis based on internal Arabic-only documents recovered during the Gaza war â€” a strategy that contrasts sharply with senior terrorist leadersâ€™ past public rhetoric openly hostile to both Israel and the Christian West.
+
+The findings were published Sunday by the Meir Amit Intelligence and Terrorism Information Center (ITIC), which reviewed books, speeches, and ","hamas leadership, hamas image, hamas instructed, contrast hamas, hamas guide",-0.7906,Negative,Breitbart News Network,0
+12,39,2,Licensing-to-earn protocol turns intellectual property rights into RWAs,https://cointelegraph.com/news/licensing-to-earn-protocol-turns-intellectual-property-rights-into-rwas,2025-12-29T12:53:49Z,"Sponsored Content
+
+Disclaimer. This content is part of a paid partnership. The text below is a sponsored article that is not part of Cointelegraph.com editorial content. The material is written by our advertorial team and has undergone editorial review to ensure clarity and relevance, it may not reflect the views and opinions of Cointelegraph.com. Readers are encouraged to conduct their own research before taking any actions related to the company. Disclosure.
+
+BeatSwap, a full-stack infrastruct","platform royalties, intellectual property, royalties, receive royalties, value royalties",0.8779,Positive,Cointelegraph,0
+12,39,1,"Crypto winter looms in 2026, but Cantor sees institutional growth and onchain shifts",https://www.coindesk.com/markets/2025/12/29/crypto-winter-looms-in-2026-but-cantor-sees-institutional-growth-and-onchain-shifts,2025-12-29T15:38:24Z,"Bitcoin BTC $ 88,521.85 could be heading into a prolonged downturn, according to Cantor Fitzgerald, but that is likely to be a prelude to the crypto industry entering a more stable, institutionally driven phase.
+
+Markets are probably in the early phase of a crypto winter, echoing bitcoinâ€™s historical four-year cycle, according to a year-end report by analyst Brett Knoblauch. Bitcoin is roughly 85 days past its peak, and Knoblauch suggests prices could remain under pressure for months, possibly e","bitcoin roughly, bitcoin price, crypto markets, price performance, token prices",0.5483,Positive,CoinDesk,0
+1,4,1,More than 700 US companies went bankrupt in 2025 - a 14% jump from last year,https://nypost.com/2025/12/29/business/more-than-700-us-companies-went-bankrupt-in-2025-a-14-jump-from-last-year/,2025-12-29T18:02:04Z,"Corporate bankruptcies are reaching levels not seen since the Great Recession â€” with inflation, high interest rates and punishing tariffs pushing hundreds of companies over the edge in 2025, according to a new report.
+
+At least 717 US companies filed for bankruptcy through November, according to S&P Global Market Intelligence, a 14% jump from the same period last year and the highest total since 2010.
+
+Among large-scale companies that went belly-up this past year were pharmacy chain Rite Aid, th","corporate bankruptcies, rates bankruptcy, bankruptcies involving, bankruptcy, bankruptcies reaching",0.25,Positive,New York Post,0
+3,14,8,Hamas confirms its spokesman was killed in Israeli strike in August,https://apnews.com/article/israel-hamas-gaza-palestinians-war-news-29-12-2025-856980762ef24ba0ab2d40de624d362e,2025-12-29T18:05:07Z,"Add AP News as your preferred source to see more of our stories on Google.
+
+Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share
+
+BEIRUT (AP) â€” Hamas on Monday confirmed that its longtime spokesman was killed following an Israeli strike in August in war-torn Gaza, the first time the Palestinian militant group publicly acknowledged the death of one of its more prominent figures.
+
+The confirmation comes months after Israel said on Aug. 31 that its ","palestinian militant, trump israeli, palestinian death, hamas led, hamas threatening",-0.9023,Negative,The Associated Press,0
+3,14,7,Israel-backed militias tout themselves as part of Gaza's post-war solution,https://www.latimes.com/world-nation/story/2025-12-29/israel-backed-militias-tout-themselves-as-part-of-gazas-post-war-solution,2025-12-29T18:29:18Z,"Palestinians look over makeshift tents of a camp for displaced people, set up in an area of Gaza City, on Monday.
+
+This is read by an automated voice. Please report any issues or inconsistencies here .
+
+When Israel and Hamas signed a ceasefire earlier this year, it brought into question the fate of militias Israel cultivated during the devastating two-year war as an alternative ruling force in Gaza. Many expected that Hamas â€” still the dominant force in the Strip â€” would hunt them down.
+
+Instead","militias gaza, militias israel, force gaza, israeli forces, gaza hamas",-0.7269,Negative,Los Angeles Times,0
+3,14,6,Hamas says its longtime spokesman was killed following an Israeli strike in August,https://wtop.com/world/2025/12/hamas-says-its-longtime-spokesman-was-killed-following-an-israeli-strike-in-august/,2025-12-29T19:16:07Z,"BEIRUT (AP) â€” Hamas on Monday confirmed that its longtime spokesman was killed following an Israeli strike in August inâ€¦
+
+BEIRUT (AP) â€” Hamas on Monday confirmed that its longtime spokesman was killed following an Israeli strike in August in war-torn Gaza, the first time the Palestinian militant group publicly acknowledged the death of one of its more prominent figures.
+
+The confirmation comes months after Israel said on Aug. 31 that its forces had killed the militant groupâ€™s spokesman Hudhayfa ","trump israeli, palestinian militant, hamas threatening, palestinian death, hamas led",-0.9745,Negative,WTOP,0
+3,14,5,Trump welcomes Netanyahu for talks on ending Gaza war,https://qctimes.com/news/nation-world/government-politics/article_03dcf8f3-0e95-5d4e-b8aa-61dc48112eb7.html,2025-12-29T20:30:00Z,State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington Washington D.C. West Virginia Wisconsin Wyoming Puerto,"territories canada, states, alabama alaska, states micronesia, hawaii idaho",-0.296,Negative,Davenport Quad-City Times,0
+3,14,3,"At Gazaâ€™s only animal shelter, workers share what food they have with hungry dogs, cats",https://www.nbcchicago.com/news/national-international/gaza-sulala-animal-rescue-shelter/3869033/,2025-12-29T20:40:40Z,"A humble shelter operating out of a tent remains the last beacon of hope for the injured and hungry animal population in war-ravaged Gaza, even as its workers and volunteers face their own impossible conditions.
+
+â€œYou cannot look at a creature that trusts you and eat in front of it without sharing,â€ Saeed Al-Aar, who founded the Sulala Animal Rescue shelter in 2006, told NBC News last month.
+
+Stream NBC 5 for free, 24/7, wherever you are. WATCH HERE WATCH HERE
+
+Despite bombs raining down and a l","sheltering animals, veterinarians gaza, gaza animal, shelter operating, rescue shelter",0.9337,Positive,NBC 5 Chicago,0
+3,14,4,"At Gazaâ€™s only animal shelter, workers share what food they have with hungry dogs, cats",https://www.nbcboston.com/news/national-international/gaza-sulala-animal-rescue-shelter/3868847/,2025-12-29T20:40:40Z,"A humble shelter operating out of a tent remains the last beacon of hope for the injured and hungry animal population in war-ravaged Gaza, even as its workers and volunteers face their own impossible conditions.
+
+â€œYou cannot look at a creature that trusts you and eat in front of it without sharing,â€ Saeed Al-Aar, who founded the Sulala Animal Rescue shelter in 2006, told NBC News last month.
+
+Stream NBC10 Boston news for free, 24/7, wherever you are. WATCH HERE WATCH HERE
+
+Despite bombs raining ","sheltering animals, veterinarians gaza, shelter operating, gaza animal, rescue shelter",0.9022,Positive,NBC10 Boston,0
+1,4,1,Port-a-potty company files for bankruptcy to wipe away $2.4 billion in debt,https://www.reuters.com/legal/litigation/port-a-potty-company-files-bankruptcy-wipe-away-24bn-debt-2025-12-29/,2025-12-29T21:41:45Z,,,0,Neutral,Reuters,0
+3,14,2,Netanyahu War Cabinet Determined to Turn Gaza into Palestinian Auschwitz,https://www.activistpost.com/netanyahu-war-cabinet-determined-to-turn-gaza-into-palestinian-auschwitz/,2025-12-29T23:00:00Z,"Gaza â€˜Peace Missionâ€™ is a Classic False Flag Political Deception
+
+There is a well established background to the cold brutality enacted by Israeli Zionist fundamentalists on Palestinians and other Middle Eastern Countries and cultures, which so long as it endures, makes any chance of peace in this region well neigh impossible.
+
+The Jewish fundamentalist mentality is based upon Talmudic prophecy concerning the fulfillment of Jewish supremacy throughout the world.
+
+Zionism connects back into an anc","gaza genocide, gaza holocaust, fundamentalists palestinians, destruction gaza, genocide netanyahu",-0.128,Negative,Activist Post,0
+3,14,1,Hamas leaders dead: Five confirmed killed including al-Sinwar's brother,https://www.foxnews.com/world/hamas-confirms-five-leaders-killed-including-masked-spokesperson-major-blow-terror-group,2025-12-30T01:15:08Z,,,0,Neutral,Fox News,0
+3,14,8,"After two years of war, some Israelis are moving to the Gaza border while others are refusing. Hereâ€™s why",https://abc17news.com/news/national-world/cnn-world/2025/12/29/after-two-years-of-war-some-israelis-are-moving-to-the-gaza-border-while-others-are-refusing-heres-why/,2025-12-30T05:00:59Z,"By Nadeen Ebrahim, CNN
+
+(CNN) â€” Before the horrors of October 7, Aya Shahar never considered leaving her busy life in the bustling metropolis of Tel Aviv and moving south to an agricultural life in a kibbutz near the Gaza border.
+
+â€œIt wasnâ€™t the future I planned for myself,â€ Shahar told CNN.
+
+But after Hamas-led militants stormed through border fence in 2023, killing more than 1,200 in Israel and taking more than 250 people hostage, Shahar felt a need to help rebuild the kibbutzim that were rava","gaza kibbutzim, attacks kibbutz, israel kibbutz, kibbutz, life kibbutz",-0.8481,Negative,ABC17News.com,0
+3,14,6,"After two years of war, some Israelis are moving to the Gaza border while others are refusing. Hereâ€™s why",https://edition.cnn.com/2025/12/30/middleeast/israel-moving-to-the-gaza-border-heres-why-intl,2025-12-30T05:00:59Z,"Before the horrors of October 7, Aya Shahar never considered leaving her busy life in the bustling metropolis of Tel Aviv and moving south to an agricultural life in a kibbutz near the Gaza border.
+
+â€œIt wasnâ€™t the future I planned for myself,â€ Shahar told CNN.
+
+But after Hamas-led militants stormed through border fence in 2023, killing more than 1,200 in Israel and taking more than 250 people hostage, Shahar felt a need to help rebuild the kibbutzim that were ravaged and subsequently emptied in ","militants kibbutz, attacks kibbutz, attack kibbutz, gaza kibbutzim, life kibbutz",-0.882,Negative,Cable News Network,0
+3,14,7,"After two years of war, some Israelis are moving to the Gaza border while others are refusing. Hereâ€™s why",https://krdo.com/news/2025/12/29/after-two-years-of-war-some-israelis-are-moving-to-the-gaza-border-while-others-are-refusing-heres-why/,2025-12-30T05:00:59Z,"By Nadeen Ebrahim, CNN
+
+(CNN) â€” Before the horrors of October 7, Aya Shahar never considered leaving her busy life in the bustling metropolis of Tel Aviv and moving south to an agricultural life in a kibbutz near the Gaza border.
+
+â€œIt wasnâ€™t the future I planned for myself,â€ Shahar told CNN.
+
+But after Hamas-led militants stormed through border fence in 2023, killing more than 1,200 in Israel and taking more than 250 people hostage, Shahar felt a need to help rebuild the kibbutzim that were rava","gaza kibbutzim, attacks kibbutz, israel kibbutz, kibbutz, life kibbutz",-0.8481,Negative,KRDO,0
+5,21,5,Saudi-Led Coalition Hits Weapons in Yemen Coming From UAE Port,https://www.bloomberg.com/news/articles/2025-12-30/saudi-led-coalition-hits-weapons-in-yemen-coming-from-uae-port,2025-12-30T05:26:01Z,"Saudi Arabia told the United Arab Emirates to withdraw its forces from Yemen and halt support for armed groups there, escalating tensions between the oil-rich allies over the conflict in the divided nation.
+
+In a public rebuke of the UAEâ€™s recent role in Yemen, Saudi Arabia accused Abu Dhabi of â€œpressuringâ€ a separatist group in the south of the country to launch military operations near the kingdomâ€™s border. Riyadhâ€™s national security is a â€œred line,â€ according to a statement by the foreign min","forces yemen, yemen saudi, role yemen, yemen halt, yemen",-0.296,Negative,Bloomberg,0
+5,21,4,Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region,https://wtop.com/world/2025/12/escalation-in-yemen-threatens-to-reignite-civil-war-and-create-wider-tensions-in-gulf-region/,2025-12-30T08:59:01Z,"DOHA, Qatar (AP) â€” Saudi Arabia bombed Yemenâ€™s port city of Mukalla on Tuesday, targeting a shipment of weapons fromâ€¦
+
+DOHA, Qatar (AP) â€” Saudi Arabia bombed Yemenâ€™s port city of Mukalla on Tuesday, targeting a shipment of weapons from the United Arab Emirates for separatist forces â€” a significant move in a country located along a key international trade route that threatens to bring new risks to the Persian Gulf region. The UAE later said it would withdraw its forces from Yemen.
+
+The secessioni","yemen conflict, bombed yemen, yemen war, war yemen, control yemen",-0.9186,Negative,WTOP,0
+3,14,5,Israel-backed Gaza militias tout themselves as part of any post-conflict solution,https://www.courant.com/2025/12/30/israel-backed-gaza-militias-tout-themselves-as-part-of-any-post-conflict-solution/,2025-12-30T12:15:49Z,"By Nabih Bulos, Los Angeles Times
+
+AMMAN, Jordan â€” When Israel and Hamas signed a ceasefire earlier this year, it brought into question the fate of militias Israel cultivated during the devastating two-year war as an alternative ruling force in Gaza. Many expected that Hamas â€” still the dominant force in the Strip â€” would hunt them down.
+
+Instead, Israel has shifted the militias to the half of Gaza from which it has yet to withdraw, east of the so-called Yellow Line, the military boundary that d","militias gaza, militias israel, force gaza, israeli forces, gaza hamas",-0.8126,Negative,Hartford Courant,0
+3,11,1,The US did not avert WWIII: Netanyahu continues to pull Trump into a broader war with Iran,https://www.naturalnews.com/2025-12-30-netanyahu-continues-to-pull-trump-into-a-broader-war-with-iran.html,2025-12-30T13:57:42Z,"The US did not avert WWIII: Netanyahu continues to pull Trump into a broader war with Iran
+
+As the world watches with bated breath, a dangerous escalation of Middle East war is unfolding behind the gilded doors of Mar-a-Lago. Israeli Prime Minister Benjamin Netanyahuâ€™s scheduled meeting with President Donald Trump is more than a routine consultation between allies; it is the escalation of war talks - a potential tipping point toward a catastrophic regional war with Iran.
+
+Earlier in the year, th","war netanyahu, netanyahu advance, threat netanyahu, netanyahu planning, wars netanyahu",-0.977,Negative,Natural News,0
+3,14,4,Spain exempts Airbus from Israeli tech ban,https://www.al-monitor.com/originals/2025/12/spain-exempts-airbus-israeli-tech-ban,2025-12-30T14:10:15Z,"MADRID, Dec 30 (Reuters) - Spain has granted Airbus exceptional permission to produce aircraft and drones using Israeli technology at its Spanish plants even though it banned military and dual-use products from Israel two months ago over its war in Gaza.
+
+Approved last Tuesday by the cabinet and defended by several ministers this week, the exemption reflects the pressure from companies and domestic interests that some of Europe's toughest critics of Israel's recent war have faced as they attempt","gaza banning, sanctions spain, products israel, gaza approved, israel imports",-0.9231,Negative,Al-Monitor,0
+3,14,3,Spain exempts Airbus from Israeli tech ban,https://www.reuters.com/business/aerospace-defense/spain-exempts-airbus-israeli-tech-ban-2025-12-30/,2025-12-30T14:10:35Z,,,0,Neutral,Reuters,0
+5,20,1,A war within a war: Yemen's latest conflict,https://www.al-monitor.com/originals/2025/12/war-within-war-yemens-latest-conflict,2025-12-30T14:27:45Z,"Yemen has been at war since Iran-backed Houthi rebels ousted the government in 2014, triggering a Saudi-led military intervention, but a new internal conflict has been brewing in recent weeks.
+
+The face-off involves rival armed factions loosely grouped under the government but separately backed by the United Arab Emirates and Saudi Arabia.
+
+The UAE on Tuesday said it was pulling its remaining forces out of Yemen, following a Saudi demand to withdraw within 24 hours as tensions escalate over a sw","yemen following, yemen control, forces yemen, yemen stc, yemeni military",-0.8957,Negative,Al-Monitor,0
+3,12,1,Leaders from Europe and Canada discuss U.S.-led peace efforts as Russia-Ukraine tensions spike,https://www.latimes.com/world-nation/story/2025-12-30/leaders-from-europe-canada-discuss-u-s-led-peace-efforts-as-russia-ukraine-tensions-spike,2025-12-30T15:19:03Z,"Ukrainian recruits take part in drills at a training ground in Ukraineâ€™s Zaporizhzhia region on Dec. 29, 2025.
+
+This is read by an automated voice. Please report any issues or inconsistencies here .
+
+Leaders from Europe and Canada held talks Tuesday on U.S.-led peace efforts to end the nearly four-year war between Russia and Ukraine, as Moscow and Kyiv sparred over Russian claims, denied by Ukraine, of a mass drone attack on a lakeside residence used by President Vladimir Putin.
+
+The virtual mee","meet ukraine, talks zelensky, ukrainian president, ukraine moscow, attack ukraine",-0.5106,Negative,Los Angeles Times,0
+5,21,3,Escalation in Yemen threatens to reignite civil war and heighten Gulf region tensions,https://www.pbs.org/newshour/world/escalation-in-yemen-threatens-to-reignite-civil-war-and-heighten-gulf-region-tensions,2025-12-30T15:51:35Z,"The secessionist Southern Transitional Council, STC, a group backed by the United Arab Emirates, this month seized most of the the provinces of Hadramout and Mahra, including oil facilities.
+
+DOHA, Qatar (AP) â€” Saudi Arabia bombed Yemen's port city of Mukalla on Tuesday, targeting a shipment of weapons from the United Arab Emirates for separatist forces â€” a significant move in a country located along a key international trade route that threatens to bring new risks to the Persian Gulf region. Th","yemen conflict, war yemen, yemen war, control yemen, yemen brutal",-0.8519,Negative,PBS News,0
+3,14,5,Hamas Confirms Deaths of Five Leaders During Gaza War,https://www.breitbart.com/national-security/2025/12/30/hamas-confirms-deaths-of-five-leaders-during-gaza-war/,2025-12-30T16:24:24Z,"The Palestinian terrorist organization Hamas released a statement on Monday confirming that five of its senior leaders were killed during the Gaza war, including â€œmasked spokesmanâ€ Abu Obeida and Mohammed al-Sinwar, the brother of former top leader Yahya al-Sinwar.
+
+The statement on Monday was delivered by the new masked spokesman for the terrorist gang, who said he has â€œinheritedâ€ the name of Abu Obeida from his deceased predecessor.
+
+Abu Obeida is a pseudonym that means â€œfather of the worshipp","killed gaza, hamas founder, killed israeli, palestinian terrorist, member hamas",-0.9716,Negative,Breitbart News Network,0
+3,14,2,Hamas Confirms Deaths of Five Leaders During Gaza War,https://www.breitbart.com/middle-east/2025/12/30/hamas-confirms-deaths-of-five-leaders-during-gaza-war/,2025-12-30T16:24:24Z,"The Palestinian terrorist organization Hamas released a statement on Monday confirming that five of its senior leaders were killed during the Gaza war, including â€œmasked spokesmanâ€ Abu Obeida and Mohammed al-Sinwar, the brother of former top leader Yahya al-Sinwar.
+
+The statement on Monday was delivered by the new masked spokesman for the terrorist gang, who said he has â€œinheritedâ€ the name of Abu Obeida from his deceased predecessor.
+
+Abu Obeida is a pseudonym that means â€œfather of the worshipp","killed gaza, hamas founder, killed israeli, palestinian terrorist, member hamas",-0.9716,Negative,Breitbart News Network,0
+5,21,2,Escalation in Yemen threatens to reignite civil war and create wider tensions in Gulf region,https://www.latimes.com/world-nation/story/2025-12-30/escalation-in-yemen-threatens-to-reignite-civil-war-create-wider-tensions-in-gulf-region,2025-12-30T16:45:42Z,"This frame grab from video broadcast by Saudi state television on Tuesday shows what the kingdom describes as a shipment of weapons and armored vehicles coming from the United Arab Emirates at Mukalla, Yemen.
+
+This is read by an automated voice. Please report any issues or inconsistencies here .
+
+Saudi Arabia bombed Yemenâ€™s port city of Mukalla on Tuesday, targeting a shipment of weapons from the United Arab Emirates for separatist forces â€” a significant move in a country located along a key int","yemen stc, yemen conflict, control yemen, forces yemen, sides yemen",-0.6369,Negative,Los Angeles Times,0
+5,21,1,"Escalation in Yemen threatens to reignite civil war, widen tensions in Gulf : NPR",https://www.npr.org/2025/12/30/g-s1-103991/yemen-conflict,2025-12-30T16:48:50Z,"An escalation in Yemen threatens to reignite civil war and widen tensions in the Gulf
+
+toggle caption Ted Shaffrey/AP
+
+DOHA, Qatar â€” Saudi Arabia bombed Yemen's port city of Mukalla on Tuesday, targeting a shipment of weapons from the United Arab Emirates for separatist forces â€” a significant move in a country located along a key international trade route that threatens to bring new risks to the Persian Gulf region. The UAE later said it would withdraw its forces from Yemen.
+
+The secessionist So","yemen conflict, control yemen, war yemen, yemen war, yemen stc",-0.9657,Negative,NPR,0
+1,4,2,"The Dollar And The ""New"" Regime At The Federal Reserve",https://seekingalpha.com/article/4856419-the-dollar-and-the-new-regime-at-the-federal-reserve,2025-12-30T17:32:30Z,,,0,Neutral,Seeking Alpha,0
+3,14,1,"Netanyahu says new Gaza government â€˜possibleâ€™ in 2026, â€˜if you disarm Hamasâ€™",https://nypost.com/2025/12/30/us-news/benjamin-netanyahu-says-new-gaza-government-possible-in-2026-if-you-disarm-hamas/,2025-12-30T19:13:13Z,"Israeli Prime Minister Benjamin Netanyahu has said that a new government could be established in the Gaza Strip sometime next year â€” provided the Hamas terror group surrenders its weapons and is made to â€œvanish.â€
+
+â€œNo oneâ€™s going to come in there if Hamas stays armed and theyâ€™ll put a bullet right through the back of their head of, you know, anyone of any potential new government,â€ Netanyahu told Fox Newsâ€™ â€œSpecial Reportâ€ in a sitdown set to air Tuesday evening.
+
+â€œEverybody understands that,â€ t","trump gaza, negotiate hamas, gaza fate, hamas job, fate hamas",-0.743,Negative,New York Post,0
+4,16,1,Top DOJ Officials Possibly Involved in Abrego Garcia Prosecution,https://www.bloomberg.com/news/articles/2025-12-30/top-doj-officials-possibly-involved-in-abrego-garcia-prosecution,2025-12-30T21:49:26Z,,,0,Neutral,Bloomberg,0
+3,14,1,Why Trumpâ€™s Gaza Peace Plan Is Stalled at a Fragile Truce,https://www.bloomberg.com/news/articles/2025-12-31/why-trump-s-gaza-peace-plan-is-stalled-at-a-fragile-truce,2025-12-31T13:03:21Z,,,0,Neutral,Bloomberg,0
+5,21,1,Oman says foreign minister met Saudi counterpart to discuss Yemen,https://www.al-monitor.com/originals/2025/12/oman-says-foreign-minister-met-saudi-counterpart-discuss-yemen,2025-12-31T13:58:01Z,"DUBAI, Dec 31 (Reuters) - Oman's foreign minister met his Saudi counterpart in Riyadh on Wednesday to discuss finding a political solution to the crisis in Yemen, Oman's Foreign Ministry said.
+
+The meeting came a day after a Saudi-led strike on Yemen's southern port of Mukalla, which raised tensions between Riyadh and the United Arab Emirates.
+
+In recent weeks, a Saudi-led coalition has clashed with UAE-backed southern separatists in Yemen. The UAE has said it is ending its remaining military mi","yemen uae, clashed uae, yemen oman, crisis yemen, tensions riyadh",-0.4939,Negative,Al-Monitor,0
+3,11,2,Factbox-UAE foreign policy in spotlight after Yemen escalation,https://www.al-monitor.com/originals/2025/12/factbox-uae-foreign-policy-spotlight-after-yemen-escalation,2025-12-31T14:29:14Z,"By Yousef Saba
 
 DUBAI, Dec 31 - The United Arab Emirates has pursued an assertive foreign policy and carved its own sphere of influence across the Middle East and Africa, a strategy in the spotlight after a rare military escalation with Saudi Arabia in Yemen this week.
 
 Abu Dhabi has used alliances with states or proxies, military intervention and financial support mainly to counter what it views as the destabilising threat of political Islam, specifically from groups linked to the Muslim Brothe","uae involvement, yemen uae, uae distrusts, uae continues, allow uae",0.2732,Positive,Al-Monitor,0
-3,14,1,Why Trump’s Gaza Peace Plan Is Struggling to Reach Phase 2,https://www.bloomberg.com/news/articles/2025-12-31/why-trump-s-gaza-peace-plan-is-stalled-at-a-fragile-truce,2025-12-31 13:03:21+00:00,"In presenting a 20-point plan for the Gaza Strip in September, US President Donald Trump promised more than an end to the war between Israel and Hamas. He proposed a remaking of the territory into what he called New Gaza. The aim was not only to improve life for its residents but to ensure such a conflagration would not recur.
+3,11,1,UAE foreign policy in spotlight after Yemen escalation,https://www.reuters.com/world/middle-east/uae-foreign-policy-spotlight-after-yemen-escalation-2025-12-31/,2025-12-31T14:29:43Z,,,0,Neutral,Reuters,0
+3,14,4,Israel confirms ban on 37 NGOs in Gaza,https://www.al-monitor.com/originals/2026/01/israel-confirms-ban-37-ngos-gaza,2026-01-01T10:16:45Z,"Israel on Thursday said 37 humanitarian agencies supplying aid in Gaza had not met a deadline to meet ""security and transparency standards"", and would be banned from the territory, despite an international outcry.
 
-While the fighting in Gaza has generally stopped, there’s been little progress toward the broader, so-called Phase 2 goals of the plan. Hamas formally agreed only to the ","plan gaza, plan hamas, hamas proposed, gaza aim, fighting gaza",0.5585,Positive,Bloomberg,0
-3,14,9,Netanyahu War Cabinet Determined to Turn Gaza into Palestinian Auschwitz,https://www.activistpost.com/netanyahu-war-cabinet-determined-to-turn-gaza-into-palestinian-auschwitz/,2025-12-31 01:00:00+00:00,"Gaza ‘Peace Mission’ is a Classic False Flag Political Deception
+The international NGOs, which had been ordered to disclose detailed information on their Palestinian staff, will now be required to cease operations by March 1.
 
-There is a well established background to the cold brutality enacted by Israeli Zionist fundamentalists on Palestinians and other Middle Eastern Countries and cultures, which so long as it endures, will continue to be the prime driver of conflict in the region.
+The United Nations has warned that this will exacerbate the humanitarian crisis in the war-ravaged Palestinian territory.
 
-It is a story of the theft of land and resources from the indigenous Palestinian people – and the ruthless suppression of any who dare to resist the occupation.
+","humanitarian agencies, palestinian ngo, humanitarian organisations, refugee agency, palestinian staff",-0.7094,Negative,Al-Monitor,0
+3,14,5,Israel says it 'will enforce' ban on 37 NGOs in Gaza,https://www.al-monitor.com/originals/2026/01/israel-says-it-will-enforce-ban-37-ngos-gaza,2026-01-01T10:16:45Z,"Israel on Thursday said 37 humanitarian agencies supplying aid in Gaza had not met a deadline to meet ""security and transparency standards"", and would be banned from the territory, despite an international outcry.
 
-It is a story of a ","gaza peace, false flag, peace mission, gaza auschwitz, war cabinet",-0.9623,Negative,Activist Post,0
-3,12,1,NATO chief warns Russia is 'preparing for a major war',https://www.reuters.com/world/europe/nato-chief-warns-russia-is-preparing-major-war-2025-12-30/,2025-12-30 17:20:32+00:00,,,0.0,Neutral,Reuters,0
-3,12,2,NATO chief warns Russia is 'preparing for a major war',https://www.al-monitor.com/originals/2025/12/nato-chief-warns-russia-preparing-major-war,2025-12-30 17:20:04+00:00,"By John Irish
+The international NGOs, which had been ordered to disclose detailed information on their Palestinian staff, will now be required to cease operations by March 1.
 
-BRUSSELS, Dec 30 (Reuters) - NATO Secretary-General Mark Rutte warned on Monday that Russia is preparing for a major war, and said the alliance must be ready for it.
+The United Nations has warned that this will exacerbate the humanitarian crisis in the war-ravaged Palestinian territory.
 
-Rutte, speaking in Brussels, said NATO must build up its conventional forces and industrial base to match the challenge posed by Moscow, which he said was planning for a long-term confrontation with the West.
+","humanitarian agencies, palestinian ngo, humanitarian organisations, refugee agency, palestinian staff",-0.7094,Negative,Al-Monitor,0
+3,14,3,Thousands stage pro-Gaza rally in Istanbul,https://www.al-monitor.com/originals/2026/01/thousands-stage-pro-gaza-rally-istanbul,2026-01-01T10:37:47Z,"Thousands joined a New Year's Day rally for Gaza in Istanbul Thursday, waving Palestinian and Turkish flags and calling for an end to the violence in the tiny war-torn territory.
 
-""Russia is preparing for a major war,"" Rutte said. ""We must be ready for it.""
+Demonstrators gathered in freezing temperatures under cloudless blue skies to march to the city's Galata Bridge for a rally under the slogan: ""We won't remain silent, we wonâ€™t forget Palestine,"" an AFP reporter at the scene said.
 
-Russia has repeatedly denied any intention to attack NATO, but the alliance has boosted its defences in response to Russia's invasion of Ukraine in 2022.
+More than 400 civil society organisations were present at the rally, one of whose organis","rally gaza, palestinian turkish, waving palestinian, march turkey, gaza istanbul",-0.7506,Negative,Al-Monitor,0
+3,14,2,"Republican split on Israel grows wider amid conservative infighting, Gaza war",https://foxbaltimore.com/station/share/republican-split-on-israel-grows-wider-amid-conservative-infighting-gaza-war-donald-trump-jd-vance-tucker-carlson-ben-shapiro-megyn-kelly-steve-bannon,2026-01-01T12:00:01Z,"The Republican Party has historically been more pro-Israel than the Democrats, but over the past year the tide appears to be shifting, whether that be with lawmakers, commentators or younger voters that align with the GOP.
 
-Russia says it is NATO that is on an aggressive course, expanding towards Russia's borders and arming Ukraine.
+Recently during a Hanukkah celebration at the White House, President Donald Trump warned that the Israel lobby was no longer the post powerful in Washington, D.C.
 
-Rutte said NATO had made progress in strengthening its forces, but more was needed.
+""If you go back, 10, 12, 15 years ago, the most, the strongest lobby in Washington was the Jewish lobby, it was ","israel democrats, israel lobby, lobby israel, involvement israel, supporting israel",0.5808,Positive,Baltimore News,0
+3,14,1,"Republican split on Israel grows wider amid conservative infighting, Gaza war",https://wjla.com/news/nation-world/republican-split-on-israel-grows-wider-amid-conservative-infighting-gaza-war-donald-trump-jd-vance-tucker-carlson-ben-shapiro-megyn-kelly-steve-bannon,2026-01-01T12:00:01Z,"The Republican Party has historically been more pro-Israel than the Democrats, but over the past year the tide appears to be shifting, whether that be with lawmakers, commentators or younger voters that align with the GOP.
 
-""We have to go further and faster,"" he said. ""We need to build up our conventional forces and our industrial base to match the challenge.""
+Recently during a Hanukkah celebration at the White House, President Donald Trump warned that the Israel lobby was no longer the post powerful in Washington, D.C.
 
-He said NATO should aim to have 300,000 troops ready to deploy within 30 days, and a total of 500,000 within six months.
+""If you go back, 10, 12, 15 years ago, the most, the strongest lobby in Washington was the Jewish lobby, it was ","israel democrats, israel lobby, lobby israel, involvement israel, supporting israel",0.5808,Positive,WJLA,0
+5,21,1,Yemenâ€™s Aden airport shuts as Saudi-UAE rift deepens,https://www.reuters.com/world/middle-east/yemens-aden-airport-shuts-saudi-uae-rift-deepens-2026-01-01/,2026-01-01T15:14:59Z,,,0,Neutral,Reuters,0
+4,16,1,"Consumer Tech News (Dec 22-26): Trump Ends ""Woke"" Policies at U.S. Universities, FCC Blocks Chinese Drone Competition & More",https://www.benzinga.com/markets/tech/26/01/49660465/consumer-tech-news-dec-22-26-trump-ends-woke-policies-at-u-s-universities-fcc-blocks-chinese-drone-competition-more,2026-01-01T18:51:54Z,"This Holiday season, popular ""Buy Now, Pay Later"" services have accounted for a significant slice of consumer checkouts, even as rising regulatory scrutiny and debt concerns loom over the sector.
 
-Rutte also called for increased defence spending by NATO members, saying the current target of 2% of GDP was not enough.
+Transportation Secretary Sean Duffy has touted the President Donald Trump administrationâ€™s end to â€œwokeâ€ university policies in the U.S.
 
-""Two percent is a floor, not a ceiling,"" he said. ""We need to spend more.""
+Venture capitalist Chamath Palihapitiya issued a stark warning to Silicon Valley this week: the growing ""Stop AI"" movement, championed by figures like Senator Bernie","antitrust, drone industry, apple alleged, antitrust authority, ai companies",0.4539,Positive,Benzinga,0
+1,4,2,Why investors will learn to love government bonds,https://www.reuters.com/commentary/breakingviews/why-investors-will-learn-love-government-bonds-2026-01-02/,2026-01-02T07:00:21Z,,,0,Neutral,Reuters,0
+5,21,1,Evidence mounts of U.S. strike inside Venezuela amid rising tensions,https://www.spokesman.com/stories/2026/jan/02/evidence-mounts-of-us-strike-inside-venezuela-amid/,2026-01-02T08:23:00Z,,,0,Neutral,Spokane Spokesman-Review,0
+3,14,1,FACT FOCUS: Trump says heâ€™s ended eight wars. His numbers are off,https://www.arkansasonline.com/news/2026/jan/02/fact-focus-trump-says-hes-ended-eight-wars-his/,2026-01-02T08:38:00Z,"Let us read it for you. Listen now. Your browser does not support the audio element.
 
-(Reporting by John Irish; editing by Philip Blenkinsop)","nato secretary, rutte nato, nato forces, nato alliance, nato",0.0,Neutral,Al-Monitor,0
-3,12,3,Russia warns of 'unpredictable consequences' if US deploys missiles in Europe,https://www.reuters.com/world/europe/russia-warns-unpredictable-consequences-if-us-deploys-missiles-europe-2025-12-30/,2025-12-30 13:41:30+00:00,,,0.0,Neutral,Reuters,0
-3,12,4,Russia warns of 'unpredictable consequences' if US deploys missiles in Europe,https://www.al-monitor.com/originals/2025/12/russia-warns-unpredictable-consequences-if-us-deploys-missiles-europe,2025-12-30 13:41:02+00:00,"MOSCOW, Dec 30 (Reuters) - Russia warned on Monday of ""unpredictable consequences"" if the United States deploys intermediate-range missiles in Europe, Russian Foreign Ministry spokeswoman Maria Zakharova said.
+U.S. President Donald Trump continues to claim he has ended eight wars this year, but that is exaggerated. His meeting this week with Israeli Prime Minister Benjamin Netanyahu highlights that far more work remains before any declaration of an end to the war in Gaza.
 
-Zakharova said Russia would respond to any such deployment by the U.S. with ""mirror measures"".
-
-The United States said last week it would deploy long-range fire capabilities in Germany in 2026 as part of planning for an enduring stationing of such capabilities.
-
-The U.S. and Germany said in a joint statement that the deployment would include SM-6, Tomahawk cruise missiles and developmental hypersonic weapons.
-
-Russia has said it will respond to the deployment, which it says is a serious threat to its national security.
-
-(Reporting by Dmitry Antonov; Writing by Lucy Papachristou; Editing by Andrew Osborn)","russia warns, us deploys, missiles europe, deploys missiles, russia warned",-0.7096,Negative,Al-Monitor,0
-3,12,5,NATO chief warns Russia is 'preparing for a major war',https://www.reuters.com/world/europe/nato-chief-warns-russia-is-preparing-major-war-2025-12-30/,2025-12-30 13:40:32+00:00,,,0.0,Neutral,Reuters,0
-3,12,6,NATO chief warns Russia is 'preparing for a major war',https://www.al-monitor.com/originals/2025/12/nato-chief-warns-russia-preparing-major-war,2025-12-30 13:40:04+00:00,"By John Irish
-
-BRUSSELS, Dec 30 (Reuters) - NATO Secretary-General Mark Rutte warned on Monday that Russia is preparing for a major war, and said the alliance must be ready for it.
-
-Rutte, speaking in Brussels, said NATO must build up its conventional forces and industrial base to match the challenge posed by Moscow, which he said was planning for a long-term confrontation with the West.
-
-""Russia is preparing for a major war,"" Rutte said. ""We must be ready for it.""
-
-Russia has repeatedly denied any intention to attack NATO, but the alliance has boosted its defences in response to Russia's invasion of Ukraine in 2022.
-
-Russia says it is NATO that is on an aggressive course, expanding towards Russia's borders and arming Ukraine.
-
-Rutte said NATO had made progress in strengthening its forces, but more was needed.
-
-""We have to go further and faster,"" he said. ""We need to build up our conventional forces and our industrial base to match the challenge.""
-
-He said NATO should aim to have 300,000 troops ready to deploy within 30 days, and a total of 500,000 within six months.
-
-Rutte also called for increased defence spending by NATO members, saying the current target of 2% of GDP was not enough.
-
-""Two percent is a floor, not a ceiling,"" he said. ""We need to spend more.""
-
-(Reporting by John Irish; editing by Philip Blenkinsop)","nato secretary, rutte nato, nato forces, nato alliance, nato",0.0,Neutral,Al-Monitor,0
-3,14,10,Israel's Netanyahu says Gaza war will end 'soon',https://www.reuters.com/world/middle-east/israels-netanyahu-says-gaza-war-will-end-soon-2025-12-30/,2025-12-30 11:47:07+00:00,,,0.0,Neutral,Reuters,0
-3,14,11,Israel's Netanyahu says Gaza war will end 'soon',https://www.al-monitor.com/originals/2025/12/israels-netanyahu-says-gaza-war-will-end-soon,2025-12-30 11:46:39+00:00,"JERUSALEM, Dec 30 (Reuters) - Israeli Prime Minister Benjamin Netanyahu said on Monday that the war in Gaza would end ""soon"", but that Israel would continue to occupy the territory for the foreseeable future.
-
-Netanyahu, speaking at a news conference, said Israel would not withdraw from Gaza until it had achieved all its war aims, including the destruction of Hamas' military and governing capabilities.
-
-""The war will end soon, but we will remain in Gaza for the foreseeable future,"" he said.
-
-Netanyahu's comments come as Israel and Hamas are engaged in indirect talks mediated by Qatar and Egypt aimed at reaching a ceasefire agreement.
-
-The war in Gaza began on Oct. 7, 2023, when Hamas militants attacked southern Israel, killing 1,200 people and taking 250 hostages, according to Israeli tallies.
-
-Israel's retaliatory offensive has killed more than 38,000 Palestinians, according to Gaza health authorities.
-
-(Reporting by Maayan Lubell; Editing by Andrew Heavens)","gaza war, war gaza, israel gaza, gaza began, netanyahu gaza",0.0,Neutral,Al-Monitor,0
-1,4,1,"US inflation rate is improving, but I'm still skeptical",https://www.usatoday.com/story/opinion/voices/2026/01/05/economy-inflation-trump-tariffs-jobs-wages/87948539007/,2026-01-05 09:30:49+00:00,"Opinion Forum
-
-USA TODAY
-
-Jan. 5, 2026, 4:30 a.m. ET
-
-This is part two of our Forum feature about what the media is getting wrong when it reports on the economy.
-
-Part two, because you, our readers, had a lot to say.
-
-Specifically, we asked you about what ""affordability"" means, how the economy is affecting you personally and how we, the media, could do a better job of informing you about it.
-
-Judging from your responses, household budgets are definitely top of mind, as is inflation and tariffs.
-","trump tariffs, tariffs impacting, tariffs read, feel tariffs, inflation tariffs",0.5267,Positive,USA TODAY,0
-4,16,1,Atlanta gets $75M in federal funds for revitalization projects,https://www.ajc.com/news/2026/01/atlanta-gets-75m-in-federal-funds-for-revitalization-projects/,2026-01-02 10:00:00+00:00,"Atlanta Mayor Andre Dickens is pushing to extend the life of the eight tax allocation districts in a proposal that has generated debate among the City Council. (Miguel Martinez/AJC)
+Meanwhile, fresh fighting broke out in recent weeks between Thailand and Cambodia, and between Congolese forces and Rwanda-backed rebels. And one ","gaza continues, war gaza, gaza future, aid gaza, gaza hamas",-0.9544,Negative,Arkansas Online,0
+4,16,2,Atlanta gets $75M in federal funds for revitalization projects,https://www.ajc.com/news/2026/01/atlanta-gets-75m-in-federal-funds-for-revitalization-projects/,2026-01-02T10:00:00Z,"Atlanta Mayor Andre Dickens is pushing to extend the life of the eight tax allocation districts in a proposal that has generated debate among the City Council. (Miguel Martinez/AJC)
 
 The award is a record sum for the city under the New Markets Tax Credit program, but it comes with terms.
 
 The award is a record sum for the city under the New Markets Tax Credit program, but it comes with terms.
 
 The U.S. Department of the Treasury recently awarded $75 million to the city of Atlanta for development","atlanta mayor, funding treasury, program funding, atlanta development, tax credit",0.9477,Positive,The Atlanta Journal-Constitution,0
-4,16,2,The economic policies shaping Trump’s return to the White House,https://www.foxnews.com/politics/year-review-economic-policies-shaping-trumps-return-white-house,2026-01-02 12:00:07+00:00,,,0.0,Neutral,Fox News,0
-4,16,3,"Consumer Tech News (Dec 22-26): Trump Ends ""Woke"" Policies at U.S. Universities, FCC Blocks Chinese Drone Competition & More",https://www.benzinga.com/markets/tech/26/01/49660465/consumer-tech-news-dec-22-26-trump-ends-woke-policies-at-u-s-universities-fcc-blocks-chinese-drone-competition-more,2026-01-01 18:51:54+00:00,"This Holiday season, popular ""Buy Now, Pay Later"" services have accounted for a significant slice of consumer checkouts, even as rising regulatory scrutiny and debt concerns loom over the sector.
-
-Transportation Secretary Sean Duffy has touted the President Donald Trump administration’s end to “woke” university policies in the U.S.
-
-Venture capitalist Chamath Palihapitiya issued a stark warning to Silicon Valley this week: the growing ""Stop AI"" movement, championed by figures like Senator Bernie","antitrust, drone industry, apple alleged, antitrust authority, ai companies",0.4539,Positive,Benzinga,0
-4,16,4,Trump says tariffs can eventually replace federal income taxes. Experts disagree,https://apnews.com/article/fact-check-trump-income-tax-eliminate-bc0d35ccee990f5a595b39ef5b93d909,2025-12-03 21:05:49+00:00,"Add AP News as your preferred source to see more of our stories on Google.
-
-Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share
-
-President Donald Trump has long praised tariffs as key to increasing wealth in the United States, idealizing Gilded Age policies that preceded the implementation of a modern federal income tax.
-
-Among the potential benefits, Trump claims, is the ability to replace revenue from federal income taxes with money the U.S. i","taxes tariffs, trump tariffs, revenue tariffs, tariff revenue, tariffs economic",0.9337,Positive,The Associated Press,0
-4,16,5,FACT FOCUS: Trump Says Tariffs Can Eventually Replace Federal Income Taxes. Experts Disagree,https://www.usnews.com/news/us/articles/2025-12-03/fact-focus-trump-says-tariffs-can-eventually-replace-federal-income-taxes-experts-disagree,2025-12-03 21:05:00+00:00,"President Donald Trump has long praised tariffs as key to increasing wealth in the United States, idealizing Gilded Age policies that preceded the implementation of a modern federal income tax.
-
-Among the potential benefits, Trump claims, is the ability to replace revenue from federal income taxes with money the U.S. is taking in from tariffs — a concept he has touted since his 2024 presidential campaign, most recently at a Cabinet meeting Tuesday.
-
-But tariff revenue doesn't even come close to ","trump tariffs, taxes tariffs, revenue tariffs, tariffs economic, tariff revenue",0.7469,Positive,U.S. News & World Report,0
-5,20,1,Factbox-Who is fighting in Yemen?,https://www.al-monitor.com/originals/2026/01/factbox-who-fighting-yemen,2026-01-02 12:06:44+00:00,"By Yousef Saba
+4,16,1,The economic policies shaping Trumpâ€™s return to the White House,https://www.foxnews.com/politics/year-review-economic-policies-shaping-trumps-return-white-house,2026-01-02T12:00:07Z,,,0,Neutral,Fox News,0
+5,20,1,Factbox-Who is fighting in Yemen?,https://www.al-monitor.com/originals/2026/01/factbox-who-fighting-yemen,2026-01-02T12:06:44Z,"By Yousef Saba
 
 DUBAI, Jan 2 (Reuters) - Yemen's more than decade-long civil war has flared up after a United Arab Emirates-backed separatist movement swept through territory in the south, splintering the Saudi-led coalition that was created to fight the Iran-aligned Houthi group.
 
@@ -226,90 +894,443 @@ Below are details of the key factions in the conflict in Yemen, which has caused
 THE HOUTHIS
 
 The Yemeni conflict was triggered when the Houthi movement, formally named A","yemeni conflict, conflict yemen, houthis yemen, yemen war, unified yemen",-0.9169,Negative,Al-Monitor,0
-5,21,1,Evidence mounts of U.S. strike inside Venezuela amid rising tensions,https://www.spokesman.com/stories/2026/jan/02/evidence-mounts-of-us-strike-inside-venezuela-amid/,2026-01-02 08:23:00+00:00,,,0.0,Neutral,Spokane Spokesman-Review,0
-5,21,2,Yemen’s Aden airport shuts as Saudi-UAE rift deepens,https://www.reuters.com/world/middle-east/yemens-aden-airport-shuts-saudi-uae-rift-deepens-2026-01-01/,2026-01-01 15:14:59+00:00,,,0.0,Neutral,Reuters,0
-5,21,3,Iran Warns US To Stay Away From Naval War Drills,https://www.newsweek.com/iran-warns-us-stay-away-naval-war-drills-11160946,2025-12-05 11:59:48+00:00,"The naval arm of Iran's Islamic Revolutionary Guard Corps (IRGC) has issued a direct warning to U.S. warships in its southern waters, telling them to keep away from its ongoing military exercises.
+1,4,1,Gold Sets the Tone for 2026 as Inflation Trades Linger Beneath Volatility,https://www.investing.com/analysis/gold-sets-the-tone-for-2026-as-inflation-trades-linger-beneath-volatility-200672614,2026-01-02T13:24:40Z,"2025 Was a Bad One in Many Ways Except Investment (IMO and Speaking Personally)
 
-The alert comes as Tehran launches a large-scale drill across the Persian Gulf, Strait of Hormuz and Sea of Oman that's designed to showcase its defensive readiness and deterrent capabilities. Officials say the warning is meant to prevent any ""provocations or threats"" to Iran's territorial waters.
+A (and ) lining was, of course, the precious metals sector for we who had anticipated the bull. Gold led, the rest of the precious metals complex, and eventually broader markets, followed.
 
-Ne","warning gulf, alert iran, persian gulf, threats iran, gulf strait",-0.8402,Negative,Newsweek,0
-6,24,1,"Trump's Tariff Plan Could Spark Global Trade War, Economists Warn",https://www.bloomberg.com/news/articles/2025-12-31/trump-s-tariff-plan-could-spark-global-trade-war-economists-warn,2025-12-31 13:03:21+00:00,"President Donald Trump’s plan to impose tariffs on all imports could spark a global trade war, economists warn.
+2026? It Canâ€™t Get Any Worse Socio-Politically, and Pending a Potential Q1/H1 Liquidity Issue, Could Be Just as Good Investment-Wise
 
-The tariffs, which Trump has said could be as high as 60% on Chinese goods and 10% to 20% on imports from other countries, would raise the cost of goods for U.S. consumers and businesses, and could lead to retaliation from trading partners.
+With the Fed already on a regimen and positioned for some form of QE (as it plans to buy short-","fed inflation, recession 2026, renewed inflation, commodity inflation, inflation stagflation",0.5719,Positive,Investing.com,0
+1,4,2,Iran supreme leader says will not yield as protests simmer and US threatens,https://www.al-monitor.com/originals/2026/01/iran-supreme-leader-says-will-not-yield-protests-simmer-and-us-threatens,2026-01-03T11:33:44Z,"DUBAI, Jan 3 (Reuters) - Iran's Supreme Leader Ayatollah Ali Khamenei vowed not to yield after U.S. President Donald Trump threatened to come to the aid of protesters, as rights groups reported a sharp rise in arrests following days of unrest sparked by soaring inflation.
 
-""This could be the start of a global trade war,"" said one economist.
+Speaking in a recorded appearance on television on Saturday, Khamenei said the Islamic Republic ""will not yield to the enemy"" and said rioters should be ""put in their place"".
 
-Trump has said the tariffs are needed to protect U.S. industries and bring manufacturing jobs back to the United States.
+Rights groups say more than 10 people have been ki","protests violence, approach unrest, violence protests, unrest saying, unrest",-0.6167,Negative,Al-Monitor,0
+1,4,1,Iran supreme leader says will not yield as protests simmer and US threatens,https://www.reuters.com/world/middle-east/iran-supreme-leader-says-will-not-yield-protests-simmer-us-threatens-2026-01-03/,2026-01-03T11:34:11Z,,,0,Neutral,Reuters,0
+3,14,1,"After ousting NicolÃ¡s Maduro in Venezuela, Donald Trump commits himself to another foreign policy project",https://www.chicagotribune.com/2026/01/03/maduro-venezuela-trump-foreign-policy-project/,2026-01-03T20:23:50Z,"WASHINGTON â€” President Donald Trump declared Saturdayâ€™s military operation that led to the ouster of NicolÃ¡s Maduro a major success as he offered a vague plan for his administration â€œto runâ€ Venezuela until a transition of power can take place.
 
-But economists say the tariffs would do more harm than good.
-
-(Reporting by John Doe; Editing by Jane Smith)","trump tariffs, tariffs trump, global trade, trade war, tariffs",0.0,Neutral,Bloomberg,0
-7,25,1,Americans Would Send US Forces in Taiwan Strait Crisis: Poll,https://www.newsweek.com/americans-would-send-us-forces-taiwan-strait-crisis-poll-11153167,2025-12-04 08:33:37+00:00,"Taiwan enjoys strong bipartisan support among Americans, with 60 percent now favoring direct military intervention in the event of a Chinese invasion, according to a new poll.
-
-It was among the most striking findings in the latest annual National Defense Survey by the Washington, D.C.-based Reagan Foundation, which reported rising support for maintaining a military edge to deter adversaries.
-
-Why It Matters
-
-Taiwan, a global tech hub and important U.S. trade partner, is a major potential flashpo","taiwan support, defending taiwan, defend taiwan, assistance taiwan, taiwan enjoys",0.8779,Positive,Newsweek,0
-7,27,1,China says working on streamlining rare earth export licenses,https://www.reuters.com/world/china/china-says-working-streamlining-rare-earth-export-licenses-2025-12-04/,2025-12-04 08:50:00+00:00,,,0.0,Neutral,Reuters,0
-7,27,2,EU aims to improve defences against economic threats, such as China export curbs,https://www.reuters.com/world/china/eu-aims-improve-defences-against-economic-threats-such-china-export-curbs-2025-12-03/,2025-12-03 14:10:15+00:00,,,0.0,Neutral,Reuters,0
-2,9,1,War insurance costs spike for ship owners as Black Sea threats grow, sources say,https://www.reuters.com/legal/litigation/war-insurance-costs-spike-ship-owners-black-sea-threats-grow-sources-say-2025-12-04/,2025-12-04 14:59:08+00:00,,,0.0,Neutral,Reuters,0
-2,9,2,War insurance costs spike for ship owners as Black Sea threats grow, sources say,https://www.al-monitor.com/originals/2025/12/war-insurance-costs-spike-ship-owners-black-sea-threats-grow-sources-say,2025-12-04 14:58:41+00:00,"By Jonathan Saul
-
-LONDON, Dec 4 (Reuters) - War insurance costs for ships sailing to the Black Sea have spiked again, with insurers reviewing policies daily as the conflict in Ukraine spills into sea lanes, five shipping and insurance sources said on Thursday.
-
-The Black Sea is crucial for the shipment of grain, oil and oil products. Its waters are shared by Bulgaria, Georgia, Romania and Turkey, as well as Russia and Ukraine.
-
-Turkey's Foreign Minister Hakan Fidan said on Wednesday that attacks","ukraine sea, war insurance, ukraine spills, ukrainian ports, russian ports",-0.9062,Negative,Al-Monitor,0
-1,3,1,"Has the DAT Bubble Already Burst? CoinShares Says In Many Ways, Yes.",https://www.coindesk.com/markets/2025/12/05/has-the-dat-bubble-already-burst-coinshares-says-in-many-ways-yes,2025-12-05 15:30:17+00:00,"Crypto asset management firm CoinShares (CS) said the digital asset treasury (DAT) bubble has largely burst, with some firms that traded at 3x to 10x their market net-asset value (mNAV) in summer 2025 now back to about 1x or below, in a sharp reset for a trade that once priced token treasuries like a growth engine.
-
-The next move hinges on behavior: either falling prices spark a disorderly sell-off, or companies hold their balances and wait for a rebound, CoinShares head of research, James Butte","firm coinshares, crypto asset, speculative treasury, asset treasury, cash market",0.9451,Positive,CoinDesk,0
-5,21,8,Iran Warns US To Stay Away From Naval War Drills,https://www.newsweek.com/iran-warns-us-stay-away-naval-war-drills-11160946,2025-12-05 11:59:48+00:00,"The naval arm of Iran's Islamic Revolutionary Guard Corps (IRGC) has issued a direct warning to U.S. warships in its southern waters, telling them to keep away from its ongoing military exercises.
-
-The alert comes as Tehran launches a large-scale drill across the Persian Gulf, Strait of Hormuz and Sea of Oman that's designed to showcase its defensive readiness and deterrent capabilities. Officials say the warning is meant to prevent any ""provocations or threats"" to Iran's territorial waters.
-
-Ne","warning gulf, alert iran, persian gulf, threats iran, gulf strait",-0.8402,Negative,Newsweek,0
-3,12,6,German parliament backs controversial military service law amid Russian threat,https://www.reuters.com/business/aerospace-defense/german-parliament-backs-controversial-military-service-law-amid-russian-threat-2025-12-05/,2025-12-05 10:28:41+00:00,,,0.0,Neutral,Reuters,0
-3,12,7,emptive strike” threat sparks Russian condemnation amid rising tensions – NaturalNews.com,https://www.naturalnews.com/2025-12-05-nato-officials-threat-sparks-russian-condemnation.html,2025-12-05 04:43:05+00:00,"NATO official’s “pre-emptive strike” threat sparks Russian condemnation amid rising tensions
-
-Russia condemns NATO Admiral Dragone's suggestion of ""pre-emptive strikes"" as reckless escalation, undermining diplomatic efforts amid Ukraine's deep-strike drone attacks on Russian air bases.
-
-Ukraine's audacious strikes—destroying 40+ Russian warplanes, including strategic bombers—have raised fears of Putin's ""extreme"" retaliation, possibly involving nuclear escalation.
-
-NATO accuses Russia of cyberat","nato threat, strike russia, strikes russia, russia cyberattacks, russian cyberattacks",-0.9869,Negative,Natural News,0
-2,9,9,"War insurance costs spike for ship owners as Black Sea threats grow, sources say",https://www.reuters.com/legal/litigation/war-insurance-costs-spike-ship-owners-black-sea-threats-grow-sources-say-2025-12-04/,2025-12-04 14:59:08+00:00,,,0.0,Neutral,Reuters,0
-2,9,10,"War insurance costs spike for ship owners as Black Sea threats grow, sources say",https://www.al-monitor.com/originals/2025/12/war-insurance-costs-spike-ship-owners-black-sea-threats-grow-sources-say,2025-12-04 14:58:41+00:00,"By Jonathan Saul
-
-LONDON, Dec 4 (Reuters) - War insurance costs for ships sailing to the Black Sea have spiked again, with insurers reviewing policies daily as the conflict in Ukraine spills into sea lanes, five shipping and insurance sources said on Thursday.
-
-The Black Sea is crucial for the shipment of grain, oil and oil products. Its waters are shared by Bulgaria, Georgia, Romania and Turkey, as well as Russia and Ukraine.
-
-Turkey's Foreign Minister Hakan Fidan said on Wednesday that attacks","ukraine sea, war insurance, ukraine spills, ukrainian ports, russian ports",-0.9062,Negative,Al-Monitor,0
-7,27,9,China says working on streamlining rare earth export licenses,https://www.reuters.com/world/china/china-says-working-streamlining-rare-earth-export-licenses-2025-12-04/,2025-12-04 08:50:00+00:00,,,0.0,Neutral,Reuters,0
-7,25,1,Americans Would Send US Forces in Taiwan Strait Crisis: Poll,https://www.newsweek.com/americans-would-send-us-forces-taiwan-strait-crisis-poll-11153167,2025-12-04 08:33:37+00:00,"Taiwan enjoys strong bipartisan support among Americans, with 60 percent now favoring direct military intervention in the event of a Chinese invasion, according to a new poll.
-
-It was among the most striking findings in the latest annual National Defense Survey by the Washington, D.C.-based Reagan Foundation, which reported rising support for maintaining a military edge to deter adversaries.
-
-Why It Matters
-
-Taiwan, a global tech hub and important U.S. trade partner, is a major potential flashpo","taiwan support, defending taiwan, defend taiwan, assistance taiwan, taiwan enjoys",0.8779,Positive,Newsweek,0
-4,14,2,Trump says tariffs can eventually replace federal income taxes. Experts disagree,https://apnews.com/article/fact-check-trump-income-tax-eliminate-bc0d35ccee990f5a595b39ef5b93d909,2025-12-03 21:05:49+00:00,"Add AP News as your preferred source to see more of our stories on Google.
-
-Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share
-
-President Donald Trump has long praised tariffs as key to increasing wealth in the United States, idealizing Gilded Age policies that preceded the implementation of a modern federal income tax.
-
-Among the potential benefits, Trump claims, is the ability to replace revenue from federal income taxes with money the U.S. i","taxes tariffs, trump tariffs, revenue tariffs, tariff revenue, tariffs economic",0.9337,Positive,The Associated Press,0
-4,14,3,FACT FOCUS: Trump Says Tariffs Can Eventually Replace Federal Income Taxes. Experts Disagree,https://www.usnews.com/news/us/articles/2025-12-03/fact-focus-trump-says-tariffs-can-eventually-replace-federal-income-taxes-experts-disagree,2025-12-03 21:05:00+00:00,"President Donald Trump has long praised tariffs as key to increasing wealth in the United States, idealizing Gilded Age policies that preceded the implementation of a modern federal income tax.
-
-Among the potential benefits, Trump claims, is the ability to replace revenue from federal income taxes with money the U.S. is taking in from tariffs — a concept he has touted since his 2024 presidential campaign, most recently at a Cabinet meeting Tuesday.
-
-But tariff revenue doesn't even come close to ","trump tariffs, taxes tariffs, revenue tariffs, tariffs economic, tariff revenue",0.7469,Positive,U.S. News & World Report,0
-7,27,10,"EU aims to improve defences against economic threats, such as China export curbs",https://www.reuters.com/world/china/eu-aims-improve-defences-against-economic-threats-such-china-export-curbs-2025-12-03/,2025-12-03 14:10:15+00:00,,,0.0,Neutral,Reuters,0
-3,12,8,Canada will press NATO allies to focus more on Arctic threats,https://www.adn.com/nation-world/2025/12/02/canada-will-press-nato-allies-to-focus-more-on-arctic-threats/,2025-12-03 02:34:20+00:00,"For Subscribers
-
-Military personnel in a hangar during Joint Viking training exercises with Norwegian and NATO forces near Bardufoss, Norway, on Tuesday, March 7, 2023. (Danielle Bochove/Bloomberg)
-
-Canada will raise concerns about NATO’s approach to Arctic threats at a meeting in Brussels on Wednesday, Foreign Minister Anita Anand said.
-
-“We see infrastructure moving further and further north and the geopolitical environment becoming more and more challenging,” Anand said in an interview with B","nato arctic, norwegian nato, arctic threats, concerns nato, concerns arctic",-0.7063,Negative,Anchorage Daily News,0
+While there are no visible signs of a U.S. presence on the ground in Caracas, Trump was demonstrating chutzpah thatâ€™s become the trademark of his foreign policy approach. Itâ€™s one marked by a grand confidence that his will on the international stage is a","trump venezuela, caracas trump, action venezuelan, run venezuela, war venezuela",0.8313,Positive,Chicago Tribune,0
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
