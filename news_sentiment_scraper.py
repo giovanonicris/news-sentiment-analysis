@@ -23,10 +23,8 @@ import json
 
 # GLOBAL CONSTANTS
 SEARCH_DAYS = 7  # look back this many days for news articles
-
-# environment variables
 DEBUG_MODE = os.getenv('DEBUG_MODE', 'false').lower() == 'true'
-MAX_ARTICLES_PER_TERM = int(os.getenv('MAX_ARTICLES_PER_TERM', '20'))
+MAX_ARTICLES_PER_TERM = 10
 MAX_SEARCH_TERMS = 5 if DEBUG_MODE else None  # limit terms in debug for quick testing
 
 # decoding logic - kept from original
@@ -184,7 +182,7 @@ def main():
         sys.exit(1)
 
     # gnews.io API setup
-    api_key = os.getenv('GNEWS_API_KEY')
+    api_key = os.getenv('NEWS_DATA_API_KEY')
     if not api_key:
         print("WARNING: No GNEWS_API_KEY - skipping fetch")
         articles_df = pd.DataFrame(columns=[
@@ -192,7 +190,7 @@ def main():
             'SUMMARY', 'KEYWORDS', 'SENTIMENT_COMPOUND', 'SENTIMENT', 'SOURCE', 'QUALITY_SCORE'
         ])
     else:
-        base_url = "https://gnews.io/api/v4/search"
+        base_url = "https://newsdata.io/api/1/news"
         all_articles = []
 
         # fetch articles for each search term
@@ -210,10 +208,11 @@ def main():
     
             params = {
                 'q': search_term,
-                'lang': 'en',
+                'language': 'en',
                 'country': 'us',
-                'max': MAX_ARTICLES_PER_TERM,
-                'from': from_date_str,  # adds the lookback
+                'size': MAX_ARTICLES_PER_TERM,
+                'from_date': from_date_str,
+                'to_date': dt.date.today().isoformat(),
                 'apikey': api_key
             }
     
@@ -227,14 +226,14 @@ def main():
                     continue
 
                 data = response.json()
-                articles = data.get('articles', [])
+                articles = data.get('results', [])
                 print(f"  found {len(articles)} articles")
 
                 for google_index, item in enumerate(articles, start=1):
-                    url = item['url']
+                    url = item['link']
                     title = item['title']
-                    published_date = item.get('publishedAt', '')
-                    source_name = item['source'].get('name', get_source_name(url))
+                    published_date = item.get('pubDate', '')
+                    source_name = item.get('source_id', get_source_name(url))
 
                     # dedup by url
                     if url.lower().strip() in existing_links:
