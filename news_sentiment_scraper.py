@@ -16,16 +16,37 @@ from urllib.parse import urlparse
 import pandas as pd
 from dateutil import parser
 import sys
-from keybert import KeyBERT
 import argparse
 import os
 import json
+
+# SSL Certificate setup
+def setup_ssl_verification():
+    """Setup SSL verification based on environment"""
+    cert_path = Path(__file__).parent / "combined-certs.pem"
+
+    # Check if running in GitHub Actions
+    if os.getenv('GITHUB_ACTIONS'):
+        print("Running in GitHub Actions - using default SSL verification")
+        return True  # Use default verification
+
+    # Check if corporate cert exists (local FINRA environment)
+    if cert_path.exists():
+        print(f"Using corporate certificate: {cert_path}")
+        return str(cert_path)
+
+    # Fallback - disable verification with warning
+    print("⚠️  No certificate found - SSL verification disabled")
+    import urllib3
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+    return False
 
 # GLOBAL CONSTANTS
 SEARCH_DAYS = 7  # look back this many days for news articles
 DEBUG_MODE = os.getenv('DEBUG_MODE', 'false').lower() == 'true'
 MAX_ARTICLES_PER_TERM = 10
 MAX_SEARCH_TERMS = 5 if DEBUG_MODE else None  # limit terms in debug for quick testing
+VERIFY_SSL = setup_ssl_verification()
 
 # decoding logic - kept from original
 def process_encoded_search_terms(term):
@@ -146,12 +167,23 @@ def main():
     # setup
     session = ScraperSession()
     analyzer = SentimentIntensityAnalyzer()
-    kw_model = KeyBERT()
+
+    # Configure SSL for transformers/huggingface downloads
+    if VERIFY_SSL and VERIFY_SSL != True:
+        os.environ['REQUESTS_CA_BUNDLE'] = VERIFY_SSL
+        os.environ['SSL_CERT_FILE'] = VERIFY_SSL
+        os.environ['CURL_CA_BUNDLE'] = VERIFY_SSL
+
     
     config = Config()
     config.fetch_images = False
     config.memoize_articles = False
     config.request_timeout = 30
+
+    # Set SSL certificate for newspaper library
+    if VERIFY_SSL and VERIFY_SSL != True:  # If using custom cert path
+        os.environ['REQUESTS_CA_BUNDLE'] = VERIFY_SSL
+        os.environ['SSL_CERT_FILE'] = VERIFY_SSL
     
     output_path = setup_output_dir(output_csv)
     existing_links = load_existing_links(output_path)
@@ -164,6 +196,15 @@ def main():
         df['SEARCH_TERMS'] = df['ENCODED_TERMS'].apply(process_encoded_search_terms)
         
         valid_df = df.dropna(subset=['SEARCH_TERMS'])
+        print("\n" + "=" * 50)
+        print("DECODED SEARCH TERMS DEBUG")
+        print("=" * 50)
+        for idx, row in valid_df.iterrows():
+            print(f"Risk ID: {row[risk_id_col]} | Term ID: {row['SEARCH_TERM_ID']}")
+            print(f"  Encoded: {row['ENCODED_TERMS']}")
+            print(f"  Decoded: '{row['SEARCH_TERMS']}'")
+            print(f"  Length: {len(row['SEARCH_TERMS'])} chars")
+            print()
         if valid_df.empty:
             print("ERROR: No valid search terms after decoding!")
             sys.exit(1)
@@ -227,7 +268,7 @@ def main():
                     else:
                         params.pop('page', None)
                     
-                    response = requests.get(base_url, params=params, timeout=30)
+                    response = requests.get(base_url, params=params, timeout=30, verify=VERIFY_SSL)
                     if response.status_code != 200:
                         print(f"  api error {response.status_code}: {response.text}")
                         break
@@ -269,12 +310,16 @@ def main():
                         if article.download_state == 2:  # success
                             article.parse()
                             summary = article.summary if article.summary else (article.text[:500] if article.text else '')
-                            
+
                             if article.keywords:
                                 keywords = ', '.join(article.keywords)
                             else:
-                                kw_list = kw_model.extract_keywords(article.text or '', keyphrase_ngram_range=(1, 2), stop_words='english', top_n=5)
-                                keywords = ', '.join([k[0] for k in kw_list]) if kw_list else ''
+                                # Simple fallback: extract most common words from title
+                                from collections import Counter
+                                import re
+                                words = re.findall(r'\b[a-z]{4,}\b', (article.title or '').lower())
+                                common_words = Counter(words).most_common(5)
+                                keywords = ', '.join([word for word, _ in common_words]) if common_words else ''
                             
                             # sentiment
                             sentiment_text = title + " " + summary
